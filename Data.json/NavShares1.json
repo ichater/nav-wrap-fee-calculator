@@ -1,0 +1,3324 @@
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ca5"),
+	"ASX code" : "ARB",
+	"Category" : "Automobiles & Components",
+	"Listed investment name" : "ARB CORPORATION LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ca6"),
+	"ASX code" : "GUD",
+	"Category" : "Automobiles & Components",
+	"Listed investment name" : "G.U.D. HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ca7"),
+	"ASX code" : "ATL",
+	"Category" : "Automobiles & Components",
+	"Listed investment name" : "APOLLO TOURISM & LEISURE LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ca8"),
+	"ASX code" : "PWH",
+	"Category" : "Automobiles & Components",
+	"Listed investment name" : "PWR HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ca9"),
+	"ASX code" : "SFC",
+	"Category" : "Automobiles & Components",
+	"Listed investment name" : "SCHAFFER CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1caa"),
+	"ASX code" : "ANZ",
+	"Category" : "Banks",
+	"Listed investment name" : "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cab"),
+	"ASX code" : "CBA",
+	"Category" : "Banks",
+	"Listed investment name" : "COMMONWEALTH BANK OF AUSTRALIA."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cac"),
+	"ASX code" : "NAB",
+	"Category" : "Banks",
+	"Listed investment name" : "NATIONAL AUSTRALIA BANK LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cad"),
+	"ASX code" : "WBC",
+	"Category" : "Banks",
+	"Listed investment name" : "WESTPAC BANKING CORPORATION"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cae"),
+	"ASX code" : "AFG",
+	"Category" : "Banks",
+	"Listed investment name" : "AUSTRALIAN FINANCE GROUP LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1caf"),
+	"ASX code" : "BEN",
+	"Category" : "Banks",
+	"Listed investment name" : "BENDIGO AND ADELAIDE BANK LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb0"),
+	"ASX code" : "BOQ",
+	"Category" : "Banks",
+	"Listed investment name" : "BANK OF QUEENSLAND LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb1"),
+	"ASX code" : "CYB",
+	"Category" : "Banks",
+	"Listed investment name" : "CYBG PLC"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb2"),
+	"ASX code" : "GMA",
+	"Category" : "Banks",
+	"Listed investment name" : "GENWORTH MORTGAGE INSURANCE AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb3"),
+	"ASX code" : "ABA",
+	"Category" : "Banks",
+	"Listed investment name" : "AUSWIDE BANK LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb4"),
+	"ASX code" : "MOC",
+	"Category" : "Banks",
+	"Listed investment name" : "MORTGAGE CHOICE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb5"),
+	"ASX code" : "MYS",
+	"Category" : "Banks",
+	"Listed investment name" : "MYSTATE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb6"),
+	"ASX code" : "RMC",
+	"Category" : "Banks",
+	"Listed investment name" : "RESIMAC GROUP LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb7"),
+	"ASX code" : "CIM",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "CIMIC GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb8"),
+	"ASX code" : "ASB",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "AUSTAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cb9"),
+	"ASX code" : "CDD",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "CARDNO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cba"),
+	"ASX code" : "EHL",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "EMECO HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cbb"),
+	"ASX code" : "EOS",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "ELECTRO OPTIC SYSTEMS HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cbc"),
+	"ASX code" : "GWA",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "GWA GROUP LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cbd"),
+	"ASX code" : "MND",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "MONADELPHOUS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cbe"),
+	"ASX code" : "NWH",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "NRW HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cbf"),
+	"ASX code" : "SST",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "STEAMSHIPS TRADING COMPANY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc0"),
+	"ASX code" : "SVW",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "SEVEN GROUP HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc1"),
+	"ASX code" : "AJL",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "AJ LUCAS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc2"),
+	"ASX code" : "DCG",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "DECMIL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc3"),
+	"ASX code" : "EGN",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "ENGENCO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc4"),
+	"ASX code" : "FBR",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "FBR LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc5"),
+	"ASX code" : "FLC",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "FLUENCE CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc6"),
+	"ASX code" : "JLG",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "JOHNS LYNG GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc7"),
+	"ASX code" : "LYL",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "LYCOPODIUM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc8"),
+	"ASX code" : "SRG",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "SRG GLOBAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cc9"),
+	"ASX code" : "SXE",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "SOUTHERN CROSS ELECTRICAL ENGINEERING LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cca"),
+	"ASX code" : "BXB",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "BRAMBLES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ccb"),
+	"ASX code" : "ALQ",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "ALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ccc"),
+	"ASX code" : "AMA",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "AMA GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ccd"),
+	"ASX code" : "BIN",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "BINGO INDUSTRIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cce"),
+	"ASX code" : "CWY",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "CLEANAWAY WASTE MANAGEMENT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ccf"),
+	"ASX code" : "DOW",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "DOWNER EDI LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd0"),
+	"ASX code" : "IPH",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "IPH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd1"),
+	"ASX code" : "REH",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "REECE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd2"),
+	"ASX code" : "RWC",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "RELIANCE WORLDWIDE CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd3"),
+	"ASX code" : "SSM",
+	"Category" : "Capital Goods",
+	"Listed investment name" : "SERVICE STREAM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd4"),
+	"ASX code" : "MMS",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "MCMILLAN SHAKESPEARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd5"),
+	"ASX code" : "NEA",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "NEARMAP LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd6"),
+	"ASX code" : "PET",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "PHOSLOCK ENVIRONMENTAL TECHNOLOGIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd7"),
+	"ASX code" : "SEK",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "SEEK LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd8"),
+	"ASX code" : "SGF",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "SG FLEET GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cd9"),
+	"ASX code" : "FLN",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "FREELANCER LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cda"),
+	"ASX code" : "PPE",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "PEOPLE INFRASTRUCTURE LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cdb"),
+	"ASX code" : "QIP",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "QANTM INTELLECTUAL PROPERTY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cdc"),
+	"ASX code" : "WLL",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "WELLCOM GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cdd"),
+	"ASX code" : "TLS",
+	"Category" : "Communication Services",
+	"Listed investment name" : "TELSTRA CORPORATION LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cde"),
+	"ASX code" : "CNU",
+	"Category" : "Communication Services",
+	"Listed investment name" : "CHORUS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cdf"),
+	"ASX code" : "HTA",
+	"Category" : "Communication Services",
+	"Listed investment name" : "HUTCHISON TELECOMMUNICATIONS (AUSTRALIA) LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce0"),
+	"ASX code" : "MAQ",
+	"Category" : "Communication Services",
+	"Listed investment name" : "MACQUARIE TELECOM GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce1"),
+	"ASX code" : "SPK",
+	"Category" : "Communication Services",
+	"Listed investment name" : "SPARK NEW ZEALAND LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce2"),
+	"ASX code" : "TPM",
+	"Category" : "Communication Services",
+	"Listed investment name" : "TPG TELECOM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce3"),
+	"ASX code" : "VOC",
+	"Category" : "Communication Services",
+	"Listed investment name" : "VOCUS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce4"),
+	"ASX code" : "AYS",
+	"Category" : "Communication Services",
+	"Listed investment name" : "AMAYSIM AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce5"),
+	"ASX code" : "MNF",
+	"Category" : "Communication Services",
+	"Listed investment name" : "MNF GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce6"),
+	"ASX code" : "SDA",
+	"Category" : "Communication Services",
+	"Listed investment name" : "SPEEDCAST INTERNATIONAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce7"),
+	"ASX code" : "SLC",
+	"Category" : "Communication Services",
+	"Listed investment name" : "SUPERLOOP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce8"),
+	"ASX code" : "AKP",
+	"Category" : "Consumer Durables & Apparel",
+	"Listed investment name" : "AUDIO PIXELS HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ce9"),
+	"ASX code" : "FWD",
+	"Category" : "Consumer Durables & Apparel",
+	"Listed investment name" : "FLEETWOOD CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cea"),
+	"ASX code" : "MCP",
+	"Category" : "Consumer Durables & Apparel",
+	"Listed investment name" : "MCPHERSON'S LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ceb"),
+	"ASX code" : "SIQ",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "SMARTGROUP CORPORATION LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cec"),
+	"ASX code" : "A2B",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "A2B AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ced"),
+	"ASX code" : "CLQ",
+	"Category" : "Commercial & Professional Services",
+	"Listed investment name" : "CLEAN TEQ HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cee"),
+	"ASX code" : "MHJ",
+	"Category" : "Consumer Durables & Apparel",
+	"Listed investment name" : "MICHAEL HILL INTERNATIONAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cef"),
+	"ASX code" : "ALL",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "ARISTOCRAT LEISURE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf0"),
+	"ASX code" : "TAH",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "TABCORP HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf1"),
+	"ASX code" : "ALG",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "ARDENT LEISURE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf2"),
+	"ASX code" : "CKF",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "COLLINS FOODS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf3"),
+	"ASX code" : "FLT",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "FLIGHT CENTRE TRAVEL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf4"),
+	"ASX code" : "GEM",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "G8 EDUCATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf5"),
+	"ASX code" : "HLO",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "HELLOWORLD TRAVEL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf6"),
+	"ASX code" : "IEL",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "IDP EDUCATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf7"),
+	"ASX code" : "IVC",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "INVOCARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf8"),
+	"ASX code" : "JIN",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "JUMBO INTERACTIVE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cf9"),
+	"ASX code" : "RDC",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "REDCAPE HOTEL GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cfa"),
+	"ASX code" : "SGR",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "THE STAR ENTERTAINMENT GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cfb"),
+	"ASX code" : "SKC",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "SKYCITY ENTERTAINMENT GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cfc"),
+	"ASX code" : "3PL",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "3P LEARNING LIMITED.."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cfd"),
+	"ASX code" : "AGI",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "AINSWORTH GAME TECHNOLOGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cfe"),
+	"ASX code" : "ENN",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "ELANOR INVESTORS GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1cff"),
+	"ASX code" : "EXP",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "EXPERIENCE CO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d00"),
+	"ASX code" : "ISU",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "ISELECT LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d01"),
+	"ASX code" : "PFP",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "PROPEL FUNERAL PARTNERS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d02"),
+	"ASX code" : "RCT",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "REEF CASINO TRUST"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d03"),
+	"ASX code" : "SGH",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "SLATER & GORDON LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d04"),
+	"ASX code" : "SHJ",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "SHINE CORPORATE LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d05"),
+	"ASX code" : "CTD",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "CORPORATE TRAVEL MANAGEMENT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d06"),
+	"ASX code" : "CWN",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "CROWN RESORTS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d07"),
+	"ASX code" : "DMP",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "DOMINO'S PIZZA ENTERPRISES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d08"),
+	"ASX code" : "SLK",
+	"Category" : "Consumer Services",
+	"Listed investment name" : "SEALINK TRAVEL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d09"),
+	"ASX code" : "ASX",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "ASX LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d0a"),
+	"ASX code" : "MQG",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "MACQUARIE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d0b"),
+	"ASX code" : "CCP",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "CREDIT CORP GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d0c"),
+	"ASX code" : "CGF",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "CHALLENGER LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d0d"),
+	"ASX code" : "FXL",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "FLEXIGROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d0e"),
+	"ASX code" : "HUB",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "HUB24 LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d0f"),
+	"ASX code" : "IFL",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "IOOF HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d10"),
+	"ASX code" : "IMF",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "IMF BENTHAM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d11"),
+	"ASX code" : "JHG",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "JANUS HENDERSON GROUP PLC"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d12"),
+	"ASX code" : "MFG",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "MAGELLAN FINANCIAL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d13"),
+	"ASX code" : "MOE",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "MOELIS AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d14"),
+	"ASX code" : "NGI",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "NAVIGATOR GLOBAL INVESTMENTS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d15"),
+	"ASX code" : "NWL",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "NETWEALTH GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d16"),
+	"ASX code" : "PDL",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PENDAL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d17"),
+	"ASX code" : "PNI",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PINNACLE INVESTMENT MANAGEMENT GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d18"),
+	"ASX code" : "PPT",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PERPETUAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d19"),
+	"ASX code" : "PTM",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PLATINUM ASSET MANAGEMENT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d1a"),
+	"ASX code" : "Z1P",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "ZIP CO LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d1b"),
+	"ASX code" : "AEF",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "AUSTRALIAN ETHICAL INVESTMENT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d1c"),
+	"ASX code" : "APD",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "APN PROPERTY GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d1d"),
+	"ASX code" : "BFG",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "BELL FINANCIAL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d1e"),
+	"ASX code" : "CLH",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "COLLECTION HOUSE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d1f"),
+	"ASX code" : "CNI",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "CENTURIA CAPITAL GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d20"),
+	"ASX code" : "ECX",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "ECLIPX GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d21"),
+	"ASX code" : "EQT",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "EQT HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d22"),
+	"ASX code" : "COG",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "CONSOLIDATED OPERATIONS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d23"),
+	"ASX code" : "CVC",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "CVC LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d24"),
+	"ASX code" : "CVW",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "CLEARVIEW WEALTH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d25"),
+	"ASX code" : "ED1",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "EVANS DIXON LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d26"),
+	"ASX code" : "EZL",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "EUROZ LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d27"),
+	"ASX code" : "KSL",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "KINA SECURITIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d28"),
+	"ASX code" : "MNY",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "MONEY3 CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d29"),
+	"ASX code" : "OFX",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "OFX GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d2a"),
+	"ASX code" : "OVH",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "ONEVUE HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d2b"),
+	"ASX code" : "PAC",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PACIFIC CURRENT GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d2c"),
+	"ASX code" : "PCG",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PENGANA CAPITAL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d2d"),
+	"ASX code" : "PNC",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "PIONEER CREDIT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d2e"),
+	"ASX code" : "ORG",
+	"Category" : "Energy",
+	"Listed investment name" : "ORIGIN ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d2f"),
+	"ASX code" : "OSH",
+	"Category" : "Energy",
+	"Listed investment name" : "OIL SEARCH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d30"),
+	"ASX code" : "STO",
+	"Category" : "Energy",
+	"Listed investment name" : "SANTOS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d31"),
+	"ASX code" : "WPL",
+	"Category" : "Energy",
+	"Listed investment name" : "WOODSIDE PETROLEUM LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d32"),
+	"ASX code" : "BPT",
+	"Category" : "Energy",
+	"Listed investment name" : "BEACH ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d33"),
+	"ASX code" : "COE",
+	"Category" : "Energy",
+	"Listed investment name" : "COOPER ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d34"),
+	"ASX code" : "CTX",
+	"Category" : "Energy",
+	"Listed investment name" : "CALTEX AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d35"),
+	"ASX code" : "CVN",
+	"Category" : "Energy",
+	"Listed investment name" : "CARNARVON PETROLEUM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d36"),
+	"ASX code" : "NHC",
+	"Category" : "Energy",
+	"Listed investment name" : "NEW HOPE CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d37"),
+	"ASX code" : "SOL",
+	"Category" : "Energy",
+	"Listed investment name" : "WASHINGTON H SOUL PATTINSON & COMPANY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d38"),
+	"ASX code" : "SXY",
+	"Category" : "Energy",
+	"Listed investment name" : "SENEX ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d39"),
+	"ASX code" : "FID",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "FIDUCIAN GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d3a"),
+	"ASX code" : "FSA",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "FSA GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d3b"),
+	"ASX code" : "GOW",
+	"Category" : "Diversified Financials",
+	"Listed investment name" : "GOWING BROS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d3c"),
+	"ASX code" : "VEA",
+	"Category" : "Energy",
+	"Listed investment name" : "VIVA ENERGY GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d3d"),
+	"ASX code" : "WHC",
+	"Category" : "Energy",
+	"Listed investment name" : "WHITEHAVEN COAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d3e"),
+	"ASX code" : "WOR",
+	"Category" : "Energy",
+	"Listed investment name" : "WORLEYPARSONS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d3f"),
+	"ASX code" : "YAL",
+	"Category" : "Energy",
+	"Listed investment name" : "YANCOAL AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d40"),
+	"ASX code" : "ZEL",
+	"Category" : "Energy",
+	"Listed investment name" : "Z ENERGY LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d41"),
+	"ASX code" : "ERA",
+	"Category" : "Energy",
+	"Listed investment name" : "ENERGY RESOURCES OF AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d42"),
+	"ASX code" : "FAR",
+	"Category" : "Energy",
+	"Listed investment name" : "FAR LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d43"),
+	"ASX code" : "FDM",
+	"Category" : "Energy",
+	"Listed investment name" : "FREEDOM OIL AND GAS LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d44"),
+	"ASX code" : "GLL",
+	"Category" : "Energy",
+	"Listed investment name" : "GALILEE ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d45"),
+	"ASX code" : "HE8",
+	"Category" : "Energy",
+	"Listed investment name" : "HELIOS ENERGY LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d46"),
+	"ASX code" : "HZN",
+	"Category" : "Energy",
+	"Listed investment name" : "HORIZON OIL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d47"),
+	"ASX code" : "KAR",
+	"Category" : "Energy",
+	"Listed investment name" : "KAROON ENERGY LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d48"),
+	"ASX code" : "LNG",
+	"Category" : "Energy",
+	"Listed investment name" : "LIQUEFIED NATURAL GAS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d49"),
+	"ASX code" : "PDN",
+	"Category" : "Energy",
+	"Listed investment name" : "PALADIN ENERGY LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d4a"),
+	"ASX code" : "SEA",
+	"Category" : "Energy",
+	"Listed investment name" : "SUNDANCE ENERGY AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d4b"),
+	"ASX code" : "SMR",
+	"Category" : "Energy",
+	"Listed investment name" : "STANMORE COAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d4c"),
+	"ASX code" : "STX",
+	"Category" : "Energy",
+	"Listed investment name" : "STRIKE ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d4d"),
+	"ASX code" : "TER",
+	"Category" : "Energy",
+	"Listed investment name" : "TERRACOM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d4e"),
+	"ASX code" : "COL",
+	"Category" : "Food & Staples Retailing",
+	"Listed investment name" : "COLES GROUP LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d4f"),
+	"ASX code" : "WOW",
+	"Category" : "Food & Staples Retailing",
+	"Listed investment name" : "WOOLWORTHS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d50"),
+	"ASX code" : "MTS",
+	"Category" : "Food & Staples Retailing",
+	"Listed investment name" : "METCASH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d51"),
+	"ASX code" : "TWE",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "TREASURY WINE ESTATES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d52"),
+	"ASX code" : "A2M",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "THE A2 MILK COMPANY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d53"),
+	"ASX code" : "ATS",
+	"Category" : "Energy",
+	"Listed investment name" : "AUSTRALIS OIL & GAS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d54"),
+	"ASX code" : "BYE",
+	"Category" : "Energy",
+	"Listed investment name" : "BYRON ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d55"),
+	"ASX code" : "COI",
+	"Category" : "Energy",
+	"Listed investment name" : "COMET RIDGE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d56"),
+	"ASX code" : "AAC",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "AUSTRALIAN AGRICULTURAL COMPANY LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d57"),
+	"ASX code" : "BAL",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "BELLAMY'S AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d58"),
+	"ASX code" : "BGA",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "BEGA CHEESE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d59"),
+	"ASX code" : "BUB",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "BUBS AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d5a"),
+	"ASX code" : "CCL",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "COCA-COLA AMATIL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d5b"),
+	"ASX code" : "GNC",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "GRAINCORP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d5c"),
+	"ASX code" : "ING",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "INGHAMS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d5d"),
+	"ASX code" : "SHV",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "SELECT HARVESTS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d5e"),
+	"ASX code" : "SM1",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "SYNLAIT MILK LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d5f"),
+	"ASX code" : "TGR",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "TASSAL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d60"),
+	"ASX code" : "WBA",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "WEBSTER LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d61"),
+	"ASX code" : "AVG",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "AUSTRALIAN VINTAGE LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d62"),
+	"ASX code" : "DFM",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "DONGFANG MODERN AGRICULTURE HOLDING GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d63"),
+	"ASX code" : "HUO",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "HUON AQUACULTURE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d64"),
+	"ASX code" : "RIC",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "RIDLEY CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d65"),
+	"ASX code" : "SFG",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "SEAFARMS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d66"),
+	"ASX code" : "WHA",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "WATTLE HEALTH AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d67"),
+	"ASX code" : "COH",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "COCHLEAR LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d68"),
+	"ASX code" : "RHC",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "RAMSAY HEALTH CARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d69"),
+	"ASX code" : "SHL",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "SONIC HEALTHCARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d6a"),
+	"ASX code" : "ANN",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "ANSELL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d6b"),
+	"ASX code" : "API",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "AUSTRALIAN PHARMACEUTICAL INDUSTRIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d6c"),
+	"ASX code" : "EHE",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "ESTIA HEALTH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d6d"),
+	"ASX code" : "CGC",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "COSTA GROUP HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d6e"),
+	"ASX code" : "ELD",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "ELDERS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d6f"),
+	"ASX code" : "FNP",
+	"Category" : "Food, Beverage & Tobacco",
+	"Listed investment name" : "FREEDOM FOODS GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d70"),
+	"ASX code" : "FPH",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d71"),
+	"ASX code" : "HLS",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "HEALIUS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d72"),
+	"ASX code" : "IDX",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "INTEGRAL DIAGNOSTICS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d73"),
+	"ASX code" : NaN,
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "NANOSONICS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d74"),
+	"ASX code" : "PME",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "PRO MEDICUS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d75"),
+	"ASX code" : "CAJ",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "CAPITOL HEALTH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d76"),
+	"ASX code" : "CLV",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "CLOVER CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d77"),
+	"ASX code" : "JHC",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "JAPARA HEALTHCARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d78"),
+	"ASX code" : "NVL",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "NATIONAL VETERINARY CARE LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d79"),
+	"ASX code" : "ONT",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "1300 SMILES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d7a"),
+	"ASX code" : "PGC",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "PARAGON CARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d7b"),
+	"ASX code" : "PSQ",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "PACIFIC SMILES GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d7c"),
+	"ASX code" : "VHT",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "VOLPARA HEALTH TECHNOLOGIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d7d"),
+	"ASX code" : "VRT",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "VIRTUS HEALTH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d7e"),
+	"ASX code" : "AHY",
+	"Category" : "Household & Personal Products",
+	"Listed investment name" : "ASALEO CARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d7f"),
+	"ASX code" : "BKL",
+	"Category" : "Household & Personal Products",
+	"Listed investment name" : "BLACKMORES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d80"),
+	"ASX code" : "BWX",
+	"Category" : "Household & Personal Products",
+	"Listed investment name" : "BWX LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d81"),
+	"ASX code" : "WJA",
+	"Category" : "Information Technology",
+	"Listed investment name" : "WAMEJA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d82"),
+	"ASX code" : "IAG",
+	"Category" : "Insurance",
+	"Listed investment name" : "INSURANCE AUSTRALIA GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d83"),
+	"ASX code" : "QBE",
+	"Category" : "Insurance",
+	"Listed investment name" : "QBE INSURANCE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d84"),
+	"ASX code" : "SUN",
+	"Category" : "Insurance",
+	"Listed investment name" : "SUNCORP GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d85"),
+	"ASX code" : "AMP",
+	"Category" : "Insurance",
+	"Listed investment name" : "AMP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d86"),
+	"ASX code" : "AUB",
+	"Category" : "Insurance",
+	"Listed investment name" : "AUB GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d87"),
+	"ASX code" : "REG",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "REGIS HEALTHCARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d88"),
+	"ASX code" : "RMD",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "RESMED INC"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d89"),
+	"ASX code" : "SIG",
+	"Category" : "Health Care Equipment & Services",
+	"Listed investment name" : "SIGMA HEALTHCARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d8a"),
+	"ASX code" : "MPL",
+	"Category" : "Insurance",
+	"Listed investment name" : "MEDIBANK PRIVATE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d8b"),
+	"ASX code" : "NHF",
+	"Category" : "Insurance",
+	"Listed investment name" : "NIB HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d8c"),
+	"ASX code" : "PSI",
+	"Category" : "Insurance",
+	"Listed investment name" : "PSC INSURANCE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d8d"),
+	"ASX code" : "SDF",
+	"Category" : "Insurance",
+	"Listed investment name" : "STEADFAST GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d8e"),
+	"ASX code" : "AMC",
+	"Category" : "Materials",
+	"Listed investment name" : "AMCOR LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d8f"),
+	"ASX code" : "NCM",
+	"Category" : "Materials",
+	"Listed investment name" : "NEWCREST MINING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d90"),
+	"ASX code" : "RIO",
+	"Category" : "Materials",
+	"Listed investment name" : "RIO TINTO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d91"),
+	"ASX code" : "S32",
+	"Category" : "Materials",
+	"Listed investment name" : "SOUTH32 LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d92"),
+	"ASX code" : "ABC",
+	"Category" : "Materials",
+	"Listed investment name" : "ADELAIDE BRIGHTON LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d93"),
+	"ASX code" : "AGG",
+	"Category" : "Materials",
+	"Listed investment name" : "ANGLOGOLD ASHANTI LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d94"),
+	"ASX code" : "ASL",
+	"Category" : "Materials",
+	"Listed investment name" : "AUSDRILL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d95"),
+	"ASX code" : "AWC",
+	"Category" : "Materials",
+	"Listed investment name" : "ALUMINA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d96"),
+	"ASX code" : "BKW",
+	"Category" : "Materials",
+	"Listed investment name" : "BRICKWORKS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d97"),
+	"ASX code" : "BLD",
+	"Category" : "Materials",
+	"Listed investment name" : "BORAL LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d98"),
+	"ASX code" : "BSL",
+	"Category" : "Materials",
+	"Listed investment name" : "BLUESCOPE STEEL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d99"),
+	"ASX code" : "CIA",
+	"Category" : "Materials",
+	"Listed investment name" : "CHAMPION IRON LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d9a"),
+	"ASX code" : "CRN",
+	"Category" : "Materials",
+	"Listed investment name" : "CORONADO GLOBAL RESOURCES INC."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d9b"),
+	"ASX code" : "CSR",
+	"Category" : "Materials",
+	"Listed investment name" : "CSR LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d9c"),
+	"ASX code" : "EVN",
+	"Category" : "Materials",
+	"Listed investment name" : "EVOLUTION MINING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d9d"),
+	"ASX code" : "FBU",
+	"Category" : "Materials",
+	"Listed investment name" : "FLETCHER BUILDING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d9e"),
+	"ASX code" : "GOR",
+	"Category" : "Materials",
+	"Listed investment name" : "GOLD ROAD RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1d9f"),
+	"ASX code" : "IGO",
+	"Category" : "Materials",
+	"Listed investment name" : "INDEPENDENCE GROUP NL"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da0"),
+	"ASX code" : "ILU",
+	"Category" : "Materials",
+	"Listed investment name" : "ILUKA RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da1"),
+	"ASX code" : "BHP",
+	"Category" : "Materials",
+	"Listed investment name" : "BHP GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da2"),
+	"ASX code" : "FMG",
+	"Category" : "Materials",
+	"Listed investment name" : "FORTESCUE METALS GROUP LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da3"),
+	"ASX code" : "JHX",
+	"Category" : "Materials",
+	"Listed investment name" : "JAMES HARDIE INDUSTRIES PLC"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da4"),
+	"ASX code" : "IMD",
+	"Category" : "Materials",
+	"Listed investment name" : "IMDEX LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da5"),
+	"ASX code" : "IPL",
+	"Category" : "Materials",
+	"Listed investment name" : "INCITEC PIVOT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da6"),
+	"ASX code" : "JMS",
+	"Category" : "Materials",
+	"Listed investment name" : "JUPITER MINES LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da7"),
+	"ASX code" : "LYC",
+	"Category" : "Materials",
+	"Listed investment name" : "LYNAS CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da8"),
+	"ASX code" : "MGX",
+	"Category" : "Materials",
+	"Listed investment name" : "MOUNT GIBSON IRON LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1da9"),
+	"ASX code" : "NUF",
+	"Category" : "Materials",
+	"Listed investment name" : "NUFARM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1daa"),
+	"ASX code" : "ORA",
+	"Category" : "Materials",
+	"Listed investment name" : "ORORA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dab"),
+	"ASX code" : "ORE",
+	"Category" : "Materials",
+	"Listed investment name" : "OROCOBRE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dac"),
+	"ASX code" : "ORI",
+	"Category" : "Materials",
+	"Listed investment name" : "ORICA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dad"),
+	"ASX code" : "OZL",
+	"Category" : "Materials",
+	"Listed investment name" : "OZ MINERALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dae"),
+	"ASX code" : "PGH",
+	"Category" : "Materials",
+	"Listed investment name" : "PACT GROUP HOLDINGS LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1daf"),
+	"ASX code" : "PLS",
+	"Category" : "Materials",
+	"Listed investment name" : "PILBARA MINERALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db0"),
+	"ASX code" : "PRU",
+	"Category" : "Materials",
+	"Listed investment name" : "PERSEUS MINING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db1"),
+	"ASX code" : "RMS",
+	"Category" : "Materials",
+	"Listed investment name" : "RAMELIUS RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db2"),
+	"ASX code" : "RRL",
+	"Category" : "Materials",
+	"Listed investment name" : "REGIS RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db3"),
+	"ASX code" : "RSG",
+	"Category" : "Materials",
+	"Listed investment name" : "RESOLUTE MINING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db4"),
+	"ASX code" : "SAR",
+	"Category" : "Materials",
+	"Listed investment name" : "SARACEN MINERAL HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db5"),
+	"ASX code" : "SBM",
+	"Category" : "Materials",
+	"Listed investment name" : "ST BARBARA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db6"),
+	"ASX code" : "SFR",
+	"Category" : "Materials",
+	"Listed investment name" : "SANDFIRE RESOURCES NL"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db7"),
+	"ASX code" : "SGM",
+	"Category" : "Materials",
+	"Listed investment name" : "SIMS METAL MANAGEMENT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db8"),
+	"ASX code" : "SLR",
+	"Category" : "Materials",
+	"Listed investment name" : "SILVER LAKE RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1db9"),
+	"ASX code" : "TBR",
+	"Category" : "Materials",
+	"Listed investment name" : "TRIBUNE RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dba"),
+	"ASX code" : "WGX",
+	"Category" : "Materials",
+	"Listed investment name" : "WESTGOLD RESOURCES LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dbb"),
+	"ASX code" : "MIN",
+	"Category" : "Materials",
+	"Listed investment name" : "MINERAL RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dbc"),
+	"ASX code" : "NIC",
+	"Category" : "Materials",
+	"Listed investment name" : "NICKEL MINES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dbd"),
+	"ASX code" : "NST",
+	"Category" : "Materials",
+	"Listed investment name" : "NORTHERN STAR RESOURCES LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dbe"),
+	"ASX code" : "WSA",
+	"Category" : "Materials",
+	"Listed investment name" : "WESTERN AREAS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dbf"),
+	"ASX code" : "ZIM",
+	"Category" : "Materials",
+	"Listed investment name" : "ZIMPLATS HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc0"),
+	"ASX code" : "AGY",
+	"Category" : "Materials",
+	"Listed investment name" : "ARGOSY MINERALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc1"),
+	"ASX code" : "AJM",
+	"Category" : "Materials",
+	"Listed investment name" : "ALTURA MINING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc2"),
+	"ASX code" : "AMI",
+	"Category" : "Materials",
+	"Listed investment name" : "AURELIA METALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc3"),
+	"ASX code" : "AVZ",
+	"Category" : "Materials",
+	"Listed investment name" : "AVZ MINERALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc4"),
+	"ASX code" : "BGL",
+	"Category" : "Materials",
+	"Listed investment name" : "BELLEVUE GOLD LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc5"),
+	"ASX code" : "BRL",
+	"Category" : "Materials",
+	"Listed investment name" : "BATHURST RESOURCES LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc6"),
+	"ASX code" : "BSE",
+	"Category" : "Materials",
+	"Listed investment name" : "BASE RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc7"),
+	"ASX code" : "CDV",
+	"Category" : "Materials",
+	"Listed investment name" : "CARDINAL RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc8"),
+	"ASX code" : "CII",
+	"Category" : "Materials",
+	"Listed investment name" : "CI RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dc9"),
+	"ASX code" : "DCN",
+	"Category" : "Materials",
+	"Listed investment name" : "DACIAN GOLD LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dca"),
+	"ASX code" : "DNK",
+	"Category" : "Materials",
+	"Listed investment name" : "DANAKALI LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dcb"),
+	"ASX code" : "FMS",
+	"Category" : "Materials",
+	"Listed investment name" : "FLINDERS MINES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dcc"),
+	"ASX code" : "GNG",
+	"Category" : "Materials",
+	"Listed investment name" : "GR ENGINEERING SERVICES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dcd"),
+	"ASX code" : "GRR",
+	"Category" : "Materials",
+	"Listed investment name" : "GRANGE RESOURCES LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dce"),
+	"ASX code" : "GXY",
+	"Category" : "Materials",
+	"Listed investment name" : "GALAXY RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dcf"),
+	"ASX code" : "HAS",
+	"Category" : "Materials",
+	"Listed investment name" : "HASTINGS TECHNOLOGY METALS LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd0"),
+	"ASX code" : "HFR",
+	"Category" : "Materials",
+	"Listed investment name" : "HIGHFIELD RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd1"),
+	"ASX code" : "HRR",
+	"Category" : "Materials",
+	"Listed investment name" : "HERON RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd2"),
+	"ASX code" : "INR",
+	"Category" : "Materials",
+	"Listed investment name" : "IONEER LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd3"),
+	"ASX code" : "MAH",
+	"Category" : "Materials",
+	"Listed investment name" : "MACMAHON HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd4"),
+	"ASX code" : "MLD",
+	"Category" : "Materials",
+	"Listed investment name" : "MACA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd5"),
+	"ASX code" : "AML",
+	"Category" : "Materials",
+	"Listed investment name" : "AEON METALS LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd6"),
+	"ASX code" : "AQG",
+	"Category" : "Materials",
+	"Listed investment name" : "ALACER GOLD CORP."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd7"),
+	"ASX code" : "AUZ",
+	"Category" : "Materials",
+	"Listed investment name" : "AUSTRALIAN MINES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd8"),
+	"ASX code" : "MLX",
+	"Category" : "Materials",
+	"Listed investment name" : "METALS X LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dd9"),
+	"ASX code" : "MMI",
+	"Category" : "Materials",
+	"Listed investment name" : "METRO MINING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dda"),
+	"ASX code" : "MNS",
+	"Category" : "Materials",
+	"Listed investment name" : "MAGNIS ENERGY TECHNOLOGIES LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ddb"),
+	"ASX code" : "MOY",
+	"Category" : "Materials",
+	"Listed investment name" : "MILLENNIUM MINERALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ddc"),
+	"ASX code" : "MWY",
+	"Category" : "Materials",
+	"Listed investment name" : "MIDWAY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ddd"),
+	"ASX code" : "OMH",
+	"Category" : "Materials",
+	"Listed investment name" : "OM HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dde"),
+	"ASX code" : "PAN",
+	"Category" : "Materials",
+	"Listed investment name" : "PANORAMIC RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ddf"),
+	"ASX code" : "PNR",
+	"Category" : "Materials",
+	"Listed investment name" : "PANTORO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de0"),
+	"ASX code" : "PPG",
+	"Category" : "Materials",
+	"Listed investment name" : "PRO-PAC PACKAGING LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de1"),
+	"ASX code" : "SFX",
+	"Category" : "Materials",
+	"Listed investment name" : "SHEFFIELD RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de2"),
+	"ASX code" : "SYR",
+	"Category" : "Materials",
+	"Listed investment name" : "SYRAH RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de3"),
+	"ASX code" : "TGN",
+	"Category" : "Materials",
+	"Listed investment name" : "TUNGSTEN MINING NL"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de4"),
+	"ASX code" : "TZN",
+	"Category" : "Materials",
+	"Listed investment name" : "TERRAMIN AUSTRALIA LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de5"),
+	"ASX code" : "WAF",
+	"Category" : "Materials",
+	"Listed investment name" : "WEST AFRICAN RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de6"),
+	"ASX code" : "WGN",
+	"Category" : "Materials",
+	"Listed investment name" : "WAGNERS HOLDING COMPANY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de7"),
+	"ASX code" : "REA",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "REA GROUP LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de8"),
+	"ASX code" : "CAR",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "CARSALES.COM LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1de9"),
+	"ASX code" : "DHG",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "DOMAIN HOLDINGS AUSTRALIA LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dea"),
+	"ASX code" : "EVT",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "EVENT HOSPITALITY AND ENTERTAINMENT LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1deb"),
+	"ASX code" : "HT1",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "HT&E LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dec"),
+	"ASX code" : "NEC",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "NINE ENTERTAINMENT CO. HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ded"),
+	"ASX code" : "NWS",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "NEWS CORPORATION.."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dee"),
+	"ASX code" : "OML",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "OOH!MEDIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1def"),
+	"ASX code" : "NCZ",
+	"Category" : "Materials",
+	"Listed investment name" : "NEW CENTURY RESOURCES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df0"),
+	"ASX code" : "NMT",
+	"Category" : "Materials",
+	"Listed investment name" : "NEOMETALS LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df1"),
+	"ASX code" : "OGC",
+	"Category" : "Materials",
+	"Listed investment name" : "OCEANAGOLD CORPORATION"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df2"),
+	"ASX code" : "SWM",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "SEVEN WEST MEDIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df3"),
+	"ASX code" : "SXL",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "SOUTHERN CROSS MEDIA GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df4"),
+	"ASX code" : "VRL",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "VILLAGE ROADSHOW LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df5"),
+	"ASX code" : "WPP",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "WPP AUNZ LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df6"),
+	"ASX code" : "GTN",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "GTN LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df7"),
+	"ASX code" : "SKT",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "SKY NETWORK TELEVISION LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df8"),
+	"ASX code" : "CSL",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "CSL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1df9"),
+	"ASX code" : "AVH",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "AVITA MEDICAL LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dfa"),
+	"ASX code" : "CUV",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "CLINUVEL PHARMACEUTICALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dfb"),
+	"ASX code" : "MSB",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "MESOBLAST LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dfc"),
+	"ASX code" : "MYX",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "MAYNE PHARMA GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dfd"),
+	"ASX code" : "OPT",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "OPTHEA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dfe"),
+	"ASX code" : "PNV",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "POLYNOVO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1dff"),
+	"ASX code" : "AC8",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "AUSCANN GROUP HOLDINGS LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e00"),
+	"ASX code" : "CAN",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "CANN GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e01"),
+	"ASX code" : "MVF",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "MONASH IVF GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e02"),
+	"ASX code" : "MVP",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "MEDICAL DEVELOPMENTS INTERNATIONAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e03"),
+	"ASX code" : "NEU",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "NEUREN PHARMACEUTICALS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e04"),
+	"ASX code" : "PAR",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "PARADIGM BIOPHARMACEUTICALS LIMITED.."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e05"),
+	"ASX code" : "SPL",
+	"Category" : "Pharmaceuticals, Biotechnology & Life Sciences",
+	"Listed investment name" : "STARPHARMA HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e06"),
+	"ASX code" : "DXS",
+	"Category" : "Real Estate",
+	"Listed investment name" : "DEXUS"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e07"),
+	"ASX code" : "GMG",
+	"Category" : "Real Estate",
+	"Listed investment name" : "GOODMAN GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e08"),
+	"ASX code" : "GPT",
+	"Category" : "Real Estate",
+	"Listed investment name" : "GPT GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e09"),
+	"ASX code" : "IGL",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "IVE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e0a"),
+	"ASX code" : "MRN",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "MACQUARIE MEDIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e0b"),
+	"ASX code" : "QMS",
+	"Category" : "Media & Entertainment",
+	"Listed investment name" : "QMS MEDIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e0c"),
+	"ASX code" : "LLC",
+	"Category" : "Real Estate",
+	"Listed investment name" : "LENDLEASE GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e0d"),
+	"ASX code" : "MGR",
+	"Category" : "Real Estate",
+	"Listed investment name" : "MIRVAC GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e0e"),
+	"ASX code" : "SCG",
+	"Category" : "Real Estate",
+	"Listed investment name" : "SCENTRE GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e0f"),
+	"ASX code" : "SGP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "STOCKLAND"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e10"),
+	"ASX code" : "VCX",
+	"Category" : "Real Estate",
+	"Listed investment name" : "VICINITY CENTRES"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e11"),
+	"ASX code" : "AOG",
+	"Category" : "Real Estate",
+	"Listed investment name" : "AVEO GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e12"),
+	"ASX code" : "ARF",
+	"Category" : "Real Estate",
+	"Listed investment name" : "ARENA REIT."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e13"),
+	"ASX code" : "AVN",
+	"Category" : "Real Estate",
+	"Listed investment name" : "AVENTUS GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e14"),
+	"ASX code" : "BWP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "BWP TRUST"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e15"),
+	"ASX code" : "CHC",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CHARTER HALL GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e16"),
+	"ASX code" : "CIP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CENTURIA INDUSTRIAL REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e17"),
+	"ASX code" : "CLW",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CHARTER HALL LONG WALE REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e18"),
+	"ASX code" : "CMA",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CENTURIA METROPOLITAN REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e19"),
+	"ASX code" : "CMW",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CROMWELL PROPERTY GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e1a"),
+	"ASX code" : "CQE",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CHARTER HALL EDUCATION TRUST"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e1b"),
+	"ASX code" : "CQR",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CHARTER HALL RETAIL REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e1c"),
+	"ASX code" : "CWP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CEDAR WOODS PROPERTIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e1d"),
+	"ASX code" : "GDI",
+	"Category" : "Real Estate",
+	"Listed investment name" : "GDI PROPERTY GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e1e"),
+	"ASX code" : "GOZ",
+	"Category" : "Real Estate",
+	"Listed investment name" : "GROWTHPOINT PROPERTIES AUSTRALIA"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e1f"),
+	"ASX code" : "HPI",
+	"Category" : "Real Estate",
+	"Listed investment name" : "HOTEL PROPERTY INVESTMENTS"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e20"),
+	"ASX code" : "INA",
+	"Category" : "Real Estate",
+	"Listed investment name" : "INGENIA COMMUNITIES GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e21"),
+	"ASX code" : "LEP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "ALE PROPERTY GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e22"),
+	"ASX code" : "LIC",
+	"Category" : "Real Estate",
+	"Listed investment name" : "LIFESTYLE COMMUNITIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e23"),
+	"ASX code" : "ABP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "ABACUS PROPERTY GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e24"),
+	"ASX code" : "ADI",
+	"Category" : "Real Estate",
+	"Listed investment name" : "APN INDUSTRIA REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e25"),
+	"ASX code" : "AOF",
+	"Category" : "Real Estate",
+	"Listed investment name" : "AUSTRALIAN UNITY OFFICE FUND"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e26"),
+	"ASX code" : "NSR",
+	"Category" : "Real Estate",
+	"Listed investment name" : "NATIONAL STORAGE REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e27"),
+	"ASX code" : "PPC",
+	"Category" : "Real Estate",
+	"Listed investment name" : "PEET LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e28"),
+	"ASX code" : "RFF",
+	"Category" : "Real Estate",
+	"Listed investment name" : "RURAL FUNDS GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e29"),
+	"ASX code" : "SCP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "SHOPPING CENTRES AUSTRALASIA PROPERTY GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e2a"),
+	"ASX code" : "URW",
+	"Category" : "Real Estate",
+	"Listed investment name" : "UNIBAIL-RODAMCO-WESTFIELD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e2b"),
+	"ASX code" : "CDP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "CARINDALE PROPERTY TRUST"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e2c"),
+	"ASX code" : "ERF",
+	"Category" : "Real Estate",
+	"Listed investment name" : "ELANOR RETAIL PROPERTY FUND"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e2d"),
+	"ASX code" : "FRI",
+	"Category" : "Real Estate",
+	"Listed investment name" : "FINBAR GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e2e"),
+	"ASX code" : "GDF",
+	"Category" : "Real Estate",
+	"Listed investment name" : "GARDA DIVERSIFIED PROPERTY FUND"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e2f"),
+	"ASX code" : "SDG",
+	"Category" : "Real Estate",
+	"Listed investment name" : "SUNLAND GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e30"),
+	"ASX code" : "SRV",
+	"Category" : "Real Estate",
+	"Listed investment name" : "SERVCORP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e31"),
+	"ASX code" : "TGP",
+	"Category" : "Real Estate",
+	"Listed investment name" : "360 CAPITAL GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e32"),
+	"ASX code" : "UOS",
+	"Category" : "Real Estate",
+	"Listed investment name" : "UNITED OVERSEAS AUSTRALIA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e33"),
+	"ASX code" : "URF",
+	"Category" : "Real Estate",
+	"Listed investment name" : "US MASTERS RESIDENTIAL PROPERTY FUND"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e34"),
+	"ASX code" : "VLW",
+	"Category" : "Real Estate",
+	"Listed investment name" : "VILLA WORLD LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e35"),
+	"ASX code" : "VTH",
+	"Category" : "Real Estate",
+	"Listed investment name" : "VITALHARVEST FREEHOLD TRUST"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e36"),
+	"ASX code" : "WES",
+	"Category" : "Retailing",
+	"Listed investment name" : "WESFARMERS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e37"),
+	"ASX code" : "APE",
+	"Category" : "Retailing",
+	"Listed investment name" : "AP EAGERS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e38"),
+	"ASX code" : "AX1",
+	"Category" : "Retailing",
+	"Listed investment name" : "ACCENT GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e39"),
+	"ASX code" : "BAP",
+	"Category" : "Retailing",
+	"Listed investment name" : "BAPCOR LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e3a"),
+	"ASX code" : "BRG",
+	"Category" : "Retailing",
+	"Listed investment name" : "BREVILLE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e3b"),
+	"ASX code" : "HVN",
+	"Category" : "Retailing",
+	"Listed investment name" : "HARVEY NORMAN HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e3c"),
+	"ASX code" : "JBH",
+	"Category" : "Retailing",
+	"Listed investment name" : "JB HI-FI LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e3d"),
+	"ASX code" : "VVR",
+	"Category" : "Real Estate",
+	"Listed investment name" : "VIVA ENERGY REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e3e"),
+	"ASX code" : "AQR",
+	"Category" : "Real Estate",
+	"Listed investment name" : "APN CONVENIENCE RETAIL REIT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e3f"),
+	"ASX code" : "AVJ",
+	"Category" : "Real Estate",
+	"Listed investment name" : "AVJENNINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e40"),
+	"ASX code" : "KGN",
+	"Category" : "Retailing",
+	"Listed investment name" : "KOGAN.COM LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e41"),
+	"ASX code" : "KMD",
+	"Category" : "Retailing",
+	"Listed investment name" : "KATHMANDU HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e42"),
+	"ASX code" : "LOV",
+	"Category" : "Retailing",
+	"Listed investment name" : "LOVISA HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e43"),
+	"ASX code" : "MYR",
+	"Category" : "Retailing",
+	"Listed investment name" : "MYER HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e44"),
+	"ASX code" : "NCK",
+	"Category" : "Retailing",
+	"Listed investment name" : "NICK SCALI LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e45"),
+	"ASX code" : "ADH",
+	"Category" : "Retailing",
+	"Listed investment name" : "ADAIRS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e46"),
+	"ASX code" : "ASG",
+	"Category" : "Retailing",
+	"Listed investment name" : "AUTOSPORTS GROUP LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e47"),
+	"ASX code" : "BBN",
+	"Category" : "Retailing",
+	"Listed investment name" : "BABY BUNTING GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e48"),
+	"ASX code" : "BLX",
+	"Category" : "Retailing",
+	"Listed investment name" : "BEACON LIGHTING GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e49"),
+	"ASX code" : "CCV",
+	"Category" : "Retailing",
+	"Listed investment name" : "CASH CONVERTERS INTERNATIONAL"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e4a"),
+	"ASX code" : "CCX",
+	"Category" : "Retailing",
+	"Listed investment name" : "CITY CHIC COLLECTIVE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e4b"),
+	"ASX code" : "MTO",
+	"Category" : "Retailing",
+	"Listed investment name" : "MOTORCYCLE HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e4c"),
+	"ASX code" : "NBL",
+	"Category" : "Retailing",
+	"Listed investment name" : "NONI B LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e4d"),
+	"ASX code" : "RBL",
+	"Category" : "Retailing",
+	"Listed investment name" : "REDBUBBLE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e4e"),
+	"ASX code" : "SNL",
+	"Category" : "Retailing",
+	"Listed investment name" : "SUPPLY NETWORK LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e4f"),
+	"ASX code" : "VTG",
+	"Category" : "Retailing",
+	"Listed investment name" : "VITA GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e50"),
+	"ASX code" : "PVS",
+	"Category" : "Semiconductors & Semiconductor Equipment",
+	"Listed investment name" : "PIVOTAL SYSTEMS CORPORATION"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e51"),
+	"ASX code" : "WTC",
+	"Category" : "Software & Services",
+	"Listed investment name" : "WISETECH GLOBAL LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e52"),
+	"ASX code" : "ALU",
+	"Category" : "Software & Services",
+	"Listed investment name" : "ALTIUM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e53"),
+	"ASX code" : "APT",
+	"Category" : "Software & Services",
+	"Listed investment name" : "AFTERPAY TOUCH GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e54"),
+	"ASX code" : "APX",
+	"Category" : "Software & Services",
+	"Listed investment name" : "APPEN LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e55"),
+	"ASX code" : "BVS",
+	"Category" : "Software & Services",
+	"Listed investment name" : "BRAVURA SOLUTIONS LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e56"),
+	"ASX code" : "CPU",
+	"Category" : "Software & Services",
+	"Listed investment name" : "COMPUTERSHARE LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e57"),
+	"ASX code" : "PMV",
+	"Category" : "Retailing",
+	"Listed investment name" : "PREMIER INVESTMENTS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e58"),
+	"ASX code" : "SUL",
+	"Category" : "Retailing",
+	"Listed investment name" : "SUPER RETAIL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e59"),
+	"ASX code" : "WEB",
+	"Category" : "Retailing",
+	"Listed investment name" : "WEBJET LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e5a"),
+	"ASX code" : "EML",
+	"Category" : "Software & Services",
+	"Listed investment name" : "EML PAYMENTS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e5b"),
+	"ASX code" : "HSN",
+	"Category" : "Software & Services",
+	"Listed investment name" : "HANSEN TECHNOLOGIES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e5c"),
+	"ASX code" : "IFM",
+	"Category" : "Software & Services",
+	"Listed investment name" : "INFOMEDIA LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e5d"),
+	"ASX code" : "IRE",
+	"Category" : "Software & Services",
+	"Listed investment name" : "IRESS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e5e"),
+	"ASX code" : "IRI",
+	"Category" : "Software & Services",
+	"Listed investment name" : "INTEGRATED RESEARCH LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e5f"),
+	"ASX code" : "NXT",
+	"Category" : "Software & Services",
+	"Listed investment name" : "NEXTDC LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e60"),
+	"ASX code" : "PPH",
+	"Category" : "Software & Services",
+	"Listed investment name" : "PUSHPAY HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e61"),
+	"ASX code" : "TNE",
+	"Category" : "Software & Services",
+	"Listed investment name" : "TECHNOLOGY ONE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e62"),
+	"ASX code" : "XRO",
+	"Category" : "Software & Services",
+	"Listed investment name" : "XERO LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e63"),
+	"ASX code" : "ARQ",
+	"Category" : "Software & Services",
+	"Listed investment name" : "ARQ GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e64"),
+	"ASX code" : "CGL",
+	"Category" : "Software & Services",
+	"Listed investment name" : "THE CITADEL GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e65"),
+	"ASX code" : "CL1",
+	"Category" : "Software & Services",
+	"Listed investment name" : "CLASS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e66"),
+	"ASX code" : "DTL",
+	"Category" : "Software & Services",
+	"Listed investment name" : "DATA#3 LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e67"),
+	"ASX code" : "DWS",
+	"Category" : "Software & Services",
+	"Listed investment name" : "DWS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e68"),
+	"ASX code" : "ELO",
+	"Category" : "Software & Services",
+	"Listed investment name" : "ELMO SOFTWARE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e69"),
+	"ASX code" : "LVH",
+	"Category" : "Software & Services",
+	"Listed investment name" : "LIVEHIRE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e6a"),
+	"ASX code" : "LVT",
+	"Category" : "Software & Services",
+	"Listed investment name" : "LIVETILES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e6b"),
+	"ASX code" : "OCL",
+	"Category" : "Software & Services",
+	"Listed investment name" : "OBJECTIVE CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e6c"),
+	"ASX code" : "OTW",
+	"Category" : "Software & Services",
+	"Listed investment name" : "OVER THE WIRE HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e6d"),
+	"ASX code" : "PPS",
+	"Category" : "Software & Services",
+	"Listed investment name" : "PRAEMIUM LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e6e"),
+	"ASX code" : "RHP",
+	"Category" : "Software & Services",
+	"Listed investment name" : "RHIPE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e6f"),
+	"ASX code" : "RUL",
+	"Category" : "Software & Services",
+	"Listed investment name" : "RPMGLOBAL HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e70"),
+	"ASX code" : "AD8",
+	"Category" : "Technology Hardware & Equipment",
+	"Listed investment name" : "AUDINATE GROUP LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e71"),
+	"ASX code" : "ISX",
+	"Category" : "Software & Services",
+	"Listed investment name" : "ISIGNTHIS LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e72"),
+	"ASX code" : "LNK",
+	"Category" : "Software & Services",
+	"Listed investment name" : "LINK ADMINISTRATION HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e73"),
+	"ASX code" : "MP1",
+	"Category" : "Software & Services",
+	"Listed investment name" : "MEGAPORT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e74"),
+	"ASX code" : "CDA",
+	"Category" : "Technology Hardware & Equipment",
+	"Listed investment name" : "CODAN LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e75"),
+	"ASX code" : "DDR",
+	"Category" : "Technology Hardware & Equipment",
+	"Listed investment name" : "DICKER DATA LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e76"),
+	"ASX code" : "CAT",
+	"Category" : "Technology Hardware & Equipment",
+	"Listed investment name" : "CATAPULT GROUP INTERNATIONAL LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e77"),
+	"ASX code" : "AIA",
+	"Category" : "Transportation",
+	"Listed investment name" : "AUCKLAND INTERNATIONAL AIRPORT LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e78"),
+	"ASX code" : "AZJ",
+	"Category" : "Transportation",
+	"Listed investment name" : "AURIZON HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e79"),
+	"ASX code" : "ALX",
+	"Category" : "Transportation",
+	"Listed investment name" : "ATLAS ARTERIA"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e7a"),
+	"ASX code" : "QUB",
+	"Category" : "Transportation",
+	"Listed investment name" : "QUBE HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e7b"),
+	"ASX code" : "VAH",
+	"Category" : "Transportation",
+	"Listed investment name" : "VIRGIN AUSTRALIA HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e7c"),
+	"ASX code" : "AQZ",
+	"Category" : "Transportation",
+	"Listed investment name" : "ALLIANCE AVIATION SERVICES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e7d"),
+	"ASX code" : "KSC",
+	"Category" : "Transportation",
+	"Listed investment name" : "K & S CORPORATION LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e7e"),
+	"ASX code" : "MRM",
+	"Category" : "Transportation",
+	"Listed investment name" : "MMA OFFSHORE LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e7f"),
+	"ASX code" : "REX",
+	"Category" : "Transportation",
+	"Listed investment name" : "REGIONAL EXPRESS HOLDINGS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e80"),
+	"ASX code" : "AGL",
+	"Category" : "Utilities",
+	"Listed investment name" : "AGL ENERGY LIMITED."
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e81"),
+	"ASX code" : "APA",
+	"Category" : "Utilities",
+	"Listed investment name" : "APA GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e82"),
+	"ASX code" : "AST",
+	"Category" : "Utilities",
+	"Listed investment name" : "AUSNET SERVICES LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e83"),
+	"ASX code" : "CEN",
+	"Category" : "Utilities",
+	"Listed investment name" : "CONTACT ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e84"),
+	"ASX code" : "EPW",
+	"Category" : "Utilities",
+	"Listed investment name" : "ERM POWER LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e85"),
+	"ASX code" : "GNE",
+	"Category" : "Utilities",
+	"Listed investment name" : "GENESIS ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e86"),
+	"ASX code" : "IFN",
+	"Category" : "Utilities",
+	"Listed investment name" : "INFIGEN ENERGY"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e87"),
+	"ASX code" : "MEZ",
+	"Category" : "Utilities",
+	"Listed investment name" : "MERIDIAN ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e88"),
+	"ASX code" : "PEA",
+	"Category" : "Utilities",
+	"Listed investment name" : "PACIFIC ENERGY LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e89"),
+	"ASX code" : "SKI",
+	"Category" : "Utilities",
+	"Listed investment name" : "SPARK INFRASTRUCTURE GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e8a"),
+	"ASX code" : "EWC",
+	"Category" : "Utilities",
+	"Listed investment name" : "ENERGY WORLD CORPORATION LTD"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e8b"),
+	"ASX code" : "QAN",
+	"Category" : "Transportation",
+	"Listed investment name" : "QANTAS AIRWAYS LIMITED"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e8c"),
+	"ASX code" : "SYD",
+	"Category" : "Transportation",
+	"Listed investment name" : "SYDNEY AIRPORT"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e8d"),
+	"ASX code" : "TCL",
+	"Category" : "Transportation",
+	"Listed investment name" : "TRANSURBAN GROUP"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e8e"),
+	"ASX code" : "NEW",
+	"Category" : "Utilities",
+	"Listed investment name" : "NEW ENERGY SOLAR"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e8f"),
+	"ASX code" : "AMPPA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "AMP Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e90"),
+	"ASX code" : "ANZPD",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "ANZ Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e91"),
+	"ASX code" : "ANZPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "ANZ Convertible Perpetual Capital Note 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e92"),
+	"ASX code" : "ANZPF",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "ANZ Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e93"),
+	"ASX code" : "BENHB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Bendigo & Adelaide Bank Unsec Red Perpetual Floating Rate Capital Note"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e94"),
+	"ASX code" : "BENPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Bendigo and Adelaide Bank CPS 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e95"),
+	"ASX code" : "BENPF",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Bendigo and Adelaide Bank CPS 3"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e96"),
+	"ASX code" : "BENPG",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Bendigo and Adelaide Bank CPS 4"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e97"),
+	"ASX code" : "BOQPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Bank Of Queensland CPS 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e98"),
+	"ASX code" : "CBAPD",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "CBA PERLS VII"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e99"),
+	"ASX code" : "CBAPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "CBA PERLS VIII"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e9a"),
+	"ASX code" : "CBAPF",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "CBA PERLS IX"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e9b"),
+	"ASX code" : "CBAPG",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "CBA PERLS X"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e9c"),
+	"ASX code" : "CBAPH",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "CBA PERLS XI"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e9d"),
+	"ASX code" : "CGFPA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Challenger Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e9e"),
+	"ASX code" : "CGFPB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Challenger Capital Notes 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1e9f"),
+	"ASX code" : "CWNHB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Crown Subordinated Notes II"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea0"),
+	"ASX code" : "IAGPD",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "IAG Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea1"),
+	"ASX code" : "IANG",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Insurance Australia Group Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea2"),
+	"ASX code" : "IMFHA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "IMF Bentham"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea3"),
+	"ASX code" : "MBLHB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Macquarie Income Sec Stapled Floating Rate Perp"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea4"),
+	"ASX code" : "MBLPA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Macquarie Bank Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea5"),
+	"ASX code" : "ANZPG",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "ANZ Capital Notes 4"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea6"),
+	"ASX code" : "ANZPH",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "ANZ Capital Notes 5"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea7"),
+	"ASX code" : "AYUHB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Australian Unity Bonds - Series B ?"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea8"),
+	"ASX code" : "MQGPB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Macquarie Group Capital Notes 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ea9"),
+	"ASX code" : "MQGPC",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Macquarie Group"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eaa"),
+	"ASX code" : "MQGPD",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Macquarie Group Capital Notes 4"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eab"),
+	"ASX code" : "NABHA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "NAB Income Securities"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eac"),
+	"ASX code" : "NABPB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "NAB CPS II"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ead"),
+	"ASX code" : "NABPF",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "NAB Capital Notes 3"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eae"),
+	"ASX code" : "QUBHA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "QUBE Subordinated Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eaf"),
+	"ASX code" : "RHCPA",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Ramsay Health Care"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb0"),
+	"ASX code" : "SBKHB",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Suncorp Unsec Perpetual Floating Rate Capital Note"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb1"),
+	"ASX code" : "SUNPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Suncorp CPS3"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb2"),
+	"ASX code" : "SUNPF",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Suncorp Capital Notes"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb3"),
+	"ASX code" : "SUNPG",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Suncorp Capital Notes 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb4"),
+	"ASX code" : "WBCPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Westpac Non-Cumulative Per. Capital Note ll"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb5"),
+	"ASX code" : "WBCPF",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Westpac Capital Notes 3"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb6"),
+	"ASX code" : "WBCPG",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Westpac Capital Notes 4"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb7"),
+	"ASX code" : "WBCPH",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Westpac Capital Notes 5"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb8"),
+	"ASX code" : "WBCPI",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "Westpac Capital Notes 6"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eb9"),
+	"ASX code" : "AFI",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Australian Foundation Investment Company"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eba"),
+	"ASX code" : "ALF",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Australian Leaders Fund Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ebb"),
+	"ASX code" : "AMH",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "AMCIL Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ebc"),
+	"ASX code" : "APL",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Antipodes Global Investment Company Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ebd"),
+	"ASX code" : "ARG",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Argo Investments Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ebe"),
+	"ASX code" : "AUI",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Australian United Investment Company Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ebf"),
+	"ASX code" : "NABPC",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "NAB Capital Note"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec0"),
+	"ASX code" : "NABPD",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "NAB Capital Notes 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec1"),
+	"ASX code" : "NABPE",
+	"Category" : "Interest Rate Securities",
+	"Listed investment name" : "NAB Subordinated Notes 2"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec2"),
+	"ASX code" : "CDM",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Cadence Capital Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec3"),
+	"ASX code" : "DJW",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Djerriwarrh Investments Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec4"),
+	"ASX code" : "DUI",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Diversified United Investment Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec5"),
+	"ASX code" : "MFF",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Magellan Flagship Fund Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec6"),
+	"ASX code" : "MLT",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Milton Corporation Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec7"),
+	"ASX code" : "PAI",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Platinum Asia Investments Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec8"),
+	"ASX code" : "QVE",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "QV Equities Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ec9"),
+	"ASX code" : "TGG",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Templeton Global Growth Fund Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1eca"),
+	"ASX code" : "MGG",
+	"Category" : "Listed Investment Trust",
+	"Listed investment name" : "Magellan Global Trust"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ecb"),
+	"ASX code" : "PE1",
+	"Category" : "Listed Investment Trust",
+	"Listed investment name" : "Pengana Private Equity Trust ?"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ecc"),
+	"ASX code" : "PGF",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "PM Capital Global Opportunities Fund"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ecd"),
+	"ASX code" : "PIC",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Perpetual Equity Investment Company Limited"
+},
+{
+	"_id" : ObjectId("5d9bfb1300bcfdc797fd1ece"),
+	"ASX code" : "PMC",
+	"Category" : "Listed Investment Companies",
+	"Listed investment name" : "Platinum Capital Limited"
+},
