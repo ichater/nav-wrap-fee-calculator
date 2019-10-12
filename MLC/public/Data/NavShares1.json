@@ -1,0 +1,2772 @@
+[
+	{
+	  "ASXcode": "ARB",
+	  "ListedInvestmentName": "ARB CORPORATION LIMITED.",
+	  "Category": "Automobiles & Components"
+	},
+	{
+	  "ASXcode": "GUD",
+	  "ListedInvestmentName": "G.U.D. HOLDINGS LIMITED",
+	  "Category": "Automobiles & Components"
+	},
+	{
+	  "ASXcode": "ATL",
+	  "ListedInvestmentName": "APOLLO TOURISM & LEISURE LTD",
+	  "Category": "Automobiles & Components"
+	},
+	{
+	  "ASXcode": "PWH",
+	  "ListedInvestmentName": "PWR HOLDINGS LIMITED",
+	  "Category": "Automobiles & Components"
+	},
+	{
+	  "ASXcode": "SFC",
+	  "ListedInvestmentName": "SCHAFFER CORPORATION LIMITED",
+	  "Category": "Automobiles & Components"
+	},
+	{
+	  "ASXcode": "ANZ",
+	  "ListedInvestmentName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "CBA",
+	  "ListedInvestmentName": "COMMONWEALTH BANK OF AUSTRALIA.",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "NAB",
+	  "ListedInvestmentName": "NATIONAL AUSTRALIA BANK LIMITED",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "WBC",
+	  "ListedInvestmentName": "WESTPAC BANKING CORPORATION",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "AFG",
+	  "ListedInvestmentName": "AUSTRALIAN FINANCE GROUP LTD",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "BEN",
+	  "ListedInvestmentName": "BENDIGO AND ADELAIDE BANK LIMITED",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "BOQ",
+	  "ListedInvestmentName": "BANK OF QUEENSLAND LIMITED.",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "CYB",
+	  "ListedInvestmentName": "CYBG PLC",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "GMA",
+	  "ListedInvestmentName": "GENWORTH MORTGAGE INSURANCE AUSTRALIA LIMITED",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "ABA",
+	  "ListedInvestmentName": "AUSWIDE BANK LTD",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "MOC",
+	  "ListedInvestmentName": "MORTGAGE CHOICE LIMITED",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "MYS",
+	  "ListedInvestmentName": "MYSTATE LIMITED",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "RMC",
+	  "ListedInvestmentName": "RESIMAC GROUP LTD",
+	  "Category": "Banks"
+	},
+	{
+	  "ASXcode": "CIM",
+	  "ListedInvestmentName": "CIMIC GROUP LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "ASB",
+	  "ListedInvestmentName": "AUSTAL LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "CDD",
+	  "ListedInvestmentName": "CARDNO LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "EHL",
+	  "ListedInvestmentName": "EMECO HOLDINGS LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "EOS",
+	  "ListedInvestmentName": "ELECTRO OPTIC SYSTEMS HOLDINGS LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "GWA",
+	  "ListedInvestmentName": "GWA GROUP LIMITED.",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "MND",
+	  "ListedInvestmentName": "MONADELPHOUS GROUP LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "NWH",
+	  "ListedInvestmentName": "NRW HOLDINGS LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "REH",
+	  "ListedInvestmentName": "REECE LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "RWC",
+	  "ListedInvestmentName": "RELIANCE WORLDWIDE CORPORATION LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "SSM",
+	  "ListedInvestmentName": "SERVICE STREAM LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "SST",
+	  "ListedInvestmentName": "STEAMSHIPS TRADING COMPANY LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "SVW",
+	  "ListedInvestmentName": "SEVEN GROUP HOLDINGS LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "AJL",
+	  "ListedInvestmentName": "AJ LUCAS GROUP LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "DCG",
+	  "ListedInvestmentName": "DECMIL GROUP LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "EGN",
+	  "ListedInvestmentName": "ENGENCO LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "FBR",
+	  "ListedInvestmentName": "FBR LTD",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "FLC",
+	  "ListedInvestmentName": "FLUENCE CORPORATION LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "JLG",
+	  "ListedInvestmentName": "JOHNS LYNG GROUP LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "LYL",
+	  "ListedInvestmentName": "LYCOPODIUM LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "SRG",
+	  "ListedInvestmentName": "SRG GLOBAL LIMITED",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "SXE",
+	  "ListedInvestmentName": "SOUTHERN CROSS ELECTRICAL ENGINEERING LTD",
+	  "Category": "Capital Goods"
+	},
+	{
+	  "ASXcode": "BXB",
+	  "ListedInvestmentName": "BRAMBLES LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "ALQ",
+	  "ListedInvestmentName": "ALS LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "AMA",
+	  "ListedInvestmentName": "AMA GROUP LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "BIN",
+	  "ListedInvestmentName": "BINGO INDUSTRIES LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "CWY",
+	  "ListedInvestmentName": "CLEANAWAY WASTE MANAGEMENT LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "DOW",
+	  "ListedInvestmentName": "DOWNER EDI LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "IPH",
+	  "ListedInvestmentName": "IPH LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "MMS",
+	  "ListedInvestmentName": "MCMILLAN SHAKESPEARE LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "NEA",
+	  "ListedInvestmentName": "NEARMAP LTD",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "PET",
+	  "ListedInvestmentName": "PHOSLOCK ENVIRONMENTAL TECHNOLOGIES LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "SEK",
+	  "ListedInvestmentName": "SEEK LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "SGF",
+	  "ListedInvestmentName": "SG FLEET GROUP LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "SIQ",
+	  "ListedInvestmentName": "SMARTGROUP CORPORATION LTD",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "A2B",
+	  "ListedInvestmentName": "A2B AUSTRALIA LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "CLQ",
+	  "ListedInvestmentName": "CLEAN TEQ HOLDINGS LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "FLN",
+	  "ListedInvestmentName": "FREELANCER LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "PPE",
+	  "ListedInvestmentName": "PEOPLE INFRASTRUCTURE LTD",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "QIP",
+	  "ListedInvestmentName": "QANTM INTELLECTUAL PROPERTY LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "WLL",
+	  "ListedInvestmentName": "WELLCOM GROUP LIMITED",
+	  "Category": "Commercial & Professional Services"
+	},
+	{
+	  "ASXcode": "TLS",
+	  "ListedInvestmentName": "TELSTRA CORPORATION LIMITED.",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "CNU",
+	  "ListedInvestmentName": "CHORUS LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "HTA",
+	  "ListedInvestmentName": "HUTCHISON TELECOMMUNICATIONS (AUSTRALIA) LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "MAQ",
+	  "ListedInvestmentName": "MACQUARIE TELECOM GROUP LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "SPK",
+	  "ListedInvestmentName": "SPARK NEW ZEALAND LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "TPM",
+	  "ListedInvestmentName": "TPG TELECOM LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "VOC",
+	  "ListedInvestmentName": "VOCUS GROUP LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "AYS",
+	  "ListedInvestmentName": "AMAYSIM AUSTRALIA LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "MNF",
+	  "ListedInvestmentName": "MNF GROUP LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "SDA",
+	  "ListedInvestmentName": "SPEEDCAST INTERNATIONAL LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "SLC",
+	  "ListedInvestmentName": "SUPERLOOP LIMITED",
+	  "Category": "Communication Services"
+	},
+	{
+	  "ASXcode": "AKP",
+	  "ListedInvestmentName": "AUDIO PIXELS HOLDINGS LIMITED",
+	  "Category": "Consumer Durables & Apparel"
+	},
+	{
+	  "ASXcode": "FWD",
+	  "ListedInvestmentName": "FLEETWOOD CORPORATION LIMITED",
+	  "Category": "Consumer Durables & Apparel"
+	},
+	{
+	  "ASXcode": "MCP",
+	  "ListedInvestmentName": "MCPHERSON'S LIMITED",
+	  "Category": "Consumer Durables & Apparel"
+	},
+	{
+	  "ASXcode": "MHJ",
+	  "ListedInvestmentName": "MICHAEL HILL INTERNATIONAL LIMITED",
+	  "Category": "Consumer Durables & Apparel"
+	},
+	{
+	  "ASXcode": "ALL",
+	  "ListedInvestmentName": "ARISTOCRAT LEISURE LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "TAH",
+	  "ListedInvestmentName": "TABCORP HOLDINGS LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "ALG",
+	  "ListedInvestmentName": "ARDENT LEISURE GROUP LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "CKF",
+	  "ListedInvestmentName": "COLLINS FOODS LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "CTD",
+	  "ListedInvestmentName": "CORPORATE TRAVEL MANAGEMENT LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "CWN",
+	  "ListedInvestmentName": "CROWN RESORTS LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "DMP",
+	  "ListedInvestmentName": "DOMINO'S PIZZA ENTERPRISES LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "FLT",
+	  "ListedInvestmentName": "FLIGHT CENTRE TRAVEL GROUP LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "GEM",
+	  "ListedInvestmentName": "G8 EDUCATION LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "HLO",
+	  "ListedInvestmentName": "HELLOWORLD TRAVEL LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "IEL",
+	  "ListedInvestmentName": "IDP EDUCATION LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "IVC",
+	  "ListedInvestmentName": "INVOCARE LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "JIN",
+	  "ListedInvestmentName": "JUMBO INTERACTIVE LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "RDC",
+	  "ListedInvestmentName": "REDCAPE HOTEL GROUP",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "SGR",
+	  "ListedInvestmentName": "THE STAR ENTERTAINMENT GROUP LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "SKC",
+	  "ListedInvestmentName": "SKYCITY ENTERTAINMENT GROUP LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "3PL",
+	  "ListedInvestmentName": "3P LEARNING LIMITED..",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "AGI",
+	  "ListedInvestmentName": "AINSWORTH GAME TECHNOLOGY LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "ENN",
+	  "ListedInvestmentName": "ELANOR INVESTORS GROUP",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "EXP",
+	  "ListedInvestmentName": "EXPERIENCE CO LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "ISU",
+	  "ListedInvestmentName": "ISELECT LIMITED.",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "PFP",
+	  "ListedInvestmentName": "PROPEL FUNERAL PARTNERS LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "RCT",
+	  "ListedInvestmentName": "REEF CASINO TRUST",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "SGH",
+	  "ListedInvestmentName": "SLATER & GORDON LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "SHJ",
+	  "ListedInvestmentName": "SHINE CORPORATE LTD",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "SLK",
+	  "ListedInvestmentName": "SEALINK TRAVEL GROUP LIMITED",
+	  "Category": "Consumer Services"
+	},
+	{
+	  "ASXcode": "ASX",
+	  "ListedInvestmentName": "ASX LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "MQG",
+	  "ListedInvestmentName": "MACQUARIE GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "CCP",
+	  "ListedInvestmentName": "CREDIT CORP GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "CGF",
+	  "ListedInvestmentName": "CHALLENGER LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "CNI",
+	  "ListedInvestmentName": "CENTURIA CAPITAL GROUP",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "ECX",
+	  "ListedInvestmentName": "ECLIPX GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "EQT",
+	  "ListedInvestmentName": "EQT HOLDINGS LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "FXL",
+	  "ListedInvestmentName": "FLEXIGROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "HUB",
+	  "ListedInvestmentName": "HUB24 LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "IFL",
+	  "ListedInvestmentName": "IOOF HOLDINGS LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "IMF",
+	  "ListedInvestmentName": "IMF BENTHAM LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "JHG",
+	  "ListedInvestmentName": "JANUS HENDERSON GROUP PLC",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "MFG",
+	  "ListedInvestmentName": "MAGELLAN FINANCIAL GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "MOE",
+	  "ListedInvestmentName": "MOELIS AUSTRALIA LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "NGI",
+	  "ListedInvestmentName": "NAVIGATOR GLOBAL INVESTMENTS LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "NWL",
+	  "ListedInvestmentName": "NETWEALTH GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PDL",
+	  "ListedInvestmentName": "PENDAL GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PNI",
+	  "ListedInvestmentName": "PINNACLE INVESTMENT MANAGEMENT GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PPT",
+	  "ListedInvestmentName": "PERPETUAL LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PTM",
+	  "ListedInvestmentName": "PLATINUM ASSET MANAGEMENT LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "Z1P",
+	  "ListedInvestmentName": "ZIP CO LIMITED.",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "AEF",
+	  "ListedInvestmentName": "AUSTRALIAN ETHICAL INVESTMENT LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "APD",
+	  "ListedInvestmentName": "APN PROPERTY GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "BFG",
+	  "ListedInvestmentName": "BELL FINANCIAL GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "CLH",
+	  "ListedInvestmentName": "COLLECTION HOUSE LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "COG",
+	  "ListedInvestmentName": "CONSOLIDATED OPERATIONS GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "CVC",
+	  "ListedInvestmentName": "CVC LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "CVW",
+	  "ListedInvestmentName": "CLEARVIEW WEALTH LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "ED1",
+	  "ListedInvestmentName": "EVANS DIXON LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "EZL",
+	  "ListedInvestmentName": "EUROZ LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "FID",
+	  "ListedInvestmentName": "FIDUCIAN GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "FSA",
+	  "ListedInvestmentName": "FSA GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "GOW",
+	  "ListedInvestmentName": "GOWING BROS LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "KSL",
+	  "ListedInvestmentName": "KINA SECURITIES LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "MNY",
+	  "ListedInvestmentName": "MONEY3 CORPORATION LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "OFX",
+	  "ListedInvestmentName": "OFX GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "OVH",
+	  "ListedInvestmentName": "ONEVUE HOLDINGS LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PAC",
+	  "ListedInvestmentName": "PACIFIC CURRENT GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PCG",
+	  "ListedInvestmentName": "PENGANA CAPITAL GROUP LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "PNC",
+	  "ListedInvestmentName": "PIONEER CREDIT LIMITED",
+	  "Category": "Diversified Financials"
+	},
+	{
+	  "ASXcode": "ORG",
+	  "ListedInvestmentName": "ORIGIN ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "OSH",
+	  "ListedInvestmentName": "OIL SEARCH LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "STO",
+	  "ListedInvestmentName": "SANTOS LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "WPL",
+	  "ListedInvestmentName": "WOODSIDE PETROLEUM LTD",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "BPT",
+	  "ListedInvestmentName": "BEACH ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "COE",
+	  "ListedInvestmentName": "COOPER ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "CTX",
+	  "ListedInvestmentName": "CALTEX AUSTRALIA LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "CVN",
+	  "ListedInvestmentName": "CARNARVON PETROLEUM LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "NHC",
+	  "ListedInvestmentName": "NEW HOPE CORPORATION LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "SOL",
+	  "ListedInvestmentName": "WASHINGTON H SOUL PATTINSON & COMPANY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "SXY",
+	  "ListedInvestmentName": "SENEX ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "VEA",
+	  "ListedInvestmentName": "VIVA ENERGY GROUP LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "WHC",
+	  "ListedInvestmentName": "WHITEHAVEN COAL LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "WOR",
+	  "ListedInvestmentName": "WORLEYPARSONS LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "YAL",
+	  "ListedInvestmentName": "YANCOAL AUSTRALIA LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "ZEL",
+	  "ListedInvestmentName": "Z ENERGY LIMITED.",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "ATS",
+	  "ListedInvestmentName": "AUSTRALIS OIL & GAS LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "BYE",
+	  "ListedInvestmentName": "BYRON ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "COI",
+	  "ListedInvestmentName": "COMET RIDGE LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "ERA",
+	  "ListedInvestmentName": "ENERGY RESOURCES OF AUSTRALIA LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "FAR",
+	  "ListedInvestmentName": "FAR LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "FDM",
+	  "ListedInvestmentName": "FREEDOM OIL AND GAS LTD",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "GLL",
+	  "ListedInvestmentName": "GALILEE ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "HE8",
+	  "ListedInvestmentName": "HELIOS ENERGY LTD",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "HZN",
+	  "ListedInvestmentName": "HORIZON OIL LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "KAR",
+	  "ListedInvestmentName": "KAROON ENERGY LTD",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "LNG",
+	  "ListedInvestmentName": "LIQUEFIED NATURAL GAS LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "PDN",
+	  "ListedInvestmentName": "PALADIN ENERGY LTD",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "SEA",
+	  "ListedInvestmentName": "SUNDANCE ENERGY AUSTRALIA LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "SMR",
+	  "ListedInvestmentName": "STANMORE COAL LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "STX",
+	  "ListedInvestmentName": "STRIKE ENERGY LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "TER",
+	  "ListedInvestmentName": "TERRACOM LIMITED",
+	  "Category": "Energy"
+	},
+	{
+	  "ASXcode": "COL",
+	  "ListedInvestmentName": "COLES GROUP LIMITED.",
+	  "Category": "Food & Staples Retailing"
+	},
+	{
+	  "ASXcode": "WOW",
+	  "ListedInvestmentName": "WOOLWORTHS GROUP LIMITED",
+	  "Category": "Food & Staples Retailing"
+	},
+	{
+	  "ASXcode": "MTS",
+	  "ListedInvestmentName": "METCASH LIMITED",
+	  "Category": "Food & Staples Retailing"
+	},
+	{
+	  "ASXcode": "TWE",
+	  "ListedInvestmentName": "TREASURY WINE ESTATES LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "A2M",
+	  "ListedInvestmentName": "THE A2 MILK COMPANY LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "AAC",
+	  "ListedInvestmentName": "AUSTRALIAN AGRICULTURAL COMPANY LIMITED.",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "BAL",
+	  "ListedInvestmentName": "BELLAMY'S AUSTRALIA LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "BGA",
+	  "ListedInvestmentName": "BEGA CHEESE LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "BUB",
+	  "ListedInvestmentName": "BUBS AUSTRALIA LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "CCL",
+	  "ListedInvestmentName": "COCA-COLA AMATIL LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "CGC",
+	  "ListedInvestmentName": "COSTA GROUP HOLDINGS LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "ELD",
+	  "ListedInvestmentName": "ELDERS LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "FNP",
+	  "ListedInvestmentName": "FREEDOM FOODS GROUP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "GNC",
+	  "ListedInvestmentName": "GRAINCORP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "ING",
+	  "ListedInvestmentName": "INGHAMS GROUP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "SHV",
+	  "ListedInvestmentName": "SELECT HARVESTS LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "SM1",
+	  "ListedInvestmentName": "SYNLAIT MILK LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "TGR",
+	  "ListedInvestmentName": "TASSAL GROUP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "WBA",
+	  "ListedInvestmentName": "WEBSTER LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "AVG",
+	  "ListedInvestmentName": "AUSTRALIAN VINTAGE LTD",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "DFM",
+	  "ListedInvestmentName": "DONGFANG MODERN AGRICULTURE HOLDING GROUP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "HUO",
+	  "ListedInvestmentName": "HUON AQUACULTURE GROUP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "RIC",
+	  "ListedInvestmentName": "RIDLEY CORPORATION LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "SFG",
+	  "ListedInvestmentName": "SEAFARMS GROUP LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "WHA",
+	  "ListedInvestmentName": "WATTLE HEALTH AUSTRALIA LIMITED",
+	  "Category": "Food, Beverage & Tobacco"
+	},
+	{
+	  "ASXcode": "COH",
+	  "ListedInvestmentName": "COCHLEAR LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "RHC",
+	  "ListedInvestmentName": "RAMSAY HEALTH CARE LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "SHL",
+	  "ListedInvestmentName": "SONIC HEALTHCARE LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "ANN",
+	  "ListedInvestmentName": "ANSELL LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "API",
+	  "ListedInvestmentName": "AUSTRALIAN PHARMACEUTICAL INDUSTRIES LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "EHE",
+	  "ListedInvestmentName": "ESTIA HEALTH LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "FPH",
+	  "ListedInvestmentName": "FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "HLS",
+	  "ListedInvestmentName": "HEALIUS LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "IDX",
+	  "ListedInvestmentName": "INTEGRAL DIAGNOSTICS LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "NAN",
+	  "ListedInvestmentName": "NANOSONICS LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "PME",
+	  "ListedInvestmentName": "PRO MEDICUS LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "REG",
+	  "ListedInvestmentName": "REGIS HEALTHCARE LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "RMD",
+	  "ListedInvestmentName": "RESMED INC",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "SIG",
+	  "ListedInvestmentName": "SIGMA HEALTHCARE LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "CAJ",
+	  "ListedInvestmentName": "CAPITOL HEALTH LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "CLV",
+	  "ListedInvestmentName": "CLOVER CORPORATION LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "JHC",
+	  "ListedInvestmentName": "JAPARA HEALTHCARE LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "NVL",
+	  "ListedInvestmentName": "NATIONAL VETERINARY CARE LTD",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "ONT",
+	  "ListedInvestmentName": "1300 SMILES LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "PGC",
+	  "ListedInvestmentName": "PARAGON CARE LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "PSQ",
+	  "ListedInvestmentName": "PACIFIC SMILES GROUP LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "VHT",
+	  "ListedInvestmentName": "VOLPARA HEALTH TECHNOLOGIES LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "VRT",
+	  "ListedInvestmentName": "VIRTUS HEALTH LIMITED",
+	  "Category": "Health Care Equipment & Services"
+	},
+	{
+	  "ASXcode": "AHY",
+	  "ListedInvestmentName": "ASALEO CARE LIMITED",
+	  "Category": "Household & Personal Products"
+	},
+	{
+	  "ASXcode": "BKL",
+	  "ListedInvestmentName": "BLACKMORES LIMITED",
+	  "Category": "Household & Personal Products"
+	},
+	{
+	  "ASXcode": "BWX",
+	  "ListedInvestmentName": "BWX LIMITED",
+	  "Category": "Household & Personal Products"
+	},
+	{
+	  "ASXcode": "WJA",
+	  "ListedInvestmentName": "WAMEJA LIMITED",
+	  "Category": "Information Technology"
+	},
+	{
+	  "ASXcode": "IAG",
+	  "ListedInvestmentName": "INSURANCE AUSTRALIA GROUP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "QBE",
+	  "ListedInvestmentName": "QBE INSURANCE GROUP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "SUN",
+	  "ListedInvestmentName": "SUNCORP GROUP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "AMP",
+	  "ListedInvestmentName": "AMP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "AUB",
+	  "ListedInvestmentName": "AUB GROUP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "MPL",
+	  "ListedInvestmentName": "MEDIBANK PRIVATE LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "NHF",
+	  "ListedInvestmentName": "NIB HOLDINGS LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "PSI",
+	  "ListedInvestmentName": "PSC INSURANCE GROUP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "SDF",
+	  "ListedInvestmentName": "STEADFAST GROUP LIMITED",
+	  "Category": "Insurance"
+	},
+	{
+	  "ASXcode": "AMC",
+	  "ListedInvestmentName": "AMCOR LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BHP",
+	  "ListedInvestmentName": "BHP GROUP LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "FMG",
+	  "ListedInvestmentName": "FORTESCUE METALS GROUP LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "JHX",
+	  "ListedInvestmentName": "JAMES HARDIE INDUSTRIES PLC",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "NCM",
+	  "ListedInvestmentName": "NEWCREST MINING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "RIO",
+	  "ListedInvestmentName": "RIO TINTO LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "S32",
+	  "ListedInvestmentName": "SOUTH32 LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ABC",
+	  "ListedInvestmentName": "ADELAIDE BRIGHTON LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AGG",
+	  "ListedInvestmentName": "ANGLOGOLD ASHANTI LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ASL",
+	  "ListedInvestmentName": "AUSDRILL LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AWC",
+	  "ListedInvestmentName": "ALUMINA LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BKW",
+	  "ListedInvestmentName": "BRICKWORKS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BLD",
+	  "ListedInvestmentName": "BORAL LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BSL",
+	  "ListedInvestmentName": "BLUESCOPE STEEL LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "CIA",
+	  "ListedInvestmentName": "CHAMPION IRON LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "CRN",
+	  "ListedInvestmentName": "CORONADO GLOBAL RESOURCES INC.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "CSR",
+	  "ListedInvestmentName": "CSR LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "EVN",
+	  "ListedInvestmentName": "EVOLUTION MINING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "FBU",
+	  "ListedInvestmentName": "FLETCHER BUILDING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "GOR",
+	  "ListedInvestmentName": "GOLD ROAD RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "IGO",
+	  "ListedInvestmentName": "INDEPENDENCE GROUP NL",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ILU",
+	  "ListedInvestmentName": "ILUKA RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "IMD",
+	  "ListedInvestmentName": "IMDEX LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "IPL",
+	  "ListedInvestmentName": "INCITEC PIVOT LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "JMS",
+	  "ListedInvestmentName": "JUPITER MINES LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "LYC",
+	  "ListedInvestmentName": "LYNAS CORPORATION LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MGX",
+	  "ListedInvestmentName": "MOUNT GIBSON IRON LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MIN",
+	  "ListedInvestmentName": "MINERAL RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "NIC",
+	  "ListedInvestmentName": "NICKEL MINES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "NST",
+	  "ListedInvestmentName": "NORTHERN STAR RESOURCES LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "NUF",
+	  "ListedInvestmentName": "NUFARM LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ORA",
+	  "ListedInvestmentName": "ORORA LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ORE",
+	  "ListedInvestmentName": "OROCOBRE LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ORI",
+	  "ListedInvestmentName": "ORICA LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "OZL",
+	  "ListedInvestmentName": "OZ MINERALS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "PGH",
+	  "ListedInvestmentName": "PACT GROUP HOLDINGS LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "PLS",
+	  "ListedInvestmentName": "PILBARA MINERALS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "PRU",
+	  "ListedInvestmentName": "PERSEUS MINING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "RMS",
+	  "ListedInvestmentName": "RAMELIUS RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "RRL",
+	  "ListedInvestmentName": "REGIS RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "RSG",
+	  "ListedInvestmentName": "RESOLUTE MINING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SAR",
+	  "ListedInvestmentName": "SARACEN MINERAL HOLDINGS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SBM",
+	  "ListedInvestmentName": "ST BARBARA LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SFR",
+	  "ListedInvestmentName": "SANDFIRE RESOURCES NL",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SGM",
+	  "ListedInvestmentName": "SIMS METAL MANAGEMENT LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SLR",
+	  "ListedInvestmentName": "SILVER LAKE RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "TBR",
+	  "ListedInvestmentName": "TRIBUNE RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "WGX",
+	  "ListedInvestmentName": "WESTGOLD RESOURCES LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "WSA",
+	  "ListedInvestmentName": "WESTERN AREAS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "ZIM",
+	  "ListedInvestmentName": "ZIMPLATS HOLDINGS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AGY",
+	  "ListedInvestmentName": "ARGOSY MINERALS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AJM",
+	  "ListedInvestmentName": "ALTURA MINING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AMI",
+	  "ListedInvestmentName": "AURELIA METALS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AML",
+	  "ListedInvestmentName": "AEON METALS LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AQG",
+	  "ListedInvestmentName": "ALACER GOLD CORP.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AUZ",
+	  "ListedInvestmentName": "AUSTRALIAN MINES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "AVZ",
+	  "ListedInvestmentName": "AVZ MINERALS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BGL",
+	  "ListedInvestmentName": "BELLEVUE GOLD LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BRL",
+	  "ListedInvestmentName": "BATHURST RESOURCES LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "BSE",
+	  "ListedInvestmentName": "BASE RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "CDV",
+	  "ListedInvestmentName": "CARDINAL RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "CII",
+	  "ListedInvestmentName": "CI RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "DCN",
+	  "ListedInvestmentName": "DACIAN GOLD LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "DNK",
+	  "ListedInvestmentName": "DANAKALI LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "FMS",
+	  "ListedInvestmentName": "FLINDERS MINES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "GNG",
+	  "ListedInvestmentName": "GR ENGINEERING SERVICES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "GRR",
+	  "ListedInvestmentName": "GRANGE RESOURCES LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "GXY",
+	  "ListedInvestmentName": "GALAXY RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "HAS",
+	  "ListedInvestmentName": "HASTINGS TECHNOLOGY METALS LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "HFR",
+	  "ListedInvestmentName": "HIGHFIELD RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "HRR",
+	  "ListedInvestmentName": "HERON RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "INR",
+	  "ListedInvestmentName": "IONEER LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MAH",
+	  "ListedInvestmentName": "MACMAHON HOLDINGS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MLD",
+	  "ListedInvestmentName": "MACA LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MLX",
+	  "ListedInvestmentName": "METALS X LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MMI",
+	  "ListedInvestmentName": "METRO MINING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MNS",
+	  "ListedInvestmentName": "MAGNIS ENERGY TECHNOLOGIES LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MOY",
+	  "ListedInvestmentName": "MILLENNIUM MINERALS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "MWY",
+	  "ListedInvestmentName": "MIDWAY LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "NCZ",
+	  "ListedInvestmentName": "NEW CENTURY RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "NMT",
+	  "ListedInvestmentName": "NEOMETALS LTD",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "OGC",
+	  "ListedInvestmentName": "OCEANAGOLD CORPORATION",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "OMH",
+	  "ListedInvestmentName": "OM HOLDINGS LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "PAN",
+	  "ListedInvestmentName": "PANORAMIC RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "PNR",
+	  "ListedInvestmentName": "PANTORO LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "PPG",
+	  "ListedInvestmentName": "PRO-PAC PACKAGING LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SFX",
+	  "ListedInvestmentName": "SHEFFIELD RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "SYR",
+	  "ListedInvestmentName": "SYRAH RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "TGN",
+	  "ListedInvestmentName": "TUNGSTEN MINING NL",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "TZN",
+	  "ListedInvestmentName": "TERRAMIN AUSTRALIA LIMITED.",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "WAF",
+	  "ListedInvestmentName": "WEST AFRICAN RESOURCES LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "WGN",
+	  "ListedInvestmentName": "WAGNERS HOLDING COMPANY LIMITED",
+	  "Category": "Materials"
+	},
+	{
+	  "ASXcode": "REA",
+	  "ListedInvestmentName": "REA GROUP LTD",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "CAR",
+	  "ListedInvestmentName": "CARSALES.COM LIMITED.",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "DHG",
+	  "ListedInvestmentName": "DOMAIN HOLDINGS AUSTRALIA LIMITED.",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "EVT",
+	  "ListedInvestmentName": "EVENT HOSPITALITY AND ENTERTAINMENT LTD",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "HT1",
+	  "ListedInvestmentName": "HT&E LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "NEC",
+	  "ListedInvestmentName": "NINE ENTERTAINMENT CO. HOLDINGS LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "NWS",
+	  "ListedInvestmentName": "NEWS CORPORATION..",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "OML",
+	  "ListedInvestmentName": "OOH!MEDIA LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "SWM",
+	  "ListedInvestmentName": "SEVEN WEST MEDIA LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "SXL",
+	  "ListedInvestmentName": "SOUTHERN CROSS MEDIA GROUP LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "VRL",
+	  "ListedInvestmentName": "VILLAGE ROADSHOW LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "WPP",
+	  "ListedInvestmentName": "WPP AUNZ LTD",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "GTN",
+	  "ListedInvestmentName": "GTN LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "IGL",
+	  "ListedInvestmentName": "IVE GROUP LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "MRN",
+	  "ListedInvestmentName": "MACQUARIE MEDIA LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "QMS",
+	  "ListedInvestmentName": "QMS MEDIA LIMITED",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "SKT",
+	  "ListedInvestmentName": "SKY NETWORK TELEVISION LIMITED.",
+	  "Category": "Media & Entertainment"
+	},
+	{
+	  "ASXcode": "CSL",
+	  "ListedInvestmentName": "CSL LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "AVH",
+	  "ListedInvestmentName": "AVITA MEDICAL LTD",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "CUV",
+	  "ListedInvestmentName": "CLINUVEL PHARMACEUTICALS LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "MSB",
+	  "ListedInvestmentName": "MESOBLAST LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "MYX",
+	  "ListedInvestmentName": "MAYNE PHARMA GROUP LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "OPT",
+	  "ListedInvestmentName": "OPTHEA LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "PNV",
+	  "ListedInvestmentName": "POLYNOVO LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "AC8",
+	  "ListedInvestmentName": "AUSCANN GROUP HOLDINGS LTD",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "CAN",
+	  "ListedInvestmentName": "CANN GROUP LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "MVF",
+	  "ListedInvestmentName": "MONASH IVF GROUP LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "MVP",
+	  "ListedInvestmentName": "MEDICAL DEVELOPMENTS INTERNATIONAL LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "NEU",
+	  "ListedInvestmentName": "NEUREN PHARMACEUTICALS LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "PAR",
+	  "ListedInvestmentName": "PARADIGM BIOPHARMACEUTICALS LIMITED..",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "SPL",
+	  "ListedInvestmentName": "STARPHARMA HOLDINGS LIMITED",
+	  "Category": "Pharmaceuticals, Biotechnology & Life Sciences"
+	},
+	{
+	  "ASXcode": "DXS",
+	  "ListedInvestmentName": "DEXUS",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "GMG",
+	  "ListedInvestmentName": "GOODMAN GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "GPT",
+	  "ListedInvestmentName": "GPT GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "LLC",
+	  "ListedInvestmentName": "LENDLEASE GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "MGR",
+	  "ListedInvestmentName": "MIRVAC GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "SCG",
+	  "ListedInvestmentName": "SCENTRE GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "SGP",
+	  "ListedInvestmentName": "STOCKLAND",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "VCX",
+	  "ListedInvestmentName": "VICINITY CENTRES",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "ABP",
+	  "ListedInvestmentName": "ABACUS PROPERTY GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "ADI",
+	  "ListedInvestmentName": "APN INDUSTRIA REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "AOF",
+	  "ListedInvestmentName": "AUSTRALIAN UNITY OFFICE FUND",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "AOG",
+	  "ListedInvestmentName": "AVEO GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "ARF",
+	  "ListedInvestmentName": "ARENA REIT.",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "AVN",
+	  "ListedInvestmentName": "AVENTUS GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "BWP",
+	  "ListedInvestmentName": "BWP TRUST",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CHC",
+	  "ListedInvestmentName": "CHARTER HALL GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CIP",
+	  "ListedInvestmentName": "CENTURIA INDUSTRIAL REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CLW",
+	  "ListedInvestmentName": "CHARTER HALL LONG WALE REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CMA",
+	  "ListedInvestmentName": "CENTURIA METROPOLITAN REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CMW",
+	  "ListedInvestmentName": "CROMWELL PROPERTY GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CQE",
+	  "ListedInvestmentName": "CHARTER HALL EDUCATION TRUST",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CQR",
+	  "ListedInvestmentName": "CHARTER HALL RETAIL REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CWP",
+	  "ListedInvestmentName": "CEDAR WOODS PROPERTIES LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "GDI",
+	  "ListedInvestmentName": "GDI PROPERTY GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "GOZ",
+	  "ListedInvestmentName": "GROWTHPOINT PROPERTIES AUSTRALIA",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "HPI",
+	  "ListedInvestmentName": "HOTEL PROPERTY INVESTMENTS",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "INA",
+	  "ListedInvestmentName": "INGENIA COMMUNITIES GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "LEP",
+	  "ListedInvestmentName": "ALE PROPERTY GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "LIC",
+	  "ListedInvestmentName": "LIFESTYLE COMMUNITIES LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "NSR",
+	  "ListedInvestmentName": "NATIONAL STORAGE REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "PPC",
+	  "ListedInvestmentName": "PEET LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "RFF",
+	  "ListedInvestmentName": "RURAL FUNDS GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "SCP",
+	  "ListedInvestmentName": "SHOPPING CENTRES AUSTRALASIA PROPERTY GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "URW",
+	  "ListedInvestmentName": "UNIBAIL-RODAMCO-WESTFIELD",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "VVR",
+	  "ListedInvestmentName": "VIVA ENERGY REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "AQR",
+	  "ListedInvestmentName": "APN CONVENIENCE RETAIL REIT",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "AVJ",
+	  "ListedInvestmentName": "AVJENNINGS LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "CDP",
+	  "ListedInvestmentName": "CARINDALE PROPERTY TRUST",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "ERF",
+	  "ListedInvestmentName": "ELANOR RETAIL PROPERTY FUND",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "FRI",
+	  "ListedInvestmentName": "FINBAR GROUP LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "GDF",
+	  "ListedInvestmentName": "GARDA DIVERSIFIED PROPERTY FUND",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "SDG",
+	  "ListedInvestmentName": "SUNLAND GROUP LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "SRV",
+	  "ListedInvestmentName": "SERVCORP LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "TGP",
+	  "ListedInvestmentName": "360 CAPITAL GROUP",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "UOS",
+	  "ListedInvestmentName": "UNITED OVERSEAS AUSTRALIA LIMITED",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "URF",
+	  "ListedInvestmentName": "US MASTERS RESIDENTIAL PROPERTY FUND",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "VLW",
+	  "ListedInvestmentName": "VILLA WORLD LIMITED.",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "VTH",
+	  "ListedInvestmentName": "VITALHARVEST FREEHOLD TRUST",
+	  "Category": "Real Estate"
+	},
+	{
+	  "ASXcode": "WES",
+	  "ListedInvestmentName": "WESFARMERS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "APE",
+	  "ListedInvestmentName": "AP EAGERS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "AX1",
+	  "ListedInvestmentName": "ACCENT GROUP LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "BAP",
+	  "ListedInvestmentName": "BAPCOR LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "BRG",
+	  "ListedInvestmentName": "BREVILLE GROUP LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "HVN",
+	  "ListedInvestmentName": "HARVEY NORMAN HOLDINGS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "JBH",
+	  "ListedInvestmentName": "JB HI-FI LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "KGN",
+	  "ListedInvestmentName": "KOGAN.COM LTD",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "KMD",
+	  "ListedInvestmentName": "KATHMANDU HOLDINGS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "LOV",
+	  "ListedInvestmentName": "LOVISA HOLDINGS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "MYR",
+	  "ListedInvestmentName": "MYER HOLDINGS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "NCK",
+	  "ListedInvestmentName": "NICK SCALI LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "PMV",
+	  "ListedInvestmentName": "PREMIER INVESTMENTS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "SUL",
+	  "ListedInvestmentName": "SUPER RETAIL GROUP LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "WEB",
+	  "ListedInvestmentName": "WEBJET LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "ADH",
+	  "ListedInvestmentName": "ADAIRS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "ASG",
+	  "ListedInvestmentName": "AUTOSPORTS GROUP LIMITED.",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "BBN",
+	  "ListedInvestmentName": "BABY BUNTING GROUP LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "BLX",
+	  "ListedInvestmentName": "BEACON LIGHTING GROUP LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "CCV",
+	  "ListedInvestmentName": "CASH CONVERTERS INTERNATIONAL",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "CCX",
+	  "ListedInvestmentName": "CITY CHIC COLLECTIVE LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "MTO",
+	  "ListedInvestmentName": "MOTORCYCLE HOLDINGS LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "NBL",
+	  "ListedInvestmentName": "NONI B LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "RBL",
+	  "ListedInvestmentName": "REDBUBBLE LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "SNL",
+	  "ListedInvestmentName": "SUPPLY NETWORK LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "VTG",
+	  "ListedInvestmentName": "VITA GROUP LIMITED",
+	  "Category": "Retailing"
+	},
+	{
+	  "ASXcode": "PVS",
+	  "ListedInvestmentName": "PIVOTAL SYSTEMS CORPORATION",
+	  "Category": "Semiconductors & Semiconductor Equipment"
+	},
+	{
+	  "ASXcode": "WTC",
+	  "ListedInvestmentName": "WISETECH GLOBAL LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "ALU",
+	  "ListedInvestmentName": "ALTIUM LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "APT",
+	  "ListedInvestmentName": "AFTERPAY TOUCH GROUP LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "APX",
+	  "ListedInvestmentName": "APPEN LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "BVS",
+	  "ListedInvestmentName": "BRAVURA SOLUTIONS LIMITED.",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "CPU",
+	  "ListedInvestmentName": "COMPUTERSHARE LIMITED.",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "EML",
+	  "ListedInvestmentName": "EML PAYMENTS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "HSN",
+	  "ListedInvestmentName": "HANSEN TECHNOLOGIES LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "IFM",
+	  "ListedInvestmentName": "INFOMEDIA LTD",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "IRE",
+	  "ListedInvestmentName": "IRESS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "IRI",
+	  "ListedInvestmentName": "INTEGRATED RESEARCH LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "ISX",
+	  "ListedInvestmentName": "ISIGNTHIS LTD",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "LNK",
+	  "ListedInvestmentName": "LINK ADMINISTRATION HOLDINGS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "MP1",
+	  "ListedInvestmentName": "MEGAPORT LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "NXT",
+	  "ListedInvestmentName": "NEXTDC LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "PPH",
+	  "ListedInvestmentName": "PUSHPAY HOLDINGS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "TNE",
+	  "ListedInvestmentName": "TECHNOLOGY ONE LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "XRO",
+	  "ListedInvestmentName": "XERO LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "ARQ",
+	  "ListedInvestmentName": "ARQ GROUP LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "CGL",
+	  "ListedInvestmentName": "THE CITADEL GROUP LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "CL1",
+	  "ListedInvestmentName": "CLASS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "DTL",
+	  "ListedInvestmentName": "DATA#3 LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "DWS",
+	  "ListedInvestmentName": "DWS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "ELO",
+	  "ListedInvestmentName": "ELMO SOFTWARE LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "LVH",
+	  "ListedInvestmentName": "LIVEHIRE LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "LVT",
+	  "ListedInvestmentName": "LIVETILES LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "OCL",
+	  "ListedInvestmentName": "OBJECTIVE CORPORATION LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "OTW",
+	  "ListedInvestmentName": "OVER THE WIRE HOLDINGS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "PPS",
+	  "ListedInvestmentName": "PRAEMIUM LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "RHP",
+	  "ListedInvestmentName": "RHIPE LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "RUL",
+	  "ListedInvestmentName": "RPMGLOBAL HOLDINGS LIMITED",
+	  "Category": "Software & Services"
+	},
+	{
+	  "ASXcode": "AD8",
+	  "ListedInvestmentName": "AUDINATE GROUP LIMITED",
+	  "Category": "Technology Hardware & Equipment"
+	},
+	{
+	  "ASXcode": "CDA",
+	  "ListedInvestmentName": "CODAN LIMITED",
+	  "Category": "Technology Hardware & Equipment"
+	},
+	{
+	  "ASXcode": "DDR",
+	  "ListedInvestmentName": "DICKER DATA LIMITED",
+	  "Category": "Technology Hardware & Equipment"
+	},
+	{
+	  "ASXcode": "CAT",
+	  "ListedInvestmentName": "CATAPULT GROUP INTERNATIONAL LTD",
+	  "Category": "Technology Hardware & Equipment"
+	},
+	{
+	  "ASXcode": "AIA",
+	  "ListedInvestmentName": "AUCKLAND INTERNATIONAL AIRPORT LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "AZJ",
+	  "ListedInvestmentName": "AURIZON HOLDINGS LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "QAN",
+	  "ListedInvestmentName": "QANTAS AIRWAYS LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "SYD",
+	  "ListedInvestmentName": "SYDNEY AIRPORT",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "TCL",
+	  "ListedInvestmentName": "TRANSURBAN GROUP",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "ALX",
+	  "ListedInvestmentName": "ATLAS ARTERIA",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "QUB",
+	  "ListedInvestmentName": "QUBE HOLDINGS LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "VAH",
+	  "ListedInvestmentName": "VIRGIN AUSTRALIA HOLDINGS LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "AQZ",
+	  "ListedInvestmentName": "ALLIANCE AVIATION SERVICES LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "KSC",
+	  "ListedInvestmentName": "K & S CORPORATION LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "MRM",
+	  "ListedInvestmentName": "MMA OFFSHORE LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "REX",
+	  "ListedInvestmentName": "REGIONAL EXPRESS HOLDINGS LIMITED",
+	  "Category": "Transportation"
+	},
+	{
+	  "ASXcode": "AGL",
+	  "ListedInvestmentName": "AGL ENERGY LIMITED.",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "APA",
+	  "ListedInvestmentName": "APA GROUP",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "AST",
+	  "ListedInvestmentName": "AUSNET SERVICES LIMITED",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "CEN",
+	  "ListedInvestmentName": "CONTACT ENERGY LIMITED",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "EPW",
+	  "ListedInvestmentName": "ERM POWER LIMITED",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "GNE",
+	  "ListedInvestmentName": "GENESIS ENERGY LIMITED",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "IFN",
+	  "ListedInvestmentName": "INFIGEN ENERGY",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "MEZ",
+	  "ListedInvestmentName": "MERIDIAN ENERGY LIMITED",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "PEA",
+	  "ListedInvestmentName": "PACIFIC ENERGY LIMITED",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "SKI",
+	  "ListedInvestmentName": "SPARK INFRASTRUCTURE GROUP",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "EWC",
+	  "ListedInvestmentName": "ENERGY WORLD CORPORATION LTD",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "NEW",
+	  "ListedInvestmentName": "NEW ENERGY SOLAR",
+	  "Category": "Utilities"
+	},
+	{
+	  "ASXcode": "AMPPA",
+	  "ListedInvestmentName": "AMP Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "ANZPD",
+	  "ListedInvestmentName": "ANZ Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "ANZPE",
+	  "ListedInvestmentName": "ANZ Convertible Perpetual Capital Note 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "ANZPF",
+	  "ListedInvestmentName": "ANZ Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "ANZPG",
+	  "ListedInvestmentName": "ANZ Capital Notes 4",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "ANZPH",
+	  "ListedInvestmentName": "ANZ Capital Notes 5",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "AYUHB",
+	  "ListedInvestmentName": "Australian Unity Bonds - Series B ?",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "BENHB",
+	  "ListedInvestmentName": "Bendigo & Adelaide Bank Unsec Red Perpetual Floating Rate Capital Note",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "BENPE",
+	  "ListedInvestmentName": "Bendigo and Adelaide Bank CPS 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "BENPF",
+	  "ListedInvestmentName": "Bendigo and Adelaide Bank CPS 3",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "BENPG",
+	  "ListedInvestmentName": "Bendigo and Adelaide Bank CPS 4",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "BOQPE",
+	  "ListedInvestmentName": "Bank Of Queensland CPS 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CBAPD",
+	  "ListedInvestmentName": "CBA PERLS VII",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CBAPE",
+	  "ListedInvestmentName": "CBA PERLS VIII",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CBAPF",
+	  "ListedInvestmentName": "CBA PERLS IX",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CBAPG",
+	  "ListedInvestmentName": "CBA PERLS X",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CBAPH",
+	  "ListedInvestmentName": "CBA PERLS XI",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CGFPA",
+	  "ListedInvestmentName": "Challenger Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CGFPB",
+	  "ListedInvestmentName": "Challenger Capital Notes 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "CWNHB",
+	  "ListedInvestmentName": "Crown Subordinated Notes II",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "IAGPD",
+	  "ListedInvestmentName": "IAG Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "IANG",
+	  "ListedInvestmentName": "Insurance Australia Group Limited",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "IMFHA",
+	  "ListedInvestmentName": "IMF Bentham",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "MBLHB",
+	  "ListedInvestmentName": "Macquarie Income Sec Stapled Floating Rate Perp",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "MBLPA",
+	  "ListedInvestmentName": "Macquarie Bank Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "MQGPB",
+	  "ListedInvestmentName": "Macquarie Group Capital Notes 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "MQGPC",
+	  "ListedInvestmentName": "Macquarie Group",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "MQGPD",
+	  "ListedInvestmentName": "Macquarie Group Capital Notes 4",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "NABHA",
+	  "ListedInvestmentName": "NAB Income Securities",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "NABPB",
+	  "ListedInvestmentName": "NAB CPS II",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "NABPC",
+	  "ListedInvestmentName": "NAB Capital Note",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "NABPD",
+	  "ListedInvestmentName": "NAB Capital Notes 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "NABPE",
+	  "ListedInvestmentName": "NAB Subordinated Notes 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "NABPF",
+	  "ListedInvestmentName": "NAB Capital Notes 3",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "QUBHA",
+	  "ListedInvestmentName": "QUBE Subordinated Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "RHCPA",
+	  "ListedInvestmentName": "Ramsay Health Care",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "SBKHB",
+	  "ListedInvestmentName": "Suncorp Unsec Perpetual Floating Rate Capital Note",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "SUNPE",
+	  "ListedInvestmentName": "Suncorp CPS3",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "SUNPF",
+	  "ListedInvestmentName": "Suncorp Capital Notes",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "SUNPG",
+	  "ListedInvestmentName": "Suncorp Capital Notes 2",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "WBCPE",
+	  "ListedInvestmentName": "Westpac Non-Cumulative Per. Capital Note ll",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "WBCPF",
+	  "ListedInvestmentName": "Westpac Capital Notes 3",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "WBCPG",
+	  "ListedInvestmentName": "Westpac Capital Notes 4",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "WBCPH",
+	  "ListedInvestmentName": "Westpac Capital Notes 5",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "WBCPI",
+	  "ListedInvestmentName": "Westpac Capital Notes 6",
+	  "Category": "Interest Rate Securities"
+	},
+	{
+	  "ASXcode": "AFI",
+	  "ListedInvestmentName": "Australian Foundation Investment Company",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "ALF",
+	  "ListedInvestmentName": "Australian Leaders Fund Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "AMH",
+	  "ListedInvestmentName": "AMCIL Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "APL",
+	  "ListedInvestmentName": "Antipodes Global Investment Company Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "ARG",
+	  "ListedInvestmentName": "Argo Investments Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "AUI",
+	  "ListedInvestmentName": "Australian United Investment Company Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "CDM",
+	  "ListedInvestmentName": "Cadence Capital Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "DJW",
+	  "ListedInvestmentName": "Djerriwarrh Investments Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "DUI",
+	  "ListedInvestmentName": "Diversified United Investment Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "MFF",
+	  "ListedInvestmentName": "Magellan Flagship Fund Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "MLT",
+	  "ListedInvestmentName": "Milton Corporation Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "PAI",
+	  "ListedInvestmentName": "Platinum Asia Investments Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "PGF",
+	  "ListedInvestmentName": "PM Capital Global Opportunities Fund",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "PIC",
+	  "ListedInvestmentName": "Perpetual Equity Investment Company Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "PMC",
+	  "ListedInvestmentName": "Platinum Capital Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "QVE",
+	  "ListedInvestmentName": "QV Equities Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "TGG",
+	  "ListedInvestmentName": "Templeton Global Growth Fund Limited",
+	  "Category": "Listed Investment Companies"
+	},
+	{
+	  "ASXcode": "MGG",
+	  "ListedInvestmentName": "Magellan Global Trust",
+	  "Category": "Listed Investment Trust"
+	},
+	{
+	  "ASXcode": "PE1",
+	  "ListedInvestmentName": "Pengana Private Equity Trust ?",
+	  "Category": "Listed Investment Trust"
+	}
+  ]

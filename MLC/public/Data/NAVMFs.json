@@ -1,0 +1,2294 @@
+[
+	{
+	  "APIR Code": "",
+	  "Name": "",
+	  "Category": "",
+	  "MER": 0.51
+	},
+	{
+	  "APIR Code": "",
+	  "Name": "",
+	  "Category": "",
+	  "MER": 0.25
+	},
+	{
+	  "APIR Code": "SBC0812AU",
+	  "Name": "UBS Cash Plus Fund",
+	  "Category": "Cash: Cash Enhanced",
+	  "MER": 0.3
+	},
+	{
+	  "APIR Code": "VAN0102AU",
+	  "Name": "Vanguard Cash Plus Fund",
+	  "Category": "Cash: Cash Enhanced",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "VAN0025AU",
+	  "Name": "Vanguard Australian Government Bond Index Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.24
+	},
+	{
+	  "APIR Code": "MAQ0061AU",
+	  "Name": "Macquarie Australian Fixed Interest Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.49
+	},
+	{
+	  "APIR Code": "ETL0015AU",
+	  "Name": "PIMCO Wholesale Australian Bond Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.53
+	},
+	{
+	  "APIR Code": "VAN0001AU",
+	  "Name": "Vanguard Australian Fixed Interest Index Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.24
+	},
+	{
+	  "APIR Code": "BGL0105AU",
+	  "Name": "iShares Australian Bond Index Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.22
+	},
+	{
+	  "APIR Code": "RFA0813AU",
+	  "Name": "Pendal Fixed Interest Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.5
+	},
+	{
+	  "APIR Code": "SBC0813AU",
+	  "Name": "UBS Australian Bond Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.45
+	},
+	{
+	  "APIR Code": "IOF0046AU",
+	  "Name": "Janus Henderson Australian Fixed Interest Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.47
+	},
+	{
+	  "APIR Code": "TYN0104AU",
+	  "Name": "Nikko AM Aust Bond fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.3
+	},
+	{
+	  "APIR Code": "SSB0122AU",
+	  "Name": "Legg Mason Western Asset Australian Bond Trust - Class A",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.42
+	},
+	{
+	  "APIR Code": "AUS0071AU",
+	  "Name": "Altius Sustainable Bond Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.69
+	},
+	{
+	  "APIR Code": "BTA0507AU",
+	  "Name": "Pendal Sustainable Australian Fixed Interest Fund",
+	  "Category": "Fixed Interest: Australian",
+	  "MER": 0.4
+	},
+	{
+	  "APIR Code": "DFA0108AU",
+	  "Name": "Dimensional Five Year Diversified Fixed Interest ?",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.28
+	},
+	{
+	  "APIR Code": "DFA0100AU",
+	  "Name": "Dimensional Short Term Fixed Interest Trust ?",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.19
+	},
+	{
+	  "APIR Code": "DFA0002AU",
+	  "Name": "Dimensional Two Year Diversified Fixed Interest ?",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.25
+	},
+	{
+	  "APIR Code": "MLC0839AU",
+	  "Name": "MLC Wholesale Diversified Debt Fund",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "ETL0016AU",
+	  "Name": "PIMCO Wholesale Diversified Fixed Interest Fund",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.63
+	},
+	{
+	  "APIR Code": "CSA0062AU",
+	  "Name": "Aberdeen Standard Diversified Fixed Income Fund",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.59
+	},
+	{
+	  "APIR Code": "AMP0557AU",
+	  "Name": "AMP Capital Corporate Bond Fund (Class A)",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "MLC0669AU",
+	  "Name": "MLC Wholesale Horizon 1 Bond Portfolio",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.55
+	},
+	{
+	  "APIR Code": "ANZ0212AU",
+	  "Name": "OnePath Wholesale Diversified Fixed Interest Trust",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.5
+	},
+	{
+	  "APIR Code": "PMC0103AU",
+	  "Name": "PM CAPITAL Enhanced Yield Fund ? ?",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 1.17
+	},
+	{
+	  "APIR Code": "SCH0028AU",
+	  "Name": "Schroder (Wholesale) Fixed Income Fund",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.5
+	},
+	{
+	  "APIR Code": "SBC0007AU",
+	  "Name": "UBS Diversified Fixed Income Fund",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.55
+	},
+	{
+	  "APIR Code": "VAN0106AU",
+	  "Name": "Vanguard International Credit Securities Index Fund (Hedged)",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.32
+	},
+	{
+	  "APIR Code": "MLC0774AU",
+	  "Name": "PIC Wholesale 0/100 Portfolio ?",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.55
+	},
+	{
+	  "APIR Code": "MLC0840AU",
+	  "Name": "PIC Wholesale Diversified Debt Fund ?",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "VAN0042AU",
+	  "Name": "Vanguard Diversified Bond Index Fund",
+	  "Category": "Fixed Interest: Diversified",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "DFA0028AU",
+	  "Name": "Dimensional Global Bond Trust ?",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.35
+	},
+	{
+	  "APIR Code": "FSF0084AU",
+	  "Name": "Colonial First State Wholesale Global Credit Income Fund",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.63
+	},
+	{
+	  "APIR Code": "GSF0008AU",
+	  "Name": "Payden Global Income Opportunities Fund ?",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.72
+	},
+	{
+	  "APIR Code": "VAN0103AU",
+	  "Name": "Vanguard International Fixed Interest Index Fund (Hedged)",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.26
+	},
+	{
+	  "APIR Code": "MAQ0274AU",
+	  "Name": "Macquarie Dynamic Bond Fund ?",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.63
+	},
+	{
+	  "APIR Code": "BGL0008AU",
+	  "Name": "iShares Global Bond Index Fund",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.2
+	},
+	{
+	  "APIR Code": "PWA0825AU",
+	  "Name": "BlackRock Wholesale International Bond Fund",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.55
+	},
+	{
+	  "APIR Code": "ETL0018AU",
+	  "Name": "PIMCO Wholesale Global Bond Fund",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.68
+	},
+	{
+	  "APIR Code": "FRT0025AU",
+	  "Name": "Franklin Templeton Global Aggregate Bond Fund",
+	  "Category": "Fixed Interest: International",
+	  "MER": 0.59
+	},
+	{
+	  "APIR Code": "PIC6396AU",
+	  "Name": "PIMCO ESG Global Bond Fund",
+	  "Category": "Fixed Interest: International",
+	  "MER": 1.05
+	},
+	{
+	  "APIR Code": "PPL0028AU",
+	  "Name": "Antares Income Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.55
+	},
+	{
+	  "APIR Code": "IOF0145AU",
+	  "Name": "Janus Henderson Tactical Income Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.45
+	},
+	{
+	  "APIR Code": "MAQ0277AU",
+	  "Name": "Macquarie Income Opportunities Fund ?",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.51
+	},
+	{
+	  "APIR Code": "HOW0052AU",
+	  "Name": "Kapstream Wholesale Absolute Return Income Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.75
+	},
+	{
+	  "APIR Code": "PER0260AU",
+	  "Name": "Perpetual's Wholesale Diversified Income Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.71
+	},
+	{
+	  "APIR Code": "SCH0103AU",
+	  "Name": "Schroder Absolute Return Income Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.54
+	},
+	{
+	  "APIR Code": "UBS0003AU",
+	  "Name": "UBS Income Solution Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "PGI0001AU",
+	  "Name": "Principal Global Credit Opportunities Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.8
+	},
+	{
+	  "APIR Code": "ETL0019AU",
+	  "Name": "PIMCO Global Credit Fund - Wholesale Class",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.71
+	},
+	{
+	  "APIR Code": "WPC1963AU",
+	  "Name": "Daintree Core Income Trust",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.5
+	},
+	{
+	  "APIR Code": "FRT0027AU",
+	  "Name": "Franklin Australian Absolute Return Bond Fund",
+	  "Category": "Fixed Interest: Multi-strategy Income",
+	  "MER": 0.65
+	},
+	{
+	  "APIR Code": "HOW0096AU",
+	  "Name": "Challenger Guaranteed Pension Fund (I) - 30 June 2021",
+	  "Category": "Fixed Interest: Annuities",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "MLT0010AU",
+	  "Name": "Challenger Guaranteed Income Fund - 4.00 cents p.a. 30 September 2022 (MV$1)",
+	  "Category": "Fixed Interest: Annuities",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "MLT9335AU",
+	  "Name": "Challenger Guaranteed Income Fund 3.40 cents 31 March 2021",
+	  "Category": "Fixed Interest: Annuities",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "CSA0038AU",
+	  "Name": "Bentham Wholesale Global Income Fund",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.77
+	},
+	{
+	  "APIR Code": "FRT0011AU",
+	  "Name": "Franklin Templeton Multi-Sector Bond W",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.93
+	},
+	{
+	  "APIR Code": "SSB0014AU",
+	  "Name": "Legg Mason Brandywine Global Opportunistic Fixed Income ?",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.7
+	},
+	{
+	  "APIR Code": "CSA0046AU",
+	  "Name": "Bentham Wholesale Syndicated Loan Fund",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.84
+	},
+	{
+	  "APIR Code": "PER0727AU",
+	  "Name": "JPMorgan Global Strategic Bond Fund",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.58
+	},
+	{
+	  "APIR Code": "ETL0398AU",
+	  "Name": "T. Rowe Price Dynamic Global Bond Fund ?",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.46
+	},
+	{
+	  "APIR Code": "ETL0458AU",
+	  "Name": "PIMCO Income Fund",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "HOW0098AU",
+	  "Name": "Ardea Real Outcome Fund",
+	  "Category": "Fixed interest: Specialist",
+	  "MER": 0.5
+	},
+	{
+	  "APIR Code": "VEN0029AU",
+	  "Name": "Ventura Conservative Fund - Class A",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.72
+	},
+	{
+	  "APIR Code": "VEN0028AU",
+	  "Name": "Ventura Diversified 50 Fund - Class A",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.81
+	},
+	{
+	  "APIR Code": "CRS0001AU",
+	  "Name": "Aberdeen Standard Multi-Asset Income Fund ?",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.88
+	},
+	{
+	  "APIR Code": "FSF0033AU",
+	  "Name": "Colonial First State Wholesale Conservative Fund",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.76
+	},
+	{
+	  "APIR Code": "MLC0670AU",
+	  "Name": "MLC Wholesale Horizon 2 Income Portfolio",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.76
+	},
+	{
+	  "APIR Code": "NUN0001AU",
+	  "Name": "Pre Select Conservative Fund",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "RIM0012AU",
+	  "Name": "Russell Conservative Fund - Class C",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "VAN0109AU",
+	  "Name": "Vanguard Conservative Index Fund",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "MLC0775AU",
+	  "Name": "PIC Wholesale 30/70 Portfolio ?",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.76
+	},
+	{
+	  "APIR Code": "BTA0318AU",
+	  "Name": "Pendal Monthly Income Plus Fund",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.65
+	},
+	{
+	  "APIR Code": "IPA0075AU",
+	  "Name": "AMP Capital Income Generator",
+	  "Category": "Conservative: Diversified",
+	  "MER": 0.8
+	},
+	{
+	  "APIR Code": "MLC0921AU",
+	  "Name": "MLC Wholesale Inflation Plus � Conservative",
+	  "Category": "Conservative: Real Return",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "MLC0924AU",
+	  "Name": "PIC Wholesale Inflation Plus - Conservative Portfolio ?",
+	  "Category": "Conservative: Real Return",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "PER0114AU",
+	  "Name": "Perpetual's Wholesale Diversified Growth Fund",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.96
+	},
+	{
+	  "APIR Code": "FSF0040AU",
+	  "Name": "Colonial First State Wholesale Balanced Fund",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.86
+	},
+	{
+	  "APIR Code": "MLC0398AU",
+	  "Name": "MLC Wholesale Horizon 3 Conservative Growth Portfolio",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.88
+	},
+	{
+	  "APIR Code": "NUN0002AU",
+	  "Name": "Pre Select Balanced Fund",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.65
+	},
+	{
+	  "APIR Code": "RIM0013AU",
+	  "Name": "Russell Diversified 50 Fund - Class C",
+	  "Category": "Balanced: Diversified",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "VAN0108AU",
+	  "Name": "Vanguard Balanced Index Fund",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "MLC0776AU",
+	  "Name": "PIC Wholesale 50/50 Portfolio ?",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.88
+	},
+	{
+	  "APIR Code": "MLC7849AU",
+	  "Name": "MLC Wholesale Index Plus Conservative Growth Portfolio",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.36
+	},
+	{
+	  "APIR Code": "MLC5068AU",
+	  "Name": "PIC Wholesale Index Plus Conservative Growth Portfolio ?",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.36
+	},
+	{
+	  "APIR Code": "DFA0033AU",
+	  "Name": "Dimensional World Allocation 50/50 Trust  ?",
+	  "Category": "Balanced: Diversified",
+	  "MER": 0.41
+	},
+	{
+	  "APIR Code": "DFA0029AU",
+	  "Name": "Dimensional World Allocation 70/30 Trust ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.43
+	},
+	{
+	  "APIR Code": "VEN0027AU",
+	  "Name": "Ventura Growth 70 Fund - Class A",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "FSF0008AU",
+	  "Name": "Colonial First State Wholesale Diversified Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.96
+	},
+	{
+	  "APIR Code": "PER0063AU",
+	  "Name": "Perpetual Wholesale Balanced Growth Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.05
+	},
+	{
+	  "APIR Code": "CRS0002AU",
+	  "Name": "Aberdeen Standard Multi-Asset Real Return Fund ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.22
+	},
+	{
+	  "APIR Code": "MAL0018AU",
+	  "Name": "BlackRock Global Allocation Fund (Aust) - Class D ? ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "PWA0822AU",
+	  "Name": "BlackRock Wholesale Balanced Fund ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "RFA0815AU",
+	  "Name": "Pendal Active Balanced Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.02
+	},
+	{
+	  "APIR Code": "BTA0806AU",
+	  "Name": "Pendal Balanced Returns Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.96
+	},
+	{
+	  "APIR Code": "JPM0008AU",
+	  "Name": "Legg Mason Diversified Trust - Class A",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.78
+	},
+	{
+	  "APIR Code": "MLC0260AU",
+	  "Name": "MLC Wholesale Horizon 4 Balanced Portfolio",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.93
+	},
+	{
+	  "APIR Code": "AJF0003AU",
+	  "Name": "OnePath Tax Effective Income Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.8
+	},
+	{
+	  "APIR Code": "NUN0003AU",
+	  "Name": "Pre Select Growth Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.7
+	},
+	{
+	  "APIR Code": "RIM0011AU",
+	  "Name": "Russell Balanced Fund - Class C",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.07
+	},
+	{
+	  "APIR Code": "SBC0815AU",
+	  "Name": "UBS Balanced Investment Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.1
+	},
+	{
+	  "APIR Code": "VAN0110AU",
+	  "Name": "Vanguard Growth Index Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "VAN0111AU",
+	  "Name": "Vanguard High Growth Index Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "ZUR0059AU",
+	  "Name": "Zurich Investments Managed Growth Fund ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 1.02
+	},
+	{
+	  "APIR Code": "MLC0777AU",
+	  "Name": "PIC Wholesale 70/30 Portfolio ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.93
+	},
+	{
+	  "APIR Code": "UBS0037AU",
+	  "Name": "UBS Tactical Beta Fund - Growth",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.29
+	},
+	{
+	  "APIR Code": "MLC7387AU",
+	  "Name": "MLC Wholesale Index Plus Balanced Portfolio",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.38
+	},
+	{
+	  "APIR Code": "MLC4447AU",
+	  "Name": "PIC Wholesale Index Plus Balanced Portfolio ?",
+	  "Category": "Growth: Diversified",
+	  "MER": 0.38
+	},
+	{
+	  "APIR Code": "PER0731AU",
+	  "Name": "PineBridge Global Dynamic Asset Allocation Fund ?",
+	  "Category": "Growth: Diversified",
+	  "MER": "N/A"
+	},
+	{
+	  "APIR Code": "PER0556AU",
+	  "Name": "Perpetual Diversified Real Return Fund",
+	  "Category": "Growth: Diversified",
+	  "MER": "N/A"
+	},
+	{
+	  "APIR Code": "PER6115AU",
+	  "Name": "Perpetual Diversified Real Return Fund Class Z Units",
+	  "Category": "Growth: Diversified",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "SCH0047AU",
+	  "Name": "Schroder Real Return Fund CPI Plus 5% Fund",
+	  "Category": "Growth: Real Return",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "MLC0920AU",
+	  "Name": "MLC Wholesale Inflation Plus � Moderate",
+	  "Category": "Growth: Real Return",
+	  "MER": 1.05
+	},
+	{
+	  "APIR Code": "MLC0923AU",
+	  "Name": "PIC Wholesale Inflation Plus - Moderate Portfolio ?",
+	  "Category": "Growth: Real Return",
+	  "MER": 1.05
+	},
+	{
+	  "APIR Code": "SCH0096AU",
+	  "Name": "Schroder Real Return CPI Plus 3.5% Fund",
+	  "Category": "Growth: Real Return",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "RIM0014AU",
+	  "Name": "Russell Growth Fund - Class C",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1.15
+	},
+	{
+	  "APIR Code": "VEN0009AU",
+	  "Name": "Ventura High Growth 100 Fund � Class A",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1.19
+	},
+	{
+	  "APIR Code": "FSF0498AU",
+	  "Name": "Colonial First State Wholesale High Growth Fund",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1.16
+	},
+	{
+	  "APIR Code": "MLC0265AU",
+	  "Name": "MLC Wholesale Horizon 5 Growth Portfolio",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "MLC0397AU",
+	  "Name": "MLC Wholesale Horizon 6 Share Portfolio",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "PER0066AU",
+	  "Name": "Perpetual's Wholesale Split Growth Fund",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1.17
+	},
+	{
+	  "APIR Code": "NUN0004AU",
+	  "Name": "Pre Select High Growth Fund",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "RIM0030AU",
+	  "Name": "Russell High Growth Fund - Class C",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1.25
+	},
+	{
+	  "APIR Code": "MLC0779AU",
+	  "Name": "PIC Wholesale 100/0 Portfolio ?",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "MLC0778AU",
+	  "Name": "PIC Wholesale 85/15 Portfolio ?",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "MLC9748AU",
+	  "Name": "MLC Wholesale Index Plus Growth Portfolio",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 0.39
+	},
+	{
+	  "APIR Code": "MLC8225AU",
+	  "Name": "PIC Wholesale Index Plus Growth Portfolio ?",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 0.39
+	},
+	{
+	  "APIR Code": "DFA0035AU",
+	  "Name": "Dimensional World Equity Trust  ?",
+	  "Category": "Aggressive: Diversified",
+	  "MER": 0.47
+	},
+	{
+	  "APIR Code": "MLC0449AU",
+	  "Name": "MLC Wholesale Horizon 7 Accelerated Growth Portfolio",
+	  "Category": "Aggressive: Geared",
+	  "MER": 1.15
+	},
+	{
+	  "APIR Code": "MLC0780AU",
+	  "Name": "PIC Wholesale 130/0 Portfolio ?",
+	  "Category": "Aggressive: Geared",
+	  "MER": 1.15
+	},
+	{
+	  "APIR Code": "MLC0667AU",
+	  "Name": "MLC Wholesale Inflation Plus � Assertive ?",
+	  "Category": "High Growth: Real Return (Geared)",
+	  "MER": 1.22
+	},
+	{
+	  "APIR Code": "MLC0782AU",
+	  "Name": "PIC Wholesale Inflation Plus � Assertive Portfolio ? ?",
+	  "Category": "High Growth: Real Return (Geared)",
+	  "MER": 1.22
+	},
+	{
+	  "APIR Code": "SSB0026AU",
+	  "Name": "Legg Mason Martin Currie Real Income Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "APN0008AU",
+	  "Name": "APN AREIT Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "SSB0128AU",
+	  "Name": "Legg Mason Martin Currie Property Securities Trust",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.72
+	},
+	{
+	  "APIR Code": "MLC0263AU",
+	  "Name": "MLC Wholesale Property Securities Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.73
+	},
+	{
+	  "APIR Code": "VAN0004AU",
+	  "Name": "Vanguard Australian Property Securities Index",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.23
+	},
+	{
+	  "APIR Code": "AMP0255AU",
+	  "Name": "AMP Capital Listed Property Trusts Fund (Class A)",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "BGL0108AU",
+	  "Name": "iShares Australian Listed Property Index Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.2
+	},
+	{
+	  "APIR Code": "RFA0817AU",
+	  "Name": "Pendal Property Investment Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.65
+	},
+	{
+	  "APIR Code": "HBC0008AU",
+	  "Name": "SG Hiscock Wholesale Property Securities Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "FSF0004AU",
+	  "Name": "Colonial First State Wholesale Property Securities Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.81
+	},
+	{
+	  "APIR Code": "PAL0002AU",
+	  "Name": "Ironbark Paladin Property Securities Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.84
+	},
+	{
+	  "APIR Code": "SBC0816AU",
+	  "Name": "UBS Property Securities Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "MLC0783AU",
+	  "Name": "PIC Wholesale Property Securities Fund ?",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.73
+	},
+	{
+	  "APIR Code": "ETL0119AU",
+	  "Name": "EQT SG Hiscock Property Income Fund",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "ZUR0064AU",
+	  "Name": "Zurich Investments Australian Property Securities Fund ?",
+	  "Category": "Property: Australian Listed",
+	  "MER": 0.81
+	},
+	{
+	  "APIR Code": "AMP1015AU",
+	  "Name": "AMP Capital Core Property Fund (Class A) ?",
+	  "Category": "Property: Diversified",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "VAN0018AU",
+	  "Name": "Vanguard International Property Securities Index Fund",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.4
+	},
+	{
+	  "APIR Code": "DFA0005AU",
+	  "Name": "Dimensional Global Real Estate Trust ?",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.37
+	},
+	{
+	  "APIR Code": "AMP0974AU",
+	  "Name": "AMP Capital Global Property Securities Fund (Class A)",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.97
+	},
+	{
+	  "APIR Code": "FSF0454AU",
+	  "Name": "CFS Wholesale Global Property Securites Fund",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 1.02
+	},
+	{
+	  "APIR Code": "ETL0005AU",
+	  "Name": "EQT SGH LaSalle Global Listed Property Securities Trust",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 1.1
+	},
+	{
+	  "APIR Code": "MLC0786AU",
+	  "Name": "MLC Wholesale Global Property Fund",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "MGL0010AU",
+	  "Name": "Ironbark Global (ex-Australia) Property Securities Fund",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 1.23
+	},
+	{
+	  "APIR Code": "PPL0026AU",
+	  "Name": "Presima Global Property Securities Concentrated Fund",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "HML0016AU",
+	  "Name": "UBS Clarion Global Property Securities Fund",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "VAN0019AU",
+	  "Name": "Vanguard International Property Securities Index Fund (Hedged)",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.43
+	},
+	{
+	  "APIR Code": "MLC0788AU",
+	  "Name": "PIC Wholesale Global Property Fund ?",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "WHT0015AU",
+	  "Name": "Resolution Capital Global Property Securities Fund ?",
+	  "Category": "Property: Internationally Listed",
+	  "MER": 1.55
+	},
+	{
+	  "APIR Code": "BFL0020AU",
+	  "Name": "Quay Global Real Estate Fund ?",
+	  "Category": "Property: Internationally Listed",
+	  "MER": "N/A"
+	},
+	{
+	  "APIR Code": "NML0001AU",
+	  "Name": "AMP Capital Wholesale Australian Property Fund",
+	  "Category": "Property: Hybrid",
+	  "MER": 1.12
+	},
+	{
+	  "APIR Code": "PCL0005AU",
+	  "Name": "Pengana Australian Equities Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.59
+	},
+	{
+	  "APIR Code": "ETL0060AU",
+	  "Name": "Allan Gray Australian Equity Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.45
+	},
+	{
+	  "APIR Code": "VEN0026AU",
+	  "Name": "Ventura Australian Opportunities Fund - Class A",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.93
+	},
+	{
+	  "APIR Code": "IML0005AU",
+	  "Name": "Investors Mutual Equity Income Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "VEN0030AU",
+	  "Name": "Ventura Australian Shares Fund - Class A",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.88
+	},
+	{
+	  "APIR Code": "BFL0004AU",
+	  "Name": "Bennelong ex-20 Australian Equities Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.37
+	},
+	{
+	  "APIR Code": "DFA0103AU",
+	  "Name": "Dimensional Australian Large Company Trust ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.22
+	},
+	{
+	  "APIR Code": "HOW0026AU",
+	  "Name": "Alphinity Wholesale Concentrated Australian Share Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "FSF0002AU",
+	  "Name": "Colonial First State Wholesale Australian Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.96
+	},
+	{
+	  "APIR Code": "FSF0003AU",
+	  "Name": "Colonial First State Wholesale Imputation Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.96
+	},
+	{
+	  "APIR Code": "HOW0019AU",
+	  "Name": "Alphinity Wholesale Australian Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "PAM0001AU",
+	  "Name": "Alphinity Wholesale Australian Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "HOW0034AU",
+	  "Name": "Greencape Wholesale Broadcap Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.19
+	},
+	{
+	  "APIR Code": "PPL0002AU",
+	  "Name": "Antares Dividend Builder",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "PPL0115AU",
+	  "Name": "Antares Elite Opportunities Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.7
+	},
+	{
+	  "APIR Code": "AAP0103AU",
+	  "Name": "Ausbil Australian Active Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "BGL0034AU",
+	  "Name": "iShares Australian Equity Index Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.2
+	},
+	{
+	  "APIR Code": "BAR0814AU",
+	  "Name": "BlackRock Advantage Australian Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.79
+	},
+	{
+	  "APIR Code": "BTA0055AU",
+	  "Name": "Pendal Australian Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.79
+	},
+	{
+	  "APIR Code": "RFA0059AU",
+	  "Name": "Pendal Focus Australian Share Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.04
+	},
+	{
+	  "APIR Code": "RFA0103AU",
+	  "Name": "Pendal Imputation Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "HOW0035AU",
+	  "Name": "Greencape Wholesale High Conviction Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "MLC0262AU",
+	  "Name": "MLC Wholesale Australian Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.78
+	},
+	{
+	  "APIR Code": "FID0008AU",
+	  "Name": "Fidelity Australian Equities Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "MLC0264AU",
+	  "Name": "MLC Wholesale IncomeBuilder",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.72
+	},
+	{
+	  "APIR Code": "VAN0002AU",
+	  "Name": "Vanguard Australian Shares Index Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.16
+	},
+	{
+	  "APIR Code": "IML0002AU",
+	  "Name": "Investors Mutual Australian Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "IML0004AU",
+	  "Name": "Investors Mutual Industrial Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "ADV0046AU",
+	  "Name": "Maple-Brown Abbott Australian Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.92
+	},
+	{
+	  "APIR Code": "HBC0011AU",
+	  "Name": "Merlon Wholesale Australian Share Income Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "PER0049AU",
+	  "Name": "Perpetual's Wholesale Australian Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "PER0102AU",
+	  "Name": "Perpetual's Wholesale Concentrated Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.1
+	},
+	{
+	  "APIR Code": "PER0046AU",
+	  "Name": "Perpetual's Wholesale Industrial Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.01
+	},
+	{
+	  "APIR Code": "WHT0039AU",
+	  "Name": "Plato Australian Shares Income Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "RIM0015AU",
+	  "Name": "Russell Australian Share Fund - Class C",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.05
+	},
+	{
+	  "APIR Code": "SCH0101AU",
+	  "Name": "Schroder (Wholesale) Australian Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.92
+	},
+	{
+	  "APIR Code": "TYN0028AU",
+	  "Name": "Nikko AM Australian Share Wholesale Portfolio",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.8
+	},
+	{
+	  "APIR Code": "TYN0038AU",
+	  "Name": "Nikko AM Australian Share Income Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "VAN0104AU",
+	  "Name": "Vanguard Australian Shares High Yield Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.35
+	},
+	{
+	  "APIR Code": "FSF0455AU",
+	  "Name": "Colonial First State Antares Wholesale Elite Opportunities Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.02
+	},
+	{
+	  "APIR Code": "DFA0003AU",
+	  "Name": "Dimensional Australian Core Equity Trust ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.31
+	},
+	{
+	  "APIR Code": "DFA0101AU",
+	  "Name": "Dimensional Australian Value Trust ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.33
+	},
+	{
+	  "APIR Code": "MLC0768AU",
+	  "Name": "PIC Wholesale Australian Share Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.78
+	},
+	{
+	  "APIR Code": "MLC0781AU",
+	  "Name": "PIC Wholesale Income Builder ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.72
+	},
+	{
+	  "APIR Code": "PAT0001AU",
+	  "Name": "Ironbark Karara Australian Share Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "FSF0976AU",
+	  "Name": "RealIndex Wholesale Australian Share",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.46
+	},
+	{
+	  "APIR Code": "FHT0030AU",
+	  "Name": "The Montgomery Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.36
+	},
+	{
+	  "APIR Code": "WHT0012AU",
+	  "Name": "Solaris Core Australian Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "ETL0273AU",
+	  "Name": "Allan Gray Australia Stable Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.41
+	},
+	{
+	  "APIR Code": "ACM0006AU",
+	  "Name": "AllianceBernstein Managed Volatility Equities Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.55
+	},
+	{
+	  "APIR Code": "IML0010AU",
+	  "Name": "Investors Mutual Concentrated Australian Share Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "SST0048AU",
+	  "Name": "State Street Australian Equity Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.79
+	},
+	{
+	  "APIR Code": "BLK0012AU",
+	  "Name": "BlackRock Concerntrated Industrial Share Fund (Class D Units) ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.65
+	},
+	{
+	  "APIR Code": "ETL0349AU",
+	  "Name": "Allan Gray Australian Equities Fund (Class B) ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.86
+	},
+	{
+	  "APIR Code": "SSB0043AU",
+	  "Name": "Legg Mason Martin Currie Equity Income Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "BFL0002AU",
+	  "Name": "Bennelong Concentrated Australian Equities Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 2.08
+	},
+	{
+	  "APIR Code": "ETL0328AU",
+	  "Name": "T Rowe Price Australian Equity Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "WHT3810AU",
+	  "Name": "FireTrail Australian High Conviction Fund  (Class A Units) ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "MGE9705AU",
+	  "Name": "Airlie Australian Share Fund ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.78
+	},
+	{
+	  "APIR Code": "AUS0030AU",
+	  "Name": "Platypus Australian Share Fund  ?",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.96
+	},
+	{
+	  "APIR Code": "AUS0036AU",
+	  "Name": "Platypus Systematic Growth Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 1.21
+	},
+	{
+	  "APIR Code": "FID0021AU",
+	  "Name": "Fidelity Australian Opportunities Fund",
+	  "Category": "Australian Equity: Diversified",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "FSF0043AU",
+	  "Name": "Colonial First State Wholesale Geared Share Fund",
+	  "Category": "Australian Equity: Geared",
+	  "MER": 2.24
+	},
+	{
+	  "APIR Code": "AAP0002AU",
+	  "Name": "Ausbil Australian Geared Equity Fund",
+	  "Category": "Australian Equity: Geared",
+	  "MER": 1.2
+	},
+	{
+	  "APIR Code": "PER0071AU",
+	  "Name": "Perpetual's Wholesale Geared Australian Fund",
+	  "Category": "Australian Equity: Geared",
+	  "MER": 1.17
+	},
+	{
+	  "APIR Code": "HOW0053AU",
+	  "Name": "WaveStone Dynamic Australian Share Fund ? ?",
+	  "Category": "Australian Equity: Long/Short",
+	  "MER": 1.41
+	},
+	{
+	  "APIR Code": "PPL0106AU",
+	  "Name": "Antares High Growth Shares Fund ? ?",
+	  "Category": "Australian Equity: Long/Short",
+	  "MER": 1.11
+	},
+	{
+	  "APIR Code": "AAP0008AU",
+	  "Name": "Ausbil 130/30 Focus Fund ? ?",
+	  "Category": "Australian Equity: Long/Short",
+	  "MER": 1.63
+	},
+	{
+	  "APIR Code": "PMC0101AU",
+	  "Name": "PM Capital Australian Companies Fund  ? ?",
+	  "Category": "Australian Equity: Long/Short",
+	  "MER": 2.93
+	},
+	{
+	  "APIR Code": "WHT3859AU",
+	  "Name": "Solaris Australian Equity Long Short Fund  ? ?",
+	  "Category": "Australian Equity: Long/Short",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "AUG0018AU",
+	  "Name": "Australian Ethical Australian Shares Fund (Wholesale)",
+	  "Category": "Australian Equity: Responsible Investment",
+	  "MER": 1.1
+	},
+	{
+	  "APIR Code": "PER0116AU",
+	  "Name": "Perpetual Wholesale Ethical SRI Fund",
+	  "Category": "Australian Equity: Responsible Investment",
+	  "MER": 1.17
+	},
+	{
+	  "APIR Code": "HOW0121AU",
+	  "Name": "Alphinity Sustainable Share Fund",
+	  "Category": "Australian Equity: Responsible Investment",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "RFA0025AU",
+	  "Name": "Pendal Ethical Share Fund",
+	  "Category": "Australian Equity: Responsible Investment",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "SSB0064AU",
+	  "Name": "Legg Mason Martin Currie Ethical Values with Income Fund",
+	  "Category": "Australian Equity: Responsible Investment",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "FAM0101AU",
+	  "Name": "Celeste Australian Small Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 2.41
+	},
+	{
+	  "APIR Code": "ETL0052AU",
+	  "Name": "Grant Samuel Tribeca Smaller Companies Fund � Class A units ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 0.92
+	},
+	{
+	  "APIR Code": "DFA0104AU",
+	  "Name": "Dimensional Australian Small Company Trust ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 0.61
+	},
+	{
+	  "APIR Code": "ANT0002AU",
+	  "Name": "Fairview Equity Partners Emerging Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.2
+	},
+	{
+	  "APIR Code": "HOW0016AU",
+	  "Name": "NovaPort Wholesale Smaller Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "CSA0131AU",
+	  "Name": "Aberdeen Standard Australian Small Companies Fund",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.26
+	},
+	{
+	  "APIR Code": "AAP0104AU",
+	  "Name": "Ausbil Australian Emerging Leaders Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "EGG0001AU",
+	  "Name": "Eley Griffiths Group Small Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.25
+	},
+	{
+	  "APIR Code": "IML0003AU",
+	  "Name": "Investors Mutual Future Leaders Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "HOW0027AU",
+	  "Name": "NovaPort Wholesale Microcap Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.72
+	},
+	{
+	  "APIR Code": "IOF0214AU",
+	  "Name": "Perennial Value Smaller Companies Trust ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.2
+	},
+	{
+	  "APIR Code": "PER0048AU",
+	  "Name": "Perpetual's Wholesale Smaller Companies Fund",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.26
+	},
+	{
+	  "APIR Code": "PER0259AU",
+	  "Name": "Perpetual's Wholesale Smaller Companies Fund No. 2",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.27
+	},
+	{
+	  "APIR Code": "ETL0062AU",
+	  "Name": "SGH ICE ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.18
+	},
+	{
+	  "APIR Code": "PAT0002AU",
+	  "Name": "Ironbark Karara Australian Small Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.57
+	},
+	{
+	  "APIR Code": "OPS0002AU",
+	  "Name": "OC Premium Small Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.2
+	},
+	{
+	  "APIR Code": "BTA0313AU",
+	  "Name": "Pendal MidCap Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.65
+	},
+	{
+	  "APIR Code": "FID0026AU",
+	  "Name": "Fidelity Future Leaders Fund",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.2
+	},
+	{
+	  "APIR Code": "ETL0449AU",
+	  "Name": "Flinders Emerging Companies Fund - Class B ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.68
+	},
+	{
+	  "APIR Code": "WHT0008AU",
+	  "Name": "Spheria Australian Smaller Companies Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.1
+	},
+	{
+	  "APIR Code": "WHT0066AU",
+	  "Name": "Spheria Australian Microcap Fund ?",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 2.37
+	},
+	{
+	  "APIR Code": "HOW3590AU",
+	  "Name": "Lennox Australian Small Companies Fund",
+	  "Category": "Australian Equity: Smaller Companies",
+	  "MER": 1.57
+	},
+	{
+	  "APIR Code": "PPL0110AU",
+	  "Name": "Antares Australian Equities Fund",
+	  "Category": "Australian Equity: Larger Companies",
+	  "MER": 0.6
+	},
+	{
+	  "APIR Code": "HOW0020AU",
+	  "Name": "WaveStone Wholesale Australian Share Fund ?",
+	  "Category": "Australian Equity: Larger Companies",
+	  "MER": 0.97
+	},
+	{
+	  "APIR Code": "ETL7683AU",
+	  "Name": "Redpoint Industrials Fund",
+	  "Category": "Australian Equity: Larger Companies",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "MAQ0441AU",
+	  "Name": "Premium China Fund ? ?",
+	  "Category": "International Equity: Asia",
+	  "MER": 2.3
+	},
+	{
+	  "APIR Code": "EQI0028AU",
+	  "Name": "Aberdeen Standard Asian Opportunities Fund",
+	  "Category": "International Equity: Asia",
+	  "MER": 1.23
+	},
+	{
+	  "APIR Code": "FID0011AU",
+	  "Name": "Fidelity China Fund",
+	  "Category": "International Equity: Asia",
+	  "MER": 1.21
+	},
+	{
+	  "APIR Code": "PLA0003AU",
+	  "Name": "Platinum (Wholesale) Japan Fund ? ?",
+	  "Category": "International Equity: Asia",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "PLA0004AU",
+	  "Name": "Platinum Asia Fund ? ?",
+	  "Category": "International Equity: Asia",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "IOF0203AU",
+	  "Name": "Antipodes Asia Fund ?",
+	  "Category": "International Equity: Asia",
+	  "MER": 2.1
+	},
+	{
+	  "APIR Code": "FID0010AU",
+	  "Name": "Fidelity Asia Fund",
+	  "Category": "International Equity: Asia",
+	  "MER": 1.15
+	},
+	{
+	  "APIR Code": "ZUR0580AU",
+	  "Name": "Zurich Investments Global Growth Share Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "ZUR0581AU",
+	  "Name": "Zurich Investments Unhedged Global Growth Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "ZUR0518AU",
+	  "Name": "Zurich Investments Unhedged Global Thematic Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "VEN0031AU",
+	  "Name": "Ventura International Shares Fund - Class A",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.09
+	},
+	{
+	  "APIR Code": "ANT0005AU",
+	  "Name": "Altrinsic Global Equities Trust ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.25
+	},
+	{
+	  "APIR Code": "DFA0004AU",
+	  "Name": "Dimensional Global Core Equity Trust ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.39
+	},
+	{
+	  "APIR Code": "DFA0102AU",
+	  "Name": "Dimensional Global Value Trust ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.46
+	},
+	{
+	  "APIR Code": "MGE0001AU",
+	  "Name": "Magellan Global Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.55
+	},
+	{
+	  "APIR Code": "MGE0007AU",
+	  "Name": "Magellan Global Hedged Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.51
+	},
+	{
+	  "APIR Code": "ETL0071AU",
+	  "Name": "T.Rowe Price Global Equity Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.18
+	},
+	{
+	  "APIR Code": "VAN0003AU",
+	  "Name": "Vanguard International Shares Index Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.18
+	},
+	{
+	  "APIR Code": "VEN0008AU",
+	  "Name": "Ventura Global Opportunities Fund - $A hedged � Class A",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.21
+	},
+	{
+	  "APIR Code": "MAQ0464AU",
+	  "Name": "Arrowstreet Global Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.28
+	},
+	{
+	  "APIR Code": "BGL0106AU",
+	  "Name": "BlackRock Indexed International Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.2
+	},
+	{
+	  "APIR Code": "BAR0817AU",
+	  "Name": "BlackRock Advantage International Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.89
+	},
+	{
+	  "APIR Code": "RFA0821AU",
+	  "Name": "Pendal Core Global Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.97
+	},
+	{
+	  "APIR Code": "BTA0056AU",
+	  "Name": "Pendal International Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.97
+	},
+	{
+	  "APIR Code": "FID0007AU",
+	  "Name": "Fidelity Global Equities Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "GSF0002AU",
+	  "Name": "Epoch Global Equity Shareholder Yield (Unhedged) Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.25
+	},
+	{
+	  "APIR Code": "MAQ0404AU",
+	  "Name": "IFP Global Franchise Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.38
+	},
+	{
+	  "APIR Code": "GTU0102AU",
+	  "Name": "Invesco Wholesale Global Opportunities Fund - Unhedged",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "MIA0001AU",
+	  "Name": "MFS Global Equity Trust",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.77
+	},
+	{
+	  "APIR Code": "MLC0261AU",
+	  "Name": "MLC Wholesale Global Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "RIM0016AU",
+	  "Name": "Russell International Shares Fund - Class C",
+	  "Category": "International Equity: Diversified",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "SCH0030AU",
+	  "Name": "Schroder Global Active Value Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "FRT0004AU",
+	  "Name": "Templeton Global Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.13
+	},
+	{
+	  "APIR Code": "MAQ0410AU",
+	  "Name": "Walter Scott Global Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.28
+	},
+	{
+	  "APIR Code": "ZUR0061AU",
+	  "Name": "Zurich Investments Global Thematic Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "DFA0105AU",
+	  "Name": "Dimensional Global Large Company Trust ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.35
+	},
+	{
+	  "APIR Code": "MLC0771AU",
+	  "Name": "PIC Wholesale Global Share Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.9
+	},
+	{
+	  "APIR Code": "AAP0001AU",
+	  "Name": "Candriam Sustainable Global Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.05
+	},
+	{
+	  "APIR Code": "CIM0006AU",
+	  "Name": "Capital Group New Perspective Fund (AU)",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "CIM0008AU",
+	  "Name": "Capital Group New Perspective Fund Hedged (AU)",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "ETL0463AU",
+	  "Name": "Orbis Global Equity Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.51
+	},
+	{
+	  "APIR Code": "FRT0009AU",
+	  "Name": "Franklin Global Growth Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.13
+	},
+	{
+	  "APIR Code": "ACM0009AU",
+	  "Name": "AllianceBernstein Global Equities Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.85
+	},
+	{
+	  "APIR Code": "MAQ0838AU",
+	  "Name": "Polaris Global Equity Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 1.28
+	},
+	{
+	  "APIR Code": "WHT0061AU",
+	  "Name": "Plato Global Shares Income Fund - Class A Units",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "HOW0164AU",
+	  "Name": "Alphinity Global Equity Fund  ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "SUN0031AU",
+	  "Name": "Nikko AM Global Share Fund",
+	  "Category": "International Equity: Diversified",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "WHT8435AU",
+	  "Name": "Hyperion Global Growth Companies Fund ?",
+	  "Category": "International Equity: Diversified",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "VAN0005AU",
+	  "Name": "Vanguard Emerging Markets Shares Index Fund",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 0.56
+	},
+	{
+	  "APIR Code": "ETL0032AU",
+	  "Name": "Aberdeen Standard Emerging Opportunities Fund",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 1.55
+	},
+	{
+	  "APIR Code": "SCH0034AU",
+	  "Name": "Schroder Global Emerging Market Fund",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 1.4
+	},
+	{
+	  "APIR Code": "DFA0107AU",
+	  "Name": "Dimensional Emerging Markets Trust ?",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 0.72
+	},
+	{
+	  "APIR Code": "BTA0419AU",
+	  "Name": "Pendal Global Emerging Markets Opportunities Fund � WS",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 1.4
+	},
+	{
+	  "APIR Code": "TGP0015AU",
+	  "Name": "Rare Emerging Markets Fund  ?",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 1.53
+	},
+	{
+	  "APIR Code": "ETL0381AU",
+	  "Name": "Robeco Emerging Conservative Equity Fund (AUD)",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 0.96
+	},
+	{
+	  "APIR Code": "MAQ0651AU",
+	  "Name": "Walter Scott Emerging Markets Fund",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 1.38
+	},
+	{
+	  "APIR Code": "MGL0019AU",
+	  "Name": "Ironbark Copper Rock Emerging Markets Opportunities Fund",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": 1.12
+	},
+	{
+	  "APIR Code": "CHN8850AU",
+	  "Name": "CC RWC Global Emerging Markets Fund",
+	  "Category": "International Equity: Emerging Markets",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "PLA0001AU",
+	  "Name": "Platinum (Wholesale) European Fund ? ?",
+	  "Category": "International Equity: Europe",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "MAQ0631AU",
+	  "Name": "IFP Global Franchise Fund Hedged",
+	  "Category": "International Equity: Hedged",
+	  "MER": 1.38
+	},
+	{
+	  "APIR Code": "DFA0009AU",
+	  "Name": "Dimensional Global Core Equity Trust AUD Hedged ?",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.39
+	},
+	{
+	  "APIR Code": "MAQ0079AU",
+	  "Name": "Arrowstreet Global Equity Fund (Hedged)",
+	  "Category": "International Equity: Hedged",
+	  "MER": 1.28
+	},
+	{
+	  "APIR Code": "VAN0105AU",
+	  "Name": "Vanguard International Shares Index Fund (Hedged)",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.21
+	},
+	{
+	  "APIR Code": "BGL0044AU",
+	  "Name": "iShares Hedged International Equity Index Fund",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.2
+	},
+	{
+	  "APIR Code": "BGL0109AU",
+	  "Name": "BlackRock Advantage Hedged International Equity Fund",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.94
+	},
+	{
+	  "APIR Code": "FID0014AU",
+	  "Name": "Fidelity Hedged Global Equities Fund",
+	  "Category": "International Equity: Hedged",
+	  "MER": 1.04
+	},
+	{
+	  "APIR Code": "GSF0001AU",
+	  "Name": "Epoch Global Equity Shareholder Yield (Hedged) Fund",
+	  "Category": "International Equity: Hedged",
+	  "MER": 1.3
+	},
+	{
+	  "APIR Code": "GTU0008AU",
+	  "Name": "Invesco Wholesale Global Opportunities Fund - Hedged - Class A",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "ETL0041AU",
+	  "Name": "MFS Fully Hedged Global Equity Trust",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.8
+	},
+	{
+	  "APIR Code": "SCH0032AU",
+	  "Name": "Schroder Global Active Value Fund (Hedged)",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "MAQ0557AU",
+	  "Name": "Walter Scott Global Equity Fund (Hedged)",
+	  "Category": "International Equity: Hedged",
+	  "MER": 1.28
+	},
+	{
+	  "APIR Code": "ZUR0517AU",
+	  "Name": "Zurich Investments Hedged Global Thematic Share",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "MLC0789AU",
+	  "Name": "PIC Wholesale Hedged Global Share Fund ?",
+	  "Category": "International Equity: Hedged",
+	  "MER": 0.95
+	},
+	{
+	  "APIR Code": "PPL0031AU",
+	  "Name": "Redpoint Global Infrastructure Fund",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 0.7
+	},
+	{
+	  "APIR Code": "TGP0008AU",
+	  "Name": "RARE Infrastructure Value Fund - Hedged ?",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.32
+	},
+	{
+	  "APIR Code": "TGP0034AU",
+	  "Name": "RARE Infrastructure Value Fund - Unhedged ?",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.27
+	},
+	{
+	  "APIR Code": "MAQ0825AU",
+	  "Name": "Macquarie International Infrastructure Securities Fund (unhedged)",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.01
+	},
+	{
+	  "APIR Code": "MAQ0432AU",
+	  "Name": "Macquarie International Infrastructure Securities Fund (Hedged) ?",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.01
+	},
+	{
+	  "APIR Code": "AMP1179AU",
+	  "Name": "AMP Capital Core Infrastructure Fund (Class A) ?",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "MGE0002AU",
+	  "Name": "Magellan Infrastructure Fund ?",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.31
+	},
+	{
+	  "APIR Code": "MGE0006AU",
+	  "Name": "Magellan Infrastructure Fund (Unhedged) ?",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1.53
+	},
+	{
+	  "APIR Code": "MPL0006AU",
+	  "Name": "Maple-Brown Abbott Global Listed Infrastructure Fund",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 0.98
+	},
+	{
+	  "APIR Code": "MPL0008AU",
+	  "Name": "Maple-Brown Abbott Global Listed Infrastructure Fund � Hedged",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "UBS0064AU",
+	  "Name": "UBS Clarion Global Infrastructure Securities Fund",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 1
+	},
+	{
+	  "APIR Code": "VAN0023AU",
+	  "Name": "Vanguard Global Infrastructure Fund",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 0.49
+	},
+	{
+	  "APIR Code": "VAN0024AU",
+	  "Name": "Vanguard Global Infrastructure Fund (Hedged)",
+	  "Category": "International Equity: Infrastructure",
+	  "MER": 0.52
+	},
+	{
+	  "APIR Code": "HFL0108AU",
+	  "Name": "Ironbark LHP Global Long/Short Fund ? ?",
+	  "Category": "International Equity: Long/Short",
+	  "MER": 4.43
+	},
+	{
+	  "APIR Code": "PLA0002AU",
+	  "Name": "Platinum (Wholesale) International Fund ? ?",
+	  "Category": "International Equity: Long/Short",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "PLA0100AU",
+	  "Name": "Platinum International Brands Fund ? ?",
+	  "Category": "International Equity: Long/Short",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "PMC0100AU",
+	  "Name": "PM CAPITAL Global Companies Fund ? ?",
+	  "Category": "International Equity: Long/Short",
+	  "MER": 2.75
+	},
+	{
+	  "APIR Code": "IOF0045AU",
+	  "Name": "Antipodes Global Fund ?",
+	  "Category": "International Equity: Long/Short",
+	  "MER": 1.51
+	},
+	{
+	  "APIR Code": "MUA0002AU",
+	  "Name": "Munro Global Growth Fund  ? ?",
+	  "Category": "International Equity: Long/Short",
+	  "MER": 1.6
+	},
+	{
+	  "APIR Code": "DFA0106AU",
+	  "Name": "Dimensional Global Small Company Trust ?",
+	  "Category": "International Equity: Smaller Companies",
+	  "MER": 0.65
+	},
+	{
+	  "APIR Code": "PCL0022AU",
+	  "Name": "Pengana Global Small Companies Fund ?",
+	  "Category": "International Equity: Smaller Companies",
+	  "MER": 3.54
+	},
+	{
+	  "APIR Code": "ETL0365AU",
+	  "Name": "Paradice Global Small MidCap Fund ?",
+	  "Category": "International Equity: Smaller Companies",
+	  "MER": 1.55
+	},
+	{
+	  "APIR Code": "MGE0005AU",
+	  "Name": "Magellan High Conviction Fund - Class A Units ? ?",
+	  "Category": "International Equity: Concentrated",
+	  "MER": 2.3
+	},
+	{
+	  "APIR Code": "MGE9885AU",
+	  "Name": "Magellan High Conviction Fund - Class B Units ?",
+	  "Category": "International Equity: Concentrated",
+	  "MER": 2.11
+	},
+	{
+	  "APIR Code": "FSF0975AU",
+	  "Name": "RealIndex Global Share Class A - Hedged",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 0.59
+	},
+	{
+	  "APIR Code": "FSF0974AU",
+	  "Name": "RealIndex Global Share Class A - Unhedged",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 0.58
+	},
+	{
+	  "APIR Code": "ARO0006AU",
+	  "Name": "C WorldWide Global Equity Trust ?",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "FSF1240AU",
+	  "Name": "Acadian Global Managed Volatility Equity Fund - Class A",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 0.65
+	},
+	{
+	  "APIR Code": "PER0733AU",
+	  "Name": "Perpetual Wholesale Global Share Fund ?",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 1.25
+	},
+	{
+	  "APIR Code": "PER0752AU",
+	  "Name": "Perpetual Wholesale Global Share Fund (Hedged)  ?",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 1.26
+	},
+	{
+	  "APIR Code": "PLA0006AU",
+	  "Name": "Platinum Unhedged Fund ? ?",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "ETL0419AU",
+	  "Name": "Pan Tribal Global Equity Fund",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 1.2
+	},
+	{
+	  "APIR Code": "PPL0036AU",
+	  "Name": "Intermede Global Equities Fund",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 0.99
+	},
+	{
+	  "APIR Code": "HHA0007AU",
+	  "Name": "Pengana WHEB Sustainable Impact Fund",
+	  "Category": "International Equity: Large Companies",
+	  "MER": 1.35
+	},
+	{
+	  "APIR Code": "LAZ0012AU",
+	  "Name": "Lazard Global Small Cap Fund (W Class)",
+	  "Category": "International Equity: Smaller Companies",
+	  "MER": 1.12
+	},
+	{
+	  "APIR Code": "FSF1086AU",
+	  "Name": "Aspect Diversified Futures Fund  ? ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 2.91
+	},
+	{
+	  "APIR Code": "HFL0104AU",
+	  "Name": "Ironbark LHP Diversified Investment Fund ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 3.73
+	},
+	{
+	  "APIR Code": "ETL0134AU",
+	  "Name": "Aberdeen Standard Absolute Return Global Bond Strategies Fund",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 0.86
+	},
+	{
+	  "APIR Code": "MAQ0482AU",
+	  "Name": "Winton Global Alpha Fund ? ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 2.93
+	},
+	{
+	  "APIR Code": "MAN0002AU",
+	  "Name": "Man Alpha AHL ? ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 1.86
+	},
+	{
+	  "APIR Code": "GTU0109AU",
+	  "Name": "Invesco Wholesale Global Targeted Returns Fund - Class A ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 0.93
+	},
+	{
+	  "APIR Code": "ECL0013AU",
+	  "Name": "Ellerston Australian Market Neutral Fund ? ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 2.65
+	},
+	{
+	  "APIR Code": "GMO0006AU",
+	  "Name": "GMO Systematic Global Macro Trust ? ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 1.01
+	},
+	{
+	  "APIR Code": "MAQ7578AU",
+	  "Name": "Macquarie Professional Series Global Alternatives Fund ? ?",
+	  "Category": "Alternatives: Hedge Funds",
+	  "MER": 1.69
+	},
+	{
+	  "APIR Code": "WHT5134AU",
+	  "Name": "Firetrail Absolute Return Fund (class A units) ? ?",
+	  "Category": "Alternatives: Single Strategy ?",
+	  "MER": ""
+	},
+	{
+	  "APIR Code": "WMF0001AU",
+	  "Name": "Watermark Market Neutral Trust ?",
+	  "Category": "Alternatives: Single Strategy ?",
+	  "MER": 1.7
+	}
+  ]

@@ -3,7 +3,7 @@ const   express = require ("express"),
         bodyParser = require("body-parser"),
         mongoose = require("mongoose");
 
-mongoose.connect("mongodb://localhost/feecalculator", { useNewUrlParser: true }); 
+mongoose.connect("mongodb://localhost/NavShares1", { useNewUrlParser: true }); 
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 app.set("view engine", "ejs");
@@ -17,6 +17,21 @@ const shareSchema = new mongoose.Schema({
 });
 
 let Share = mongoose.model("Share", shareSchema);
+
+// Share.create(
+//     {
+//         ASXCode: "WIN",
+//         Name: "correct share",
+//         Category: "profit"
+//     }, function(err, etf){
+//         if(err){
+//             console.log(err)
+//         } else {
+//             console.log("created Share")
+//             console.log(etf);
+//         }
+//     }
+// );
 
 Share.find({}, function(err, listed){
     if(err){
