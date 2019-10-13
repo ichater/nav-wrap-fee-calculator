@@ -1,8 +1,36 @@
 h1 {
-    color: purple;
+    color: white;
+    background-color: #c95109;
+    font-family: Charlie-Std-SemiBold;
+    padding-bottom: 10px;
 }
 
 table {
     border-spacing: 5px;
     border: 1px solid black;
   }
+
+.container {
+    border: 3px solid black;
+    padding:50px
+}
+
+.thead-dark {
+    /* display: table-cell; */
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: center;
+}
+
+.floatr{
+    float: right;
+}
+
+h2 {
+    background-color: #006600;
+    border: 5px;
+    font-family: Charlie-Std-SemiBold;
+    color: white;
+    clear:both;
+    float:left;
+}

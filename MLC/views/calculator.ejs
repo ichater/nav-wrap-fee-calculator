@@ -2,43 +2,66 @@
  <html>
  <head>
     <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
  </head>
  <body>
-
+<div class="container">
 
 <h1>
-    Navigator series 2 fee calculator
+    Navigator series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
 </h1>
 <h4>
-    investment breakdown.
+   Investment breakdown.  
 </h4>
-<table>
+
+<!-- input total account value -->
+    <form class="floatr">
+        <input type="number" min="3000" id="myNum"  data-copy="#totalBalance"
+        placeholder="total account value">
+        <input type="button" value="Submit" id="addVal">
+    </form>
+</br>
+
+<!-- Add and view Shares -->
+<input type="button" value="Add Share" onclick="addASX();">
+<table class="table">
+    <thead class="thead-dark"> 
+     <th> Listed investments </th>
+    </thead>
+</table>
+<table class="table" id="ASXTable">
+       
     <tr>
-        <th colspan="3"> Listed investments </th>
-    </tr>    
-    <tr>
-        <th> ASX code </th>
-        <th> name </th>
-        <th> Category </th>
+        <th scope="col"> ASX code </th>
+        <th scope="col"> name </th>
+        <th scope="col"> Category </th>
+        <th scope="col"> Value </th>
     </tr> 
 </table>
-    
-<table>    
+    </br>
+
+<!-- Add and view managed Funds -->
+<input type="button" value="Add Fund" onclick="addMF();">
+<table class="table">     
+    <thead colspan="4" class="thead-dark"> 
+        <th> Managed Funds</th>
+    </thead> 
+</table>
+<table class="table" id="fundTable">             
     <tr>
-        <th> APIR code code </th>
-        <th> name </th>
-        <th> Category </th>
-        <th> MERs </th>
+        <th scope="col"> APIR Code </th>
+        <th scope="col"> Name </th>
+        <th scope="col"> MERs </th>
+        <th scope="col"> Nab Owned </th>
+        <th scope="col"> Value </th>
     </tr>      
 </table>
-<table>    
-    <tr>
-        <th> APIR code code </th>
-        <th> name </th>
-        <th> Category </th>
-        <th> MERs </th>
-    </tr>      
-</table>
+
+<div id= "totalBalance">
+
+</div>
+</div>
     <script type="text/javascript" src="front.js"></script> 
 </body>
  </html>
