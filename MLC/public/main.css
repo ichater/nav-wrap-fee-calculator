@@ -1,3 +1,7 @@
+.container{
+    overflow:hidden
+}
+
 h1 {
     color: white;
     background-color: #c95109;
@@ -34,3 +38,18 @@ h2 {
     clear:both;
     float:left;
 }
+
+.feeRef {
+    border: 1px solid black;
+    float: right;
+    width: 40%
+}
+#totalBalance {
+    float: left;
+    width: 20%;
+}
+
+#totalFee{ 
+    width: 20%;
+}
+

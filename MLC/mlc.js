@@ -7,48 +7,25 @@ mongoose.connect("mongodb://localhost/NavShares1", { useNewUrlParser: true });
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 app.set("view engine", "ejs");
-// app.locals.NavShares = require("./../Data.json/NavShares1.json");
 
-//Share Schema
-const shareSchema = new mongoose.Schema({
-    ASXCode: String,
-    Name: String,
-    Category: String
-});
-
-let Share = mongoose.model("Share", shareSchema);
-
-// Share.create(
-//     {
-//         ASXCode: "WIN",
-//         Name: "correct share",
-//         Category: "profit"
-//     }, function(err, etf){
-//         if(err){
-//             console.log(err)
-//         } else {
-//             console.log("created Share")
-//             console.log(etf);
-//         }
-//     }
-// );
-
-Share.find({}, function(err, listed){
-    if(err){
-        console.log("Not found yet")
-        console.log(err);
-    } else {
-        console.log("Found them!")
-        console.log(listed)
-    }
-});
 
 app.get("/", function(req, res){
 	res.render("home.ejs");
 });
 
 app.get("/feecalculator", function(req, res){
-	res.render("calculator.ejs");
+    ASX = require("./public/Data/NavShares1.json");
+    MF = require("./public/Data/NAVMFs.json");
+    SMA = require("./public/Data/SMA.json")
+	res.render("calculator.ejs",[{ASX, ASX},{SMA: SMA},{MF: MF}]);
+});
+
+app.get("/test", function(req, res){
+    ASX = require("./public/Data/NavShares1.json");
+    MF = require("./public/Data/NAVMFs.json");
+    SMA = require("./public/Data/SMA.json")
+    res.render("test",[{ASX, ASX},{SMA: SMA},{MF: MF}]);
+    
 });
 
 app.listen(3000, function(){

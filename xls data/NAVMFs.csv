@@ -1,383 +1,620 @@
-APIR Code, Name,Category,MER
-,,,0.51
-,,,0.25
-SBC0812AU,UBS Cash Plus Fund,Cash: Cash Enhanced,0.30
-VAN0102AU,Vanguard Cash Plus Fund,Cash: Cash Enhanced,0.29
-VAN0025AU,Vanguard Australian Government Bond Index Fund,Fixed Interest: Australian,0.24
-MAQ0061AU,Macquarie Australian Fixed Interest Fund,Fixed Interest: Australian,0.49
-ETL0015AU,PIMCO Wholesale Australian Bond Fund,Fixed Interest: Australian,0.53
-VAN0001AU,Vanguard Australian Fixed Interest Index Fund,Fixed Interest: Australian,0.24
-BGL0105AU,iShares Australian Bond Index Fund,Fixed Interest: Australian,0.22
-RFA0813AU,Pendal Fixed Interest Fund,Fixed Interest: Australian,0.50
-SBC0813AU,UBS Australian Bond Fund,Fixed Interest: Australian,0.45
-IOF0046AU,Janus Henderson Australian Fixed Interest Fund,Fixed Interest: Australian,0.47
-TYN0104AU,Nikko AM Aust Bond fund,Fixed Interest: Australian,0.30
-SSB0122AU,Legg Mason Western Asset Australian Bond Trust - Class A,Fixed Interest: Australian,0.42
-AUS0071AU,Altius Sustainable Bond Fund  ,Fixed Interest: Australian,0.69
-BTA0507AU,Pendal Sustainable Australian Fixed Interest Fund,Fixed Interest: Australian,0.40
-DFA0108AU,Dimensional Five Year Diversified Fixed Interest ?,Fixed Interest: Diversified,0.28
-DFA0100AU,Dimensional Short Term Fixed Interest Trust ?,Fixed Interest: Diversified,0.19
-DFA0002AU,Dimensional Two Year Diversified Fixed Interest ?,Fixed Interest: Diversified,0.25
-MLC0839AU,MLC Wholesale Diversified Debt Fund,Fixed Interest: Diversified,0.60
-ETL0016AU,PIMCO Wholesale Diversified Fixed Interest Fund,Fixed Interest: Diversified,0.63
-CSA0062AU,Aberdeen Standard Diversified Fixed Income Fund,Fixed Interest: Diversified,0.59
-AMP0557AU,AMP Capital Corporate Bond Fund (Class A),Fixed Interest: Diversified,0.60
-MLC0669AU,MLC Wholesale Horizon 1 Bond Portfolio,Fixed Interest: Diversified,0.55
-ANZ0212AU,OnePath Wholesale Diversified Fixed Interest Trust,Fixed Interest: Diversified,0.50
-PMC0103AU,PM CAPITAL Enhanced Yield Fund ? ?,Fixed Interest: Diversified,1.17
-SCH0028AU,Schroder (Wholesale) Fixed Income Fund,Fixed Interest: Diversified,0.50
-SBC0007AU,UBS Diversified Fixed Income Fund,Fixed Interest: Diversified,0.55
-VAN0106AU,Vanguard International Credit Securities Index Fund (Hedged),Fixed Interest: Diversified,0.32
-MLC0774AU,PIC Wholesale 0/100 Portfolio ?,Fixed Interest: Diversified,0.55
-MLC0840AU,PIC Wholesale Diversified Debt Fund ?,Fixed Interest: Diversified,0.60
-VAN0042AU,Vanguard Diversified Bond Index Fund ,Fixed Interest: Diversified,0.29
-DFA0028AU,Dimensional Global Bond Trust ?,Fixed Interest: International  ,0.35
-FSF0084AU,Colonial First State Wholesale Global Credit Income Fund,Fixed Interest: International  ,0.63
-GSF0008AU,Payden Global Income Opportunities Fund ?,Fixed Interest: International  ,0.72
-VAN0103AU,Vanguard International Fixed Interest Index Fund (Hedged),Fixed Interest: International  ,0.26
-MAQ0274AU,Macquarie Dynamic Bond Fund ?,Fixed Interest: International  ,0.63
-BGL0008AU,iShares Global Bond Index Fund,Fixed Interest: International  ,0.20
-PWA0825AU,BlackRock Wholesale International Bond Fund,Fixed Interest: International  ,0.55
-ETL0018AU,PIMCO Wholesale Global Bond Fund,Fixed Interest: International  ,0.68
-FRT0025AU,Franklin Templeton Global Aggregate Bond Fund,Fixed Interest: International  ,0.59
-PIC6396AU,PIMCO ESG Global Bond Fund,Fixed Interest: International  ,1.05
-PPL0028AU,Antares Income Fund ,Fixed Interest: Multi-strategy Income,0.55
-IOF0145AU,Janus Henderson Tactical Income Fund,Fixed Interest: Multi-strategy Income,0.45
-MAQ0277AU,Macquarie Income Opportunities Fund ?,Fixed Interest: Multi-strategy Income,0.51
-HOW0052AU,Kapstream Wholesale Absolute Return Income Fund,Fixed Interest: Multi-strategy Income,0.75
-PER0260AU,Perpetual's Wholesale Diversified Income Fund,Fixed Interest: Multi-strategy Income,0.71
-SCH0103AU,Schroder Absolute Return Income Fund,Fixed Interest: Multi-strategy Income,0.54
-UBS0003AU,UBS Income Solution Fund,Fixed Interest: Multi-strategy Income,0.60
-PGI0001AU,Principal Global Credit Opportunities Fund,Fixed Interest: Multi-strategy Income,0.80
-ETL0019AU,PIMCO Global Credit Fund - Wholesale Class,Fixed Interest: Multi-strategy Income,0.71
-WPC1963AU,Daintree Core Income Trust ,Fixed Interest: Multi-strategy Income,0.50
-FRT0027AU,Franklin Australian Absolute Return Bond Fund ,Fixed Interest: Multi-strategy Income,0.65
-HOW0096AU,Challenger Guaranteed Pension Fund (I) - 30 June 2021,Fixed Interest: Annuities, 
-MLT0010AU,Challenger Guaranteed Income Fund - 4.00 cents p.a. 30 September 2022 (MV$1),Fixed Interest: Annuities, 
-MLT9335AU,Challenger Guaranteed Income Fund 3.40 cents 31 March 2021,Fixed Interest: Annuities, 
-CSA0038AU,Bentham Wholesale Global Income Fund ,Fixed interest: Specialist,0.77
-FRT0011AU,Franklin Templeton Multi-Sector Bond W,Fixed interest: Specialist,0.93
-SSB0014AU,Legg Mason Brandywine Global Opportunistic Fixed Income ?,Fixed interest: Specialist,0.70
-CSA0046AU,Bentham Wholesale Syndicated Loan Fund,Fixed interest: Specialist,0.84
-PER0727AU,JPMorgan Global Strategic Bond Fund,Fixed interest: Specialist,0.58
-ETL0398AU,T. Rowe Price Dynamic Global Bond Fund ?,Fixed interest: Specialist,0.46
-ETL0458AU,PIMCO Income Fund,Fixed interest: Specialist,0.90
-HOW0098AU,Ardea Real Outcome Fund ,Fixed interest: Specialist,0.50
-VEN0029AU,Ventura Conservative Fund - Class A,Conservative: Diversified,0.72
-VEN0028AU,Ventura Diversified 50 Fund - Class A,Conservative: Diversified,0.81
-CRS0001AU,Aberdeen Standard Multi-Asset Income Fund ?,Conservative: Diversified,0.88
-FSF0033AU,Colonial First State Wholesale Conservative Fund,Conservative: Diversified,0.76
-MLC0670AU,MLC Wholesale Horizon 2 Income Portfolio,Conservative: Diversified,0.76
-NUN0001AU,Pre Select Conservative Fund,Conservative: Diversified,0.60
-RIM0012AU,Russell Conservative Fund - Class C ,Conservative: Diversified,0.90
-VAN0109AU,Vanguard Conservative Index Fund,Conservative: Diversified,0.29
-MLC0775AU,PIC Wholesale 30/70 Portfolio ?,Conservative: Diversified,0.76
-BTA0318AU,Pendal Monthly Income Plus Fund,Conservative: Diversified,0.65
-IPA0075AU,AMP Capital Income Generator,Conservative: Diversified,0.80
-MLC0921AU,MLC Wholesale Inflation Plus – Conservative,Conservative: Real Return,0.89
-MLC0924AU,PIC Wholesale Inflation Plus - Conservative Portfolio ?,Conservative: Real Return,0.89
-PER0114AU,Perpetual's Wholesale Diversified Growth Fund,Balanced: Diversified,0.96
-FSF0040AU,Colonial First State Wholesale Balanced Fund,Balanced: Diversified,0.86
-MLC0398AU,MLC Wholesale Horizon 3 Conservative Growth Portfolio,Balanced: Diversified,0.88
-NUN0002AU,Pre Select Balanced Fund,Balanced: Diversified,0.65
-RIM0013AU,Russell Diversified 50 Fund - Class C ,Balanced: Diversified,1.00
-VAN0108AU,Vanguard Balanced Index Fund,Balanced: Diversified,0.29
-MLC0776AU,PIC Wholesale 50/50 Portfolio ?,Balanced: Diversified,0.88
-MLC7849AU,MLC Wholesale Index Plus Conservative Growth Portfolio,Balanced: Diversified,0.36
-MLC5068AU,PIC Wholesale Index Plus Conservative Growth Portfolio ?,Balanced: Diversified,0.36
-DFA0033AU,Dimensional World Allocation 50/50 Trust  ?,Balanced: Diversified,0.41
-DFA0029AU,Dimensional World Allocation 70/30 Trust ?,Growth: Diversified ,0.43
-VEN0027AU,Ventura Growth 70 Fund - Class A,Growth: Diversified ,0.89
-FSF0008AU,Colonial First State Wholesale Diversified Fund,Growth: Diversified ,0.96
-PER0063AU,Perpetual Wholesale Balanced Growth Fund,Growth: Diversified ,1.05
-CRS0002AU,Aberdeen Standard Multi-Asset Real Return Fund ?,Growth: Diversified ,1.22
-MAL0018AU,BlackRock Global Allocation Fund (Aust) - Class D ? ?,Growth: Diversified ,0.90
-PWA0822AU,BlackRock Wholesale Balanced Fund ?,Growth: Diversified ,0.89
-RFA0815AU,Pendal Active Balanced Fund,Growth: Diversified ,1.02
-BTA0806AU,Pendal Balanced Returns Fund,Growth: Diversified ,0.96
-JPM0008AU,Legg Mason Diversified Trust - Class A,Growth: Diversified ,0.78
-MLC0260AU,MLC Wholesale Horizon 4 Balanced Portfolio,Growth: Diversified ,0.93
-AJF0003AU,OnePath Tax Effective Income Fund,Growth: Diversified ,1.80
-NUN0003AU,Pre Select Growth Fund,Growth: Diversified ,0.70
-RIM0011AU,Russell Balanced Fund - Class C ,Growth: Diversified ,1.07
-SBC0815AU,UBS Balanced Investment Fund,Growth: Diversified ,1.10
-VAN0110AU,Vanguard Growth Index Fund,Growth: Diversified ,0.29
-VAN0111AU,Vanguard High Growth Index Fund,Growth: Diversified ,0.29
-ZUR0059AU,Zurich Investments Managed Growth Fund ?,Growth: Diversified ,1.02
-MLC0777AU,PIC Wholesale 70/30 Portfolio ?,Growth: Diversified ,0.93
-UBS0037AU,UBS Tactical Beta Fund - Growth,Growth: Diversified ,0.29
-MLC7387AU,MLC Wholesale Index Plus Balanced Portfolio,Growth: Diversified ,0.38
-MLC4447AU,PIC Wholesale Index Plus Balanced Portfolio ?,Growth: Diversified ,0.38
-PER0731AU,PineBridge Global Dynamic Asset Allocation Fund ?,Growth: Diversified ,N/A
-PER0556AU,Perpetual Diversified Real Return Fund,Growth: Diversified ,N/A
-PER6115AU,Perpetual Diversified Real Return Fund Class Z Units,Growth: Diversified , 
-SCH0047AU,Schroder Real Return Fund CPI Plus 5% Fund,Growth: Real Return,0.90
-MLC0920AU,MLC Wholesale Inflation Plus – Moderate,Growth: Real Return,1.05
-MLC0923AU,PIC Wholesale Inflation Plus - Moderate Portfolio ?,Growth: Real Return,1.05
-SCH0096AU,Schroder Real Return CPI Plus 3.5% Fund,Growth: Real Return,0.60
-RIM0014AU,Russell Growth Fund - Class C ,Aggressive: Diversified,1.15
-VEN0009AU,Ventura High Growth 100 Fund – Class A,Aggressive: Diversified,1.19
-FSF0498AU,Colonial First State Wholesale High Growth Fund,Aggressive: Diversified,1.16
-MLC0265AU,MLC Wholesale Horizon 5 Growth Portfolio,Aggressive: Diversified,0.98
-MLC0397AU,MLC Wholesale Horizon 6 Share Portfolio,Aggressive: Diversified,1.00
-PER0066AU,Perpetual's Wholesale Split Growth Fund,Aggressive: Diversified,1.17
-NUN0004AU,Pre Select High Growth Fund,Aggressive: Diversified,0.85
-RIM0030AU,Russell High Growth Fund - Class C ,Aggressive: Diversified,1.25
-MLC0779AU,PIC Wholesale 100/0 Portfolio ?,Aggressive: Diversified,1.00
-MLC0778AU,PIC Wholesale 85/15 Portfolio ?,Aggressive: Diversified,0.98
-MLC9748AU,MLC Wholesale Index Plus Growth Portfolio,Aggressive: Diversified,0.39
-MLC8225AU,PIC Wholesale Index Plus Growth Portfolio ?,Aggressive: Diversified,0.39
-DFA0035AU,Dimensional World Equity Trust  ?,Aggressive: Diversified,0.47
-MLC0449AU,MLC Wholesale Horizon 7 Accelerated Growth Portfolio,Aggressive: Geared,1.15
-MLC0780AU,PIC Wholesale 130/0 Portfolio ?,Aggressive: Geared,1.15
-MLC0667AU,MLC Wholesale Inflation Plus – Assertive ?,High Growth: Real Return (Geared),1.22
-MLC0782AU,PIC Wholesale Inflation Plus – Assertive Portfolio ? ?,High Growth: Real Return (Geared),1.22
-SSB0026AU,Legg Mason Martin Currie Real Income Fund,Property: Australian Listed  ,0.85
-APN0008AU,APN AREIT Fund,Property: Australian Listed  ,0.85
-SSB0128AU,Legg Mason Martin Currie Property Securities Trust,Property: Australian Listed  ,0.72
-MLC0263AU,MLC Wholesale Property Securities Fund,Property: Australian Listed  ,0.73
-VAN0004AU,Vanguard Australian Property Securities Index,Property: Australian Listed  ,0.23
-AMP0255AU,AMP Capital Listed Property Trusts Fund (Class A),Property: Australian Listed  ,0.98
-BGL0108AU,iShares Australian Listed Property Index Fund,Property: Australian Listed  ,0.20
-RFA0817AU,Pendal Property Investment Fund,Property: Australian Listed  ,0.65
-HBC0008AU,SG Hiscock Wholesale Property Securities Fund,Property: Australian Listed  ,0.85
-FSF0004AU,Colonial First State Wholesale Property Securities Fund,Property: Australian Listed  ,0.81
-PAL0002AU,Ironbark Paladin Property Securities Fund,Property: Australian Listed  ,0.84
-SBC0816AU,UBS Property Securities Fund,Property: Australian Listed  ,0.85
-MLC0783AU,PIC Wholesale Property Securities Fund ?,Property: Australian Listed  ,0.73
-ETL0119AU,EQT SG Hiscock Property Income Fund,Property: Australian Listed  ,0.95
-ZUR0064AU,Zurich Investments Australian Property Securities Fund ?,Property: Australian Listed  ,0.81
-AMP1015AU,AMP Capital Core Property Fund (Class A) ?,Property: Diversified  ,1.35
-VAN0018AU,Vanguard International Property Securities Index Fund,Property: Internationally Listed,0.40
-DFA0005AU,Dimensional Global Real Estate Trust ?,Property: Internationally Listed,0.37
-AMP0974AU,AMP Capital Global Property Securities Fund (Class A),Property: Internationally Listed,0.97
-FSF0454AU,CFS Wholesale Global Property Securites Fund,Property: Internationally Listed,1.02
-ETL0005AU,EQT SGH LaSalle Global Listed Property Securities Trust,Property: Internationally Listed,1.10
-MLC0786AU,MLC Wholesale Global Property Fund,Property: Internationally Listed,0.89
-MGL0010AU,Ironbark Global (ex-Australia) Property Securities Fund,Property: Internationally Listed,1.23
-PPL0026AU,Presima Global Property Securities Concentrated Fund ,Property: Internationally Listed,1.00
-HML0016AU,UBS Clarion Global Property Securities Fund,Property: Internationally Listed,0.90
-VAN0019AU,Vanguard International Property Securities Index Fund (Hedged),Property: Internationally Listed,0.43
-MLC0788AU,PIC Wholesale Global Property Fund ?,Property: Internationally Listed,0.89
-WHT0015AU,Resolution Capital Global Property Securities Fund ?,Property: Internationally Listed,1.55
-BFL0020AU,Quay Global Real Estate Fund ?,Property: Internationally Listed,N/A
-NML0001AU,AMP Capital Wholesale Australian Property Fund,Property: Hybrid,1.12
-PCL0005AU,Pengana Australian Equities Fund ?,Australian Equity: Diversified,1.59
-ETL0060AU,Allan Gray Australian Equity Fund ?,Australian Equity: Diversified,1.45
-VEN0026AU,Ventura Australian Opportunities Fund - Class A,Australian Equity: Diversified,1.93
-IML0005AU,Investors Mutual Equity Income Fund,Australian Equity: Diversified,0.99
-VEN0030AU,Ventura Australian Shares Fund - Class A,Australian Equity: Diversified,0.88
-BFL0004AU,Bennelong ex-20 Australian Equities Fund ?,Australian Equity: Diversified,1.37
-DFA0103AU,Dimensional Australian Large Company Trust ?,Australian Equity: Diversified,0.22
-HOW0026AU,Alphinity Wholesale Concentrated Australian Share Fund ?,Australian Equity: Diversified, 
-FSF0002AU,Colonial First State Wholesale Australian Share Fund,Australian Equity: Diversified,0.96
-FSF0003AU,Colonial First State Wholesale Imputation Fund,Australian Equity: Diversified,0.96
-HOW0019AU,Alphinity Wholesale Australian Equity Fund,Australian Equity: Diversified,0.90
-PAM0001AU,Alphinity Wholesale Australian Share Fund,Australian Equity: Diversified,0.90
-HOW0034AU,Greencape Wholesale Broadcap Fund ?,Australian Equity: Diversified,1.19
-PPL0002AU,Antares Dividend Builder,Australian Equity: Diversified,0.60
-PPL0115AU,Antares Elite Opportunities Fund ?,Australian Equity: Diversified,0.70
-AAP0103AU,Ausbil Australian Active Equity Fund,Australian Equity: Diversified,0.90
-BGL0034AU,iShares Australian Equity Index Fund,Australian Equity: Diversified,0.20
-BAR0814AU,BlackRock Advantage Australian Equity Fund,Australian Equity: Diversified,0.79
-BTA0055AU,Pendal Australian Equity Fund,Australian Equity: Diversified,0.79
-RFA0059AU,Pendal Focus Australian Share Fund ?,Australian Equity: Diversified,1.04
-RFA0103AU,Pendal Imputation Fund,Australian Equity: Diversified,0.90
-HOW0035AU,Greencape Wholesale High Conviction Fund ?,Australian Equity: Diversified,0.99
-MLC0262AU,MLC Wholesale Australian Share Fund,Australian Equity: Diversified,0.78
-FID0008AU,Fidelity Australian Equities Fund,Australian Equity: Diversified,0.85
-MLC0264AU,MLC Wholesale IncomeBuilder,Australian Equity: Diversified,0.72
-VAN0002AU,Vanguard Australian Shares Index Fund,Australian Equity: Diversified,0.16
-IML0002AU,Investors Mutual Australian Share Fund,Australian Equity: Diversified,0.99
-IML0004AU,Investors Mutual Industrial Share Fund,Australian Equity: Diversified,0.99
-ADV0046AU,Maple-Brown Abbott Australian Share Fund,Australian Equity: Diversified,0.92
-HBC0011AU,Merlon Wholesale Australian Share Income Fund,Australian Equity: Diversified,0.95
-PER0049AU,Perpetual's Wholesale Australian Fund,Australian Equity: Diversified,1.00
-PER0102AU,Perpetual's Wholesale Concentrated Equity Fund,Australian Equity: Diversified,1.10
-PER0046AU,Perpetual's Wholesale Industrial Fund,Australian Equity: Diversified,1.01
-WHT0039AU,Plato Australian Shares Income Fund ,Australian Equity: Diversified,0.90
-RIM0015AU,Russell Australian Share Fund - Class C ,Australian Equity: Diversified,1.05
-SCH0101AU,Schroder (Wholesale) Australian Equity Fund,Australian Equity: Diversified,0.92
-TYN0028AU,Nikko AM Australian Share Wholesale Portfolio,Australian Equity: Diversified,0.80
-TYN0038AU,Nikko AM Australian Share Income Fund,Australian Equity: Diversified,0.85
-VAN0104AU,Vanguard Australian Shares High Yield Fund,Australian Equity: Diversified,0.35
-FSF0455AU,Colonial First State Antares Wholesale Elite Opportunities Fund ?,Australian Equity: Diversified,1.02
-DFA0003AU,Dimensional Australian Core Equity Trust ?,Australian Equity: Diversified,0.31
-DFA0101AU,Dimensional Australian Value Trust ?,Australian Equity: Diversified,0.33
-MLC0768AU,PIC Wholesale Australian Share Fund ?,Australian Equity: Diversified,0.78
-MLC0781AU,PIC Wholesale Income Builder ?,Australian Equity: Diversified,0.72
-PAT0001AU,Ironbark Karara Australian Share Fund,Australian Equity: Diversified,0.99
-FSF0976AU,RealIndex Wholesale Australian Share,Australian Equity: Diversified,0.46
-FHT0030AU,The Montgomery Fund ?,Australian Equity: Diversified,1.36
-WHT0012AU,Solaris Core Australian Equity Fund,Australian Equity: Diversified,0.90
-ETL0273AU,Allan Gray Australia Stable Fund ?,Australian Equity: Diversified,1.41
-ACM0006AU,AllianceBernstein Managed Volatility Equities Fund,Australian Equity: Diversified,0.55
-IML0010AU,Investors Mutual Concentrated Australian Share Fund ?,Australian Equity: Diversified,0.99
-SST0048AU,State Street Australian Equity Fund,Australian Equity: Diversified,0.79
-BLK0012AU,BlackRock Concerntrated Industrial Share Fund (Class D Units) ?,Australian Equity: Diversified,1.65
-ETL0349AU,Allan Gray Australian Equities Fund (Class B) ?,Australian Equity: Diversified,1.86
-SSB0043AU,Legg Mason Martin Currie Equity Income Fund,Australian Equity: Diversified,0.85
-BFL0002AU,Bennelong Concentrated Australian Equities Fund ?,Australian Equity: Diversified,2.08
-ETL0328AU,T Rowe Price Australian Equity Fund ?,Australian Equity: Diversified,0.60
-WHT3810AU,FireTrail Australian High Conviction Fund  (Class A Units) ?,Australian Equity: Diversified, 
-MGE9705AU,Airlie Australian Share Fund ?,Australian Equity: Diversified,0.78
-AUS0030AU,Platypus Australian Share Fund  ?,Australian Equity: Diversified,1.96
-AUS0036AU,Platypus Systematic Growth Fund ,Australian Equity: Diversified,1.21
-FID0021AU,Fidelity Australian Opportunities Fund,Australian Equity: Diversified,0.85
-FSF0043AU,Colonial First State Wholesale Geared Share Fund,Australian Equity: Geared,2.24
-AAP0002AU,Ausbil Australian Geared Equity Fund,Australian Equity: Geared,1.20
-PER0071AU,Perpetual's Wholesale Geared Australian Fund,Australian Equity: Geared,1.17
-HOW0053AU,WaveStone Dynamic Australian Share Fund ? ?,Australian Equity: Long/Short,1.41
-PPL0106AU,Antares High Growth Shares Fund ? ?,Australian Equity: Long/Short,1.11
-AAP0008AU,Ausbil 130/30 Focus Fund ? ?,Australian Equity: Long/Short,1.63
-PMC0101AU,PM Capital Australian Companies Fund  ? ?,Australian Equity: Long/Short,2.93
-WHT3859AU,Solaris Australian Equity Long Short Fund  ? ?,Australian Equity: Long/Short,0.99
-AUG0018AU,Australian Ethical Australian Shares Fund (Wholesale),Australian Equity: Responsible Investment,1.10
-PER0116AU,Perpetual Wholesale Ethical SRI Fund,Australian Equity: Responsible Investment,1.17
-HOW0121AU,Alphinity Sustainable Share Fund,Australian Equity: Responsible Investment,0.95
-RFA0025AU,Pendal Ethical Share Fund,Australian Equity: Responsible Investment,0.95
-SSB0064AU,Legg Mason Martin Currie Ethical Values with Income Fund ,Australian Equity: Responsible Investment,0.85
-FAM0101AU,Celeste Australian Small Companies Fund ?,Australian Equity: Smaller Companies,2.41
-ETL0052AU,Grant Samuel Tribeca Smaller Companies Fund – Class A units ?,Australian Equity: Smaller Companies,0.92
-DFA0104AU,Dimensional Australian Small Company Trust ?,Australian Equity: Smaller Companies,0.61
-ANT0002AU,Fairview Equity Partners Emerging Companies Fund ?,Australian Equity: Smaller Companies,1.20
-HOW0016AU,NovaPort Wholesale Smaller Companies Fund ?,Australian Equity: Smaller Companies,0.90
-CSA0131AU,Aberdeen Standard Australian Small Companies Fund,Australian Equity: Smaller Companies,1.26
-AAP0104AU,Ausbil Australian Emerging Leaders Fund ?,Australian Equity: Smaller Companies,0.85
-EGG0001AU,Eley Griffiths Group Small Companies Fund ?,Australian Equity: Smaller Companies,1.25
-IML0003AU,Investors Mutual Future Leaders Fund ?,Australian Equity: Smaller Companies,0.99
-HOW0027AU,NovaPort Wholesale Microcap Fund ?,Australian Equity: Smaller Companies,1.72
-IOF0214AU,Perennial Value Smaller Companies Trust ?,Australian Equity: Smaller Companies,1.20
-PER0048AU,Perpetual's Wholesale Smaller Companies Fund,Australian Equity: Smaller Companies,1.26
-PER0259AU,Perpetual's Wholesale Smaller Companies Fund No. 2,Australian Equity: Smaller Companies,1.27
-ETL0062AU,SGH ICE ?,Australian Equity: Smaller Companies,1.18
-PAT0002AU,Ironbark Karara Australian Small Companies Fund ?,Australian Equity: Smaller Companies,1.57
-OPS0002AU,OC Premium Small Companies Fund ?,Australian Equity: Smaller Companies,1.20
-BTA0313AU,Pendal MidCap Fund ?,Australian Equity: Smaller Companies,1.65
-FID0026AU,Fidelity Future Leaders Fund,Australian Equity: Smaller Companies,1.20
-ETL0449AU,Flinders Emerging Companies Fund - Class B ?,Australian Equity: Smaller Companies,1.68
-WHT0008AU,Spheria Australian Smaller Companies Fund ?,Australian Equity: Smaller Companies,1.10
-WHT0066AU,Spheria Australian Microcap Fund ?,Australian Equity: Smaller Companies,2.37
-HOW3590AU,Lennox Australian Small Companies Fund,Australian Equity: Smaller Companies,1.57
-PPL0110AU,Antares Australian Equities Fund,Australian Equity: Larger Companies,0.60
-HOW0020AU,WaveStone Wholesale Australian Share Fund ?,Australian Equity: Larger Companies,0.97
-ETL7683AU,Redpoint Industrials Fund,Australian Equity: Larger Companies, 
-MAQ0441AU,Premium China Fund ? ?,International Equity: Asia,2.30
-EQI0028AU,Aberdeen Standard Asian Opportunities Fund,International Equity: Asia,1.23
-FID0011AU,Fidelity China Fund,International Equity: Asia,1.21
-PLA0003AU,Platinum (Wholesale) Japan Fund ? ?,International Equity: Asia,1.35
-PLA0004AU,Platinum Asia Fund ? ?,International Equity: Asia,1.35
-IOF0203AU,Antipodes Asia Fund ?,International Equity: Asia,2.10
-FID0010AU,Fidelity Asia Fund,International Equity: Asia,1.15
-ZUR0580AU,Zurich Investments Global Growth Share Fund ?,International Equity: Diversified,1.00
-ZUR0581AU,Zurich Investments Unhedged Global Growth Share Fund,International Equity: Diversified,0.98
-ZUR0518AU,Zurich Investments Unhedged Global Thematic Share Fund,International Equity: Diversified,0.98
-VEN0031AU,Ventura International Shares Fund - Class A,International Equity: Diversified,1.09
-ANT0005AU,Altrinsic Global Equities Trust ?,International Equity: Diversified,1.25
-DFA0004AU,Dimensional Global Core Equity Trust ?,International Equity: Diversified,0.39
-DFA0102AU,Dimensional Global Value Trust ?,International Equity: Diversified,0.46
-MGE0001AU,Magellan Global Fund ?,International Equity: Diversified,1.55
-MGE0007AU,Magellan Global Hedged Fund ?,International Equity: Diversified,1.51
-ETL0071AU,T.Rowe Price Global Equity Fund ?,International Equity: Diversified,1.18
-VAN0003AU,Vanguard International Shares Index Fund,International Equity: Diversified,0.18
-VEN0008AU,Ventura Global Opportunities Fund - $A hedged – Class A,International Equity: Diversified,1.21
-MAQ0464AU,Arrowstreet Global Equity Fund,International Equity: Diversified,1.28
-BGL0106AU,BlackRock Indexed International Equity Fund,International Equity: Diversified,0.20
-BAR0817AU,BlackRock Advantage International Equity Fund,International Equity: Diversified,0.89
-RFA0821AU,Pendal Core Global Share Fund,International Equity: Diversified,0.97
-BTA0056AU,Pendal International Share Fund,International Equity: Diversified,0.97
-FID0007AU,Fidelity Global Equities Fund,International Equity: Diversified,0.99
-GSF0002AU,Epoch Global Equity Shareholder Yield (Unhedged) Fund,International Equity: Diversified,1.25
-MAQ0404AU,IFP Global Franchise Fund,International Equity: Diversified,1.38
-GTU0102AU,Invesco Wholesale Global Opportunities Fund - Unhedged,International Equity: Diversified,0.95
-MIA0001AU,MFS Global Equity Trust,International Equity: Diversified,0.77
-MLC0261AU,MLC Wholesale Global Share Fund,International Equity: Diversified,0.90
-RIM0016AU,Russell International Shares Fund - Class C ,International Equity: Diversified, 
-SCH0030AU,Schroder Global Active Value Fund,International Equity: Diversified,0.98
-FRT0004AU,Templeton Global Equity Fund,International Equity: Diversified,1.13
-MAQ0410AU,Walter Scott Global Equity Fund,International Equity: Diversified,1.28
-ZUR0061AU,Zurich Investments Global Thematic Share Fund,International Equity: Diversified,0.98
-DFA0105AU,Dimensional Global Large Company Trust ?,International Equity: Diversified,0.35
-MLC0771AU,PIC Wholesale Global Share Fund ?,International Equity: Diversified,0.90
-AAP0001AU,Candriam Sustainable Global Equity Fund,International Equity: Diversified,1.05
-CIM0006AU,Capital Group New Perspective Fund (AU),International Equity: Diversified,0.95
-CIM0008AU,Capital Group New Perspective Fund Hedged (AU),International Equity: Diversified,0.95
-ETL0463AU,Orbis Global Equity Fund ?,International Equity: Diversified,1.51
-FRT0009AU,Franklin Global Growth Fund ,International Equity: Diversified,1.13
-ACM0009AU,AllianceBernstein Global Equities Fund,International Equity: Diversified,0.85
-MAQ0838AU,Polaris Global Equity Fund,International Equity: Diversified,1.28
-WHT0061AU,Plato Global Shares Income Fund - Class A Units,International Equity: Diversified,0.99
-HOW0164AU,Alphinity Global Equity Fund  ?,International Equity: Diversified, 
-SUN0031AU,Nikko AM Global Share Fund ,International Equity: Diversified,0.99
-WHT8435AU,Hyperion Global Growth Companies Fund ?,International Equity: Diversified, 
-VAN0005AU,Vanguard Emerging Markets Shares Index Fund,International Equity: Emerging Markets,0.56
-ETL0032AU,Aberdeen Standard Emerging Opportunities Fund,International Equity: Emerging Markets,1.55
-SCH0034AU,Schroder Global Emerging Market Fund,International Equity: Emerging Markets,1.40
-DFA0107AU,Dimensional Emerging Markets Trust ?,International Equity: Emerging Markets,0.72
-BTA0419AU,Pendal Global Emerging Markets Opportunities Fund – WS,International Equity: Emerging Markets,1.40
-TGP0015AU,Rare Emerging Markets Fund  ?,International Equity: Emerging Markets,1.53
-ETL0381AU,Robeco Emerging Conservative Equity Fund (AUD),International Equity: Emerging Markets,0.96
-MAQ0651AU,Walter Scott Emerging Markets Fund,International Equity: Emerging Markets,1.38
-MGL0019AU,Ironbark Copper Rock Emerging Markets Opportunities Fund,International Equity: Emerging Markets,1.12
-CHN8850AU,CC RWC Global Emerging Markets Fund,International Equity: Emerging Markets, 
-PLA0001AU,Platinum (Wholesale) European Fund ? ?,International Equity: Europe,1.35
-MAQ0631AU,IFP Global Franchise Fund Hedged,International Equity: Hedged,1.38
-DFA0009AU,Dimensional Global Core Equity Trust AUD Hedged ?,International Equity: Hedged,0.39
-MAQ0079AU,Arrowstreet Global Equity Fund (Hedged),International Equity: Hedged,1.28
-VAN0105AU,Vanguard International Shares Index Fund (Hedged),International Equity: Hedged,0.21
-BGL0044AU,iShares Hedged International Equity Index Fund,International Equity: Hedged,0.20
-BGL0109AU,BlackRock Advantage Hedged International Equity Fund,International Equity: Hedged,0.94
-FID0014AU,Fidelity Hedged Global Equities Fund,International Equity: Hedged,1.04
-GSF0001AU,Epoch Global Equity Shareholder Yield (Hedged) Fund,International Equity: Hedged,1.30
-GTU0008AU,Invesco Wholesale Global Opportunities Fund - Hedged - Class A,International Equity: Hedged,0.95
-ETL0041AU,MFS Fully Hedged Global Equity Trust,International Equity: Hedged,0.80
-SCH0032AU,Schroder Global Active Value Fund (Hedged),International Equity: Hedged,0.98
-MAQ0557AU,Walter Scott Global Equity Fund (Hedged),International Equity: Hedged,1.28
-ZUR0517AU,Zurich Investments Hedged Global Thematic Share,International Equity: Hedged,0.98
-MLC0789AU,PIC Wholesale Hedged Global Share Fund ?,International Equity: Hedged,0.95
-PPL0031AU,Redpoint Global Infrastructure Fund,International Equity: Infrastructure,0.70
-TGP0008AU,RARE Infrastructure Value Fund - Hedged ?,International Equity: Infrastructure,1.32
-TGP0034AU,RARE Infrastructure Value Fund - Unhedged ?,International Equity: Infrastructure,1.27
-MAQ0825AU,Macquarie International Infrastructure Securities Fund (unhedged),International Equity: Infrastructure,1.01
-MAQ0432AU,Macquarie International Infrastructure Securities Fund (Hedged) ?,International Equity: Infrastructure,1.01
-AMP1179AU,AMP Capital Core Infrastructure Fund (Class A) ?,International Equity: Infrastructure,1.35
-MGE0002AU,Magellan Infrastructure Fund ?,International Equity: Infrastructure,1.31
-MGE0006AU,Magellan Infrastructure Fund (Unhedged) ?,International Equity: Infrastructure,1.53
-MPL0006AU,Maple-Brown Abbott Global Listed Infrastructure Fund,International Equity: Infrastructure,0.98
-MPL0008AU,Maple-Brown Abbott Global Listed Infrastructure Fund – Hedged,International Equity: Infrastructure,1.00
-UBS0064AU,UBS Clarion Global Infrastructure Securities Fund,International Equity: Infrastructure,1.00
-VAN0023AU,Vanguard Global Infrastructure Fund,International Equity: Infrastructure,0.49
-VAN0024AU,Vanguard Global Infrastructure Fund (Hedged),International Equity: Infrastructure,0.52
-HFL0108AU,Ironbark LHP Global Long/Short Fund ? ?,International Equity: Long/Short,4.43
-PLA0002AU,Platinum (Wholesale) International Fund ? ?,International Equity: Long/Short,1.35
-PLA0100AU,Platinum International Brands Fund ? ?,International Equity: Long/Short,1.35
-PMC0100AU,PM CAPITAL Global Companies Fund ? ?,International Equity: Long/Short,2.75
-IOF0045AU,Antipodes Global Fund ?,International Equity: Long/Short,1.51
-MUA0002AU,Munro Global Growth Fund  ? ?,International Equity: Long/Short,1.60
-DFA0106AU,Dimensional Global Small Company Trust ?,International Equity: Smaller Companies  ,0.65
-PCL0022AU,Pengana Global Small Companies Fund ?,International Equity: Smaller Companies  ,3.54
-ETL0365AU,Paradice Global Small MidCap Fund ?,International Equity: Smaller Companies  ,1.55
-MGE0005AU,Magellan High Conviction Fund - Class A Units ? ?,International Equity: Concentrated,2.30
-MGE9885AU,Magellan High Conviction Fund - Class B Units ?,International Equity: Concentrated,2.11
-FSF0975AU,RealIndex Global Share Class A - Hedged,International Equity: Large Companies,0.59
-FSF0974AU,RealIndex Global Share Class A - Unhedged,International Equity: Large Companies,0.58
-ARO0006AU,C WorldWide Global Equity Trust ?,International Equity: Large Companies,0.99
-FSF1240AU,Acadian Global Managed Volatility Equity Fund - Class A,International Equity: Large Companies,0.65
-PER0733AU,Perpetual Wholesale Global Share Fund ?,International Equity: Large Companies,1.25
-PER0752AU,Perpetual Wholesale Global Share Fund (Hedged)  ?,International Equity: Large Companies,1.26
-PLA0006AU,Platinum Unhedged Fund ? ?,International Equity: Large Companies,1.35
-ETL0419AU,Pan Tribal Global Equity Fund,International Equity: Large Companies,1.20
-PPL0036AU,Intermede Global Equities Fund,International Equity: Large Companies,0.99
-HHA0007AU,Pengana WHEB Sustainable Impact Fund,International Equity: Large Companies,1.35
-LAZ0012AU,Lazard Global Small Cap Fund (W Class),International Equity: Smaller Companies,1.12
-FSF1086AU,Aspect Diversified Futures Fund  ? ?,Alternatives: Hedge Funds,2.91
-HFL0104AU,Ironbark LHP Diversified Investment Fund ?,Alternatives: Hedge Funds,3.73
-ETL0134AU,Aberdeen Standard Absolute Return Global Bond Strategies Fund,Alternatives: Hedge Funds,0.86
-MAQ0482AU,Winton Global Alpha Fund ? ?,Alternatives: Hedge Funds,2.93
-MAN0002AU,Man Alpha AHL ? ?,Alternatives: Hedge Funds,1.86
-GTU0109AU,Invesco Wholesale Global Targeted Returns Fund - Class A ?,Alternatives: Hedge Funds,0.93
-ECL0013AU,Ellerston Australian Market Neutral Fund ? ?,Alternatives: Hedge Funds,2.65
-GMO0006AU,GMO Systematic Global Macro Trust ? ?,Alternatives: Hedge Funds,1.01
-MAQ7578AU,Macquarie Professional Series Global Alternatives Fund ? ?,Alternatives: Hedge Funds,1.69
-WHT5134AU,Firetrail Absolute Return Fund (class A units) ? ?,Alternatives: Single Strategy ?, 
-WMF0001AU,Watermark Market Neutral Trust ?,Alternatives: Single Strategy ?,1.70
+Fund Name,APIR,Nab Owned?,IMC for Fund
+,,,
+,,,
+,,,
+MLC Wholesale Horizon 1 Bond Portfolio,MLC0669AU,#,0.55
+MLC Wholesale Horizon 2 Income Portfolio,MLC0670AU,#,0.91
+MLC Wholesale Horizon 3 Conservative Growth Portfolio,MLC0398AU,#,1.04
+MLC Wholesale Horizon 4 Balanced Portfolio,MLC0260AU,#,1.08
+MLC Wholesale Horizon 5 Growth Portfolio,MLC0265AU,#,1.08
+MLC Wholesale Horizon 6 Share Portfolio,MLC0397AU,#,1.06
+MLC Wholesale Horizon 7 Accelerated Growth Portfolio,MLC0449AU,#,1.29
+MLC Wholesale Index Plus Balanced Portfolio,MLC7387AU,#,0.40
+MLC Wholesale Index Plus Conservative Growth Portfolio,MLC7849AU,#,0.38
+MLC Wholesale Index Plus Growth Portfolio,MLC9748AU,#,0.42
+MLC Wholesale Inflation Plus – Assertive,MLC0667AU,#,1.45
+MLC Wholesale Inflation Plus – Conservative,MLC0921AU,#,0.91
+MLC Wholesale Inflation Plus – Moderate,MLC0920AU,#,1.11
+MLC Wholesale Australian Share Fund,MLC0262AU,#,0.78
+MLC Wholesale Australian Share Index Fund,MLC0893AU,#,0.35
+MLC Wholesale Diversified Debt Fund,MLC0839AU,#,0.60
+MLC Wholesale Global Property Fund,MLC0786AU,#,0.89
+MLC Wholesale Global Share Fund,MLC0261AU,#,0.90
+MLC Wholesale IncomeBuilder,MLC0264AU,#,0.72
+MLC Wholesale Platinum Global Fund,MLC0317AU,#,1.54
+MLC Wholesale Property Securities Fund,MLC0263AU,#,0.73
+BWA Cash Management Trust - IDPS,BWA0002AU,,0.00
+Cash Account Series 2,-,#,0.00
+Macquarie (Wholesale) Master Cash Fund,MAQ0187AU,,0.51
+UBS Cash Fund,SBC0811AU,,0.25
+CG Investment Bond MIF Guaranteed Cash,NFS0211AU,,-
+Macquarie Treasury Fund,MAQ0055AU,,0.44
+Pendal Enhanced Cash Fund,WFS0377AU,,0.25
+UBS Cash Plus Fund,SBC0812AU,,0.30
+Vanguard Cash Plus Fund,VAN0102AU,,0.29
+Aberdeen Standard Australian Fixed Income Fund,CRS0004AU,,0.54
+Altius Sustainable Bond Fund  ,AUS0071AU,,0.69
+BlackRock Indexed Australian Bond Fund,BGL0105AU,,0.22
+BT Investment Funds - BT Fixed Interest,RFA0002AU,,1.55
+BT Investor Choice Funds - Westpac Australian Bond,WFS0013AU,,1.25
+CFCL Personal Super Investment Growth Bond - Fixed Interest,LGL0403AU,,1.84
+Invesco Wholesale Senior Secured Income Fund,CNA0805AU,,0.75
+IOOF WealthBuilder Fixed Interest Fund,IOF0008AU,,1.50
+Janus Henderson Australian Fixed Interest Fund,IOF0046AU,,0.47
+Janus Henderson Cash Enhanced Fund,IOF0047AU,,0.41
+Legg Mason Western Asset Australian Bond Trust - Class A,SSB0122AU,,0.42
+Macquarie Australian Fixed Interest Fund,MAQ0061AU,,0.50
+Macquarie Master Enhanced Fixed Interest Fund,MAQ0180AU,,0.29
+Nikko AM Aust Bond fund,TYN0104AU,,0.45
+Pendal Fixed Interest Fund,RFA0813AU,,0.50
+Pendal Sustainable Australian Fixed Interest Fund,BTA0507AU,,0.40
+PIMCO Wholesale Australian Bond Fund,ETL0015AU,,0.50
+Schroder Absolute Return Income Fund - Professional Class,SCH0024AU,,0.54
+Specialist Income Fund,MMC0102AU,,0.55
+UBS Australian Bond Fund,SBC0813AU,,0.45
+Vanguard Australian Fixed Interest Index Fund,VAN0001AU,,0.24
+Vanguard Australian Government Bond Index Fund,VAN0025AU,,0.29
+Antares Income Fund ,PPL0028AU,#,0.55
+BlackRock Global Bond Index Fund,BGL0008AU,,0.20
+BlackRock Wholesale International Bond Fund,PWA0825AU,,0.55
+Colonial First State Wholesale Global Credit Income Fund,FSF0084AU,,0.63
+Dimensional Global Bond Trust,DFA0028AU,,0.35
+Franklin Templeton Global Aggregate Bond Fund,FRT0025AU,,0.59
+Legg Mason Brandywine Global Opportunities Fixed Income,SSB0014AU,,0.70
+Macquarie True Index Global Bond Fund,MAQ0266AU,,0.00
+Payden Global Income Opportunities Fund,GSF0008AU,,0.73
+PIMCO ESG Global Bond Fund,PIC6396AU,,0.69
+PIMCO Global Credit Fund - Wholesale Class,ETL0019AU,,0.61
+PIMCO Wholesale Global Bond Fund,ETL0018AU,,0.50
+UBS International Bond Fund,SBC0819AU,,0.49
+Vanguard International Fixed Interest Index Fund (Hedged),VAN0103AU,,0.26
+Aberdeen Standard Diversified Fixed Income Fund,CSA0062AU,,0.59
+AMP Capital Corporate Bond Fund (Class A),AMP0557AU,,0.60
+Dimensional Five Year Diversified Fixed Interest,DFA0108AU,,0.28
+Dimensional Short Term Fixed Interest Trust,DFA0100AU,,0.19
+Dimensional Two Year Diversified Fixed Interest,DFA0002AU,,0.25
+JPMorgan Global Strategic Bond Fund,PER0727AU,,0.58
+Macquarie Diversified Fixed Interest Fund,MAQ0274AU,,0.63
+OnePath Wholesale Diversified Fixed Interest Trust,ANZ0212AU,,0.50
+PIC Wholesale 0/100 Portfolio,MLC0774AU,#,0.55
+PIC Wholesale Diversified Debt Fund,MLC0840AU,#,0.60
+PIMCO Wholesale Diversified Fixed Interest Fund,ETL0016AU,,0.51
+PM CAPITAL Enhanced Yield Fund,PMC0103AU,,0.79
+Schroder (Wholesale) Fixed Income Fund,SCH0028AU,,0.50
+UBS Diversified Fixed Income Fund,SBC0007AU,,0.55
+Vanguard Diversified Bond Index Fund ,VAN0042AU,,0.29
+Vanguard Index Diversified Bond Fund,VAN0101AU,,0.75
+Vanguard International Credit Securities Index Fund (Hedged),VAN0106AU,,0.32
+Alpha Enhanced Yield Fund,ETL0093AU,,1.04
+Bentham Wholesale Global Income Fund ,CSA0038AU,,0.77
+Bentham Wholesale Syndicated Loan Fund,CSA0046AU,,0.84
+Colonial First State Wholesale Target Return Income,FSF0694AU,,0.57
+Franklin Templeton Multi-Sector Bond W,FRT0011AU,,0.93
+Janus Henderson Tactical Income Fund,IOF0145AU,,0.45
+Kapstream Wholesale Absolute Return Income Fund,HOW0052AU,,0.70
+Macquarie Income Opportunities Fund,MAQ0277AU,,0.51
+Perpetual's Wholesale Diversified Income Fund,PER0260AU,,0.71
+PIMCO Income Fund,ETL0458AU,,0.78
+Principal Global Credit Opportunities Fund,PGI0001AU,,0.80
+Schroder Absolute Return Income Fund,SCH0103AU,,0.54
+T. Rowe Price Dynamic Global Bond Fund,ETL0398AU,,0.46
+UBS Income Solution Fund,UBS0003AU,,0.60
+Ventura KFM Income Fund,VEN0007AU,,1.86
+Yarra Income Plus Fund,JBW0016AU,,0.68
+Challenger Guaranteed Income Fund - 4.00 cents p.a. 30 September 2022 (MV$1),MLT0010AU,,0.00
+Challenger Guaranteed Income Fund - 5.15 cents p.a. 30 March 2020 (MV$1),MLT0007AU,,0.00
+Challenger Guaranteed Income Fund 3.40 cents 31 March 2021,MLT9335AU,,-
+Challenger Guaranteed Pension Fund (I) - 30 June 2021,HOW0096AU,,0.00
+Aberdeen Standard Multi-Asset Income Fund,CRS0001AU,,0.88
+AMP Capital Income Generator,IPA0075AU,,0.80
+AMP Capital Investors Conservative Fund - Class A,AMP0443AU,,0.99
+Colonial First State Wholesale Conservative Fund,FSF0033AU,,0.76
+ING Wholesale Capital Stable Trust,MMF0114AU,,0.76
+ING Wholesale Super - Capital Stable,MMF0028AU,,0.60
+Macquarie Master Capital Stable Fund,MAQ0059AU,,0.83
+Pendal Active Conservative Fund,BTA0805AU,,0.90
+Pendal Monthly Income Plus Fund,BTA0318AU,,0.65
+PIC Wholesale 30/70 Portfolio,MLC0775AU,#,0.91
+PIC Wholesale Index Plus Conservative Growth Portfolio,MLC5068AU,#,-
+PIC Wholesale Inflation Plus - Conservative Portfolio,MLC0924AU,#,0.77
+Pre Select Conservative Fund,NUN0001AU,#,0.60
+Russell Conservative Fund - Class A,RIM0002AU,,0.70
+Russell Conservative Fund - Class C ,RIM0012AU,,0.90
+Vanguard Conservative Index Fund,VAN0109AU,,0.29
+Ventura Conservative Fund,RIM0018AU,,1.01
+Ventura Conservative Fund - Class A,VEN0029AU,,0.72
+Ventura Diversified 50 Fund,RIM0019AU,,1.07
+Advance Defensive Multi-Blend Fund,ADV0022AU,,1.72
+Australian Ethical Balanced Trust,AUG0017AU,,-
+BlackRock Global Allocation Fund (Aust) - Class C,MAL0017AU,,0.60
+BlackRock Scientific Diversified Stable Fund,BAR0811AU,,0.72
+BT Classic Investment Funds - BT Balanced Returns,BTA0043AU,,2.25
+BT Classic Investment Funds - BT Split Income,BTA0011AU,,1.68
+BT Pooled Super Trusts - BT Balanced Returns PST,BTA0004AU,,1.09
+CFCL Personal Super Investment Growth Bond - Stable,LGL0405AU,,1.93
+CG Investment Bond MIF Capital Secure,NFS0213AU,,-
+CGSuper R/O Bond MIF Capital Maintenance,NFS0412AU,,-
+CGSuper R/O Bond MIF Capital Secure,NFS0413AU,,-
+Colonial First State Wholesale Balanced Fund,FSF0040AU,,0.86
+CPSL Investment Bond 4/90 - Capital Stable (G),PRU0633AU,,1.88
+Dimensional World Allocation 50/50 Trust ,DFA0033AU,,0.41
+Investment Portfolio MIF Capital Stable,NFS0242AU,,-
+Macquarie Capital Stable Fund,MAQ0049AU,,0.69
+MIF Capital Stable Fund (Accum),NFS0328AU,,-
+Perpetual's Wholesale Diversified Growth Fund,PER0114AU,,1.02
+PIC Wholesale 50/50 Portfolio,MLC0776AU,#,1.04
+PIC Wholesale Inflation Plus – Assertive Portfolio,MLC0782AU,#,1.46
+PIC Wholesale Inflation Plus - Moderate Portfolio,MLC0923AU,#,0.92
+Pre Select Balanced Fund,NUN0002AU,#,0.65
+Russell Diversified 50 Fund - Class A,RIM0003AU,,0.80
+Russell Diversified 50 Fund - Class C ,RIM0013AU,,1.00
+Schroder Real Return Fund CPI Plus 5% Fund,SCH0047AU,,0.90
+Super Rollover Portfolio MIF Capital Stable,NFS0442AU,,-
+UBS Defensive Investment Fund,SBC0814AU,,0.89
+Vanguard Balanced Index Fund,VAN0108AU,,0.29
+Ventura Diversified 50 Fund - Class A,VEN0028AU,,0.81
+Aberdeen Standard Multi-Asset Real Return Fund,CRS0002AU,,1.22
+AMP Capital Balanced Growth Fund - Class A,AMP0441AU,,1.01
+AQR Wholesale Managed Futures Fund,PER0634AU,,2.06
+Ausbil Balanced Fund,AAP0101AU,,0.95
+BlackRock Global Allocation Fund (Aust) - Class D,MAL0018AU,,1.17
+BlackRock Global Allocation Fund (Aust) - Class S,MAL0029AU,,1.34
+BlackRock Wholesale Balanced Fund,PWA0822AU,,0.89
+Colonial First State Wholesale Diversified Fund,FSF0008AU,,0.96
+Dimensional World Allocation 70/30 Trust,DFA0029AU,,0.44
+Legg Mason Diversified Trust - Class A,JPM0008AU,,0.78
+Macquarie Master Balanced Fund,MAQ0058AU,,0.94
+Maple-Brown Abbott Diversified Investment Trust,MPL0001AU,,0.96
+Maple-Brown Abbott Pooled Superannuation Trust,MPL0801AU,,0.83
+OnePath Tax Effective Income Fund,AJF0003AU,,1.80
+OnePath Wholesale Balanced Trust,AJF0802AU,,0.90
+OnePath Wholesale Managed Growth Trust,MMF0115AU,,0.91
+Pendal Active Balanced Fund,RFA0815AU,,1.02
+Pendal Balanced Returns Fund,BTA0806AU,,0.96
+Perpetual Wholesale Balanced Growth Fund,PER0063AU,,1.10
+PIC Wholesale 70/30 Portfolio,MLC0777AU,#,1.07
+PIC Wholesale Index Plus Balanced Portfolio,MLC4447AU,#,-
+Pre Select Growth Fund,NUN0003AU,#,0.70
+Russell Balanced Fund - Class C ,RIM0011AU,,1.07
+Schroder Real Return CPI Plus 3.5% Fund,SCH0096AU,,0.60
+UBS Balanced Investment Fund,SBC0815AU,,1.00
+UBS Tactical Beta Fund - Growth,UBS0037AU,,0.47
+Vanguard Growth Index Fund,VAN0110AU,,0.29
+Ventura Growth 70 Fund,RIM0020AU,,1.16
+Ventura Growth 70 Fund - Class A,VEN0027AU,,0.89
+Zurich Investments Managed Growth Fund,ZUR0059AU,,1.02
+Advance Balanced Multi-Blend Fund,ADV0023AU,,1.93
+Australian Ethical Diversified Shares Fund,AUG0019AU,,0.95
+BlackRock Scientific Diversified Growth Fund,BAR0813AU,,0.82
+BT Classic Investment Funds - BT Active Balanced,RFA0021AU,,2.34
+BT Classic Investment Funds - BT Split Growth,BTA0012AU,,1.53
+BT Institutional Diversified Balanced PST,WFS0852AU,,1.23
+BT Investment Funds - BT Future Goals,BTA0044AU,,2.05
+BT Pooled Super Trusts Selection - BT Active Balanced PST,RFA0823AU,,1.13
+Colonial First State Managed Investment - Diversified,FSF0022AU,,1.79
+Colonial First State Wholesale High Growth Fund,FSF0498AU,,1.16
+Dimensional World Equity Trust ,DFA0035AU,,0.47
+INVESCO Wholesale Diversified Growth Fund - Class A,CNA0806AU,,1.09
+Invesco Wholesale Diversified Growth Fund Class R,GTU0097AU,,1.38
+Macquarie Balanced Growth Fund,MAQ0048AU,,0.73
+OnePath Wholesale High Growth Trust,MMF0342AU,,0.99
+OnePath Wholesale Super - Managed Growth,MMF0027AU,,0.78
+Pendal Active Growth Fund,BTA0125AU,,1.00
+Perpetual Balanced Growth Fund No. 2,PER0013AU,,1.10
+Perpetual's Wholesale Split Growth Fund,PER0066AU,,1.18
+PIC Wholesale 100/0 Portfolio,MLC0779AU,#,1.06
+PIC Wholesale 85/15 Portfolio,MLC0778AU,#,1.08
+PIC Wholesale Index Plus Growth Portfolio,MLC8225AU,#,-
+Pre Select High Growth Fund,NUN0004AU,#,0.85
+Russell Balanced Fund - Class A,RIM0001AU,,0.87
+Russell Growth Fund - Class A,RIM0004AU,,0.94
+Russell Growth Fund - Class C ,RIM0014AU,,1.15
+Russell High Growth Fund - Class C ,RIM0030AU,,1.25
+Vanguard High Growth Index Fund,VAN0111AU,,0.29
+Ventura High Growth 100 Fund – Class A,VEN0009AU,,1.19
+Zurich Wholesale Superannuation - Managed Growth,ZUR0209AU,,0.66
+Alpha Global Opportunities Fund,ETL0094AU,,1.71
+Alpha Property Securities Fund,ETL0095AU,,1.27
+AMP Capital Listed Property Trusts Fund (Class A),AMP0255AU,,0.98
+Antares Listed Property Fund,NFS0209AU,#,0.72
+ANZ Property Securities Trust,ANZ0030AU,,0.92
+APN AREIT Fund,APN0008AU,,0.85
+Australian Unity Diversified Property Fund,YOC0018AU,,3.18
+Australian Unity Property Income Fund - Wholesale,YOC0100AU,,1.33
+BlackRock Indexed Australian Listed Property Fund,BGL0108AU,,0.20
+Colonial First State Managed Investment - Property Securities,FSF0012AU,,1.54
+Colonial First State Wholesale Property Securities Fund,FSF0004AU,,0.81
+EQT SG Hiscock Property Income Fund,ETL0119AU,,0.95
+Ironbark Paladin Property Securities Fund,PAL0002AU,,0.84
+Legg Mason  Martin Currie Property Securities Trust,SSB0128AU,,0.71
+Legg Mason Martin Currie Real Income Fund,SSB0026AU,,0.85
+Macquarie Master Property Securities Fund,MAQ0063AU,,0.77
+Macquarie Property Securities Fund,MAQ0054AU,,0.69
+Pendal Property Investment Fund,RFA0817AU,,0.65
+Pendal Property Securities Fund,BTA0061AU,,0.65
+PIC Wholesale Property Securities Fund,MLC0783AU,#,0.73
+Resolution Capital Core Plus Property Securities Fund - Series II,IOF0044AU,,0.92
+SG Hiscock Wholesale Property Securities Fund,HBC0008AU,,0.86
+Specialist Property Fund,WPC0012AU,,0.97
+State Street Australian Listed Property Index Trust,SST0007AU,,0.16
+UBS Property Securities Fund,SBC0816AU,,0.85
+Vanguard Australian Property Securities Index,VAN0004AU,,0.23
+Vanguard Index Property Securities Fund,VAN0012AU,,0.90
+Zurich Investments Australian Property Securities Fund,ZUR0064AU,,0.81
+AMP Capital Core Property Fund (Class A),AMP1015AU,,1.35
+Australian Unity Healthcare Property Trust Class A,AUS0037AU,,1.03
+AMP Capital Wholesale Australian Property Fund,NML0001AU,,1.12
+AMP Capital Global Property Securities Fund (Class A),AMP0974AU,,0.97
+CFS Wholesale Global Property Securites Fund,FSF0454AU,,1.02
+Dimensional Global Real Estate Trust,DFA0005AU,,0.37
+EQT SGH LaSalle Global Listed Property Securities Trust,ETL0005AU,,1.09
+Invesco Wholesale Global Property Sec - Hedged - A,GTU0041AU,,0.95
+Ironbark Global (ex-Australia) Property Securities Fund,MGL0010AU,,1.23
+PIC Wholesale Global Property Fund,MLC0788AU,#,0.89
+Presima Global Property Securities Concentrated Fund ,PPL0026AU,#,1.00
+Resolution Capital Global Property Securities Fund,WHT0015AU,,1.55
+Resolution Capital Global Property Securities Fund (Hedged) - Series II,IOF0081AU,,1.05
+UBS Clarion Global Property Securities Fund,HML0016AU,,0.90
+Vanguard International Property Securities Index Fund,VAN0018AU,,0.40
+Vanguard International Property Securities Index Fund (Hedged),VAN0019AU,,0.43
+Aberdeen Australian Equities Fund,MGL0114AU,,0.80
+Airlie Australian Share Fund,MGE9705AU,,0.78
+Allan Gray Australia Stable Fund,ETL0273AU,,0.73
+Allan Gray Australian Equities Fund (Class B),ETL0349AU,,0.11
+Allan Gray Australian Equity Fund,ETL0060AU,,0.77
+AllianceBernstein Managed Volatility Equities Fund,ACM0006AU,,0.55
+Alpha Australian Blue Chip Fund,ETL0091AU,,1.65
+Alphinity Concentrated Australian Share Fund,EQI0001AU,,2.46
+Alphinity Wholesale Australian Equity Fund,HOW0019AU,,1.12
+Alphinity Wholesale Australian Share Fund,PAM0001AU,,1.10
+Alphinity Wholesale Concentrated Australian Share Fund,HOW0026AU,,2.17
+AMP Capital Equity Fund (Class A),AMP0370AU,,0.65
+Antares Dividend Builder,PPL0002AU,#,0.60
+Antares Elite Opportunities Fund,PPL0115AU,#,0.70
+ANZ Equity Imputation Trust,ANZ0027AU,,1.16
+Armytage Strategic Opportunities Wholesale Fund,ETL0139AU,,1.31
+Ausbil Australian Active Equity Fund,AAP0103AU,,0.90
+Bennelong Concentrated Australian Equities Fund,BFL0002AU,,0.90
+Bennelong ex-20 Australian Equities Fund,BFL0004AU,,0.98
+BlackRock Advantage Australian Equity Fund,BAR0814AU,,0.79
+BlackRock Australian Share Fund,PWA0014AU,,1.89
+BlackRock Australian Share Fund Plus,PWA0015AU,,1.31
+BlackRock Concerntrated Industrial Share Fund (Class D Units),BLK0012AU,,2.84
+BlackRock Indexed Australian Equity Fund,BGL0034AU,,0.20
+BlackRock Wholesale Australian Share Fund,PWA0823AU,,0.95
+BT Classic Investment Funds - BT Core Australian Share,RFA0011AU,,1.89
+BT Investment Funds - BT Australian Share,BTA0021AU,,1.73
+BT Investor Choice Funds - Westpac Aust Tax Effective Share,WFS0021AU,,1.29
+CFS FirstChoice Investments - Integrity Australian Share - No.2,FSF0418AU,,1.89
+Colonial First State Antares Wholesale Elite Opportunities Fund,FSF0455AU,,1.02
+Colonial First State Managed Investment - Australian Share,FSF0014AU,,1.79
+Colonial First State Managed Investment - Imputation,FSF0013AU,,1.79
+Colonial First State Wholesale Australian Share Fund,FSF0002AU,,0.96
+Colonial First State Wholesale Equity Income Fund ,FSF0961AU,,1.22
+Colonial First State Wholesale Imputation Fund,FSF0003AU,,0.96
+Dimensional Australian Core Equity Trust,DFA0003AU,,0.31
+Dimensional Australian Large Company Trust,DFA0103AU,,0.23
+Fidelity Australian Equities Fund,FID0008AU,,0.85
+FireTrail Australian High Conviction Fund  (Class A Units),WHT3810AU,,-
+Greencape Wholesale Broadcap Fund,HOW0034AU,,1.65
+Greencape Wholesale High Conviction Fund,HOW0035AU,,1.79
+Hyperion Australian Growth Companies Fund,BNT0003AU,,0.95
+ING Blue Chip Imputation Trust,MMF0012AU,,1.80
+INVESCO Wholesale Australian Share Fund,CNA0811AU,,0.88
+Investors Mutual Australian Share Fund,IML0002AU,,0.99
+Investors Mutual Concentrated Australian Share Fund,IML0010AU,,0.99
+Investors Mutual Equity Income Fund,IML0005AU,,0.99
+Investors Mutual Industrial Share Fund,IML0004AU,,0.99
+Ironbark Karara Australian Share Fund,PAT0001AU,,0.99
+Lazard Select Australian Equity Fund (W Class),LAZ0013AU,,1.15
+Lazard Wholesale Select Australian Equity,FSF0079AU,,1.01
+Legg Mason Martin Currie Equity Income Fund,SSB0043AU,,0.85
+Macquarie Australian Equities Fund,MAQ0278AU,,0.69
+Maple-Brown Abbott Australian Share Fund,ADV0046AU,,0.92
+Maple-Brown Abbott Australian Share Fund Retail,ADV0013AU,,2.05
+Maple-Brown Abbott Sharemarket Fund,ADV0012AU,,2.05
+Merlon Australian Share Income Fund,EQI0004AU,,2.45
+Merlon Wholesale Australian Share Income Fund,HBC0011AU,,1.41
+Nikko AM Australian Share Income Fund,TYN0038AU,,0.85
+Nikko AM Australian Share Wholesale Portfolio,TYN0028AU,,0.80
+OnePath Wholesale Australian Share Trust,AJF0804AU,,0.91
+OnePath Wholesale Blue Chip Imputation Trust,MMF0340AU,,0.96
+Pendal Australian Equity Fund,BTA0055AU,,0.79
+Pendal Australian Share Fund,RFA0818AU,,0.79
+Pendal Focus Australian Share Fund,RFA0059AU,,1.04
+Pendal Imputation Fund,RFA0103AU,,0.90
+Pengana Australian Equities Fund,PCL0005AU,,1.50
+Perennial Value Shares Wholesale Trust,IOF0206AU,,0.92
+Perpetual WealthFocus Investment Advantage - Industrial Share,PER0028AU,,1.99
+Perpetual WealthFocus Investment Funds - Perpetual Industrial Share,PER0011AU,,1.99
+Perpetual's Wholesale Australian Fund,PER0049AU,,1.01
+Perpetual's Wholesale Concentrated Equity Fund,PER0102AU,,1.11
+Perpetual's Wholesale Industrial Fund,PER0046AU,,1.00
+PIC Wholesale Australian Share Fund,MLC0768AU,#,0.78
+PIC Wholesale Income Builder,MLC0781AU,#,0.72
+Plato Australian Shares Income Fund ,WHT0039AU,,0.90
+Platypus Australian Equities Fund,AUS0030AU,,2.55
+RealIndex Wholesale Australian Share,FSF0976AU,,0.46
+Russell Australian Share Fund - Class A,RIM0006AU,,0.84
+Russell Australian Share Fund - Class C ,RIM0015AU,,1.05
+Sandhurst IML Industrial Share Fund,STL0101AU,,0.95
+Schroder (Wholesale) Australian Equity Fund,SCH0101AU,,0.92
+Schroder Australian Equity Fund,SCH0002AU,,0.62
+Solaris Core Australian Equity Fund,WHT0012AU,,0.90
+Solaris Core Australian Equity Fund (Performance Fee Option),WHT0017AU,,0.90
+State Street Australian Equities Index Trust,SST0004AU,,0.16
+State Street Australian Equity Fund,SST0048AU,,0.79
+Super Rollover Portfolio MIF Australian Equities,NFS0433AU,,-
+T Rowe Price Australian Equity Fund,ETL0328AU,,0.60
+The Montgomery Fund,FHT0030AU,,1.36
+UBS Australian Share Fund,SBC0817AU,,0.90
+Vanguard Australian Shares High Yield Fund,VAN0104AU,,0.38
+Vanguard Australian Shares Index Fund,VAN0002AU,,0.18
+Vanguard Index Australian Shares Fund,VAN0010AU,,0.75
+Ventura Australian Opportunities Fund,RIM0033AU,,1.98
+Ventura Australian Opportunities Fund - Class A,VEN0026AU,,1.93
+Ventura Australian Share Fund,RIM0021AU,,1.09
+Ventura Australian Shares Fund - Class A,VEN0030AU,,0.88
+Yarra Australian Equities Fund,JBW0009AU,,0.95
+Yarra Leaders Fund,JBW0011AU,,1.80
+Aberdeen Ex-20 Australian Equities Fund,CRS0003AU,,0.95
+Aberdeen Standard Australian Small Companies Fund,CSA0131AU,,1.26
+Alpha Australian Small Companies Fund,ETL0092AU,,1.29
+AMP Capital Small Companies Fund (Class A),AMP0446AU,,1.07
+Ausbil Australian Emerging Leaders Fund,AAP0104AU,,0.85
+BT Investment Funds - BT Smaller Companies,RFA0012AU,,1.78
+Celeste Australian Small Companies Fund,FAM0101AU,,1.04
+Colonial First State Managed Investment - Developing Companies,FSF0035AU,,2.27
+Colonial First State Managed Investment - Future Leaders,FSF0007AU,,2.02
+Dimensional Australian Small Company Trust,DFA0104AU,,0.61
+Eley Griffiths Group Small Companies Fund,EGG0001AU,,2.62
+Fairview Equity Partners Emerging Companies Fund,ANT0002AU,#,1.20
+Fidelity Future Leaders Fund,FID0026AU,,1.20
+Flexible Lifetime Investments - UBS Australian Small Companies,AMP0019AU,,2.15
+Flinders Emerging Companies Fund - Class B,ETL0449AU,,1.82
+Ganes Value Growth Fund,WPC0004AU,,1.35
+Grant Samuel Tribeca Smaller Companies Fund – Class A units,ETL0052AU,,0.92
+ING OA Inv Portfolio - ING Emerging Companies,MMF0013AU,,1.80
+ING Wholesale Emerging Companies Trust,MMF0112AU,,0.95
+Invesco Wholesale Australian Smaller Companies Fund - Class A units,CNA0812AU,,1.25
+Investors Mutual Australian Smaller Companies Fund,IML0001AU,,0.99
+Investors Mutual Future Leaders Fund,IML0003AU,,0.99
+Ironbark Karara Australian Small Companies Fund,PAT0002AU,,1.57
+Kinetic Wholesale Emerging Companies Fund,HOW0036AU,,1.43
+Lennox Australian Small Companies Fund,HOW3590AU,,1.57
+Macquarie Australian Small Companies Fund,MAQ0454AU,,2.44
+NovaPort Wholesale Microcap Fund,HOW0027AU,,2.00
+NovaPort Wholesale Smaller Companies Fund,HOW0016AU,,0.90
+OC Dynamic Equity Fund,OPS0001AU,,4.26
+OC Premium Small Companies Fund,OPS0002AU,,1.20
+Pendal MidCap Fund,BTA0313AU,,1.65
+Pendal Smaller Companies Fund,RFA0819AU,,1.24
+Pendal Wholesale MicroCap Opportunities Fund,RFA0061AU,,1.20
+Pengana Emerging Companies Fund,PER0270AU,,1.33
+Perennial Value Smaller Companies Trust,IOF0214AU,,1.20
+Perpetual WealthFocus Investment Advantage - Perpetual Smaller Comp,PER0039AU,,2.01
+Perpetual's Wholesale Smaller Companies Fund,PER0048AU,,1.28
+Perpetual's Wholesale Smaller Companies Fund No. 2,PER0259AU,,1.28
+SGH ICE,ETL0062AU,,1.18
+Specialist Australian Small Companies Fund,WPC0005AU,,0.98
+Spheria Australian Microcap Fund,WHT0066AU,,2.37
+Spheria Australian Smaller Companies Fund,WHT0008AU,,1.10
+UBS Australian Small Companies Fund ,UBS0004AU,,0.85
+Yarra Emerging Leaders Fund,JBW0010AU,,1.25
+Yarra Emerging Leaders Fund (Direct),JBW0007AU,,2.25
+Zurich Investments Small Companies Fund ,ZUR0583AU,,0.90
+Ausbil Australian Geared Equity Fund,AAP0002AU,,2.48
+Colonial First State Managed Investment - Geared Shares,FSF0044AU,,3.18
+Colonial First State Wholesale Geared Share Fund,FSF0043AU,,2.24
+Maple-Brown Abbott Australian Geared Equity Fund (W),ADV0078AU,,1.03
+Perpetual's Wholesale Geared Australian Fund,PER0071AU,,1.17
+Yarra Australian Real Assets Securities Fund,JBW0030AU,,0.85
+Antares High Growth Shares Fund,PPL0106AU,#,1.05
+Ausbil 130/30 Focus Fund,AAP0008AU,,1.64
+K2 Australian Absolute Return Fund,KAM0101AU,,3.32
+Perpetual Pure Equity Alpha Fund,PER0668AU,,3.03
+Perpetual Wholesale SHARE-PLUS Long-Short Fund,PER0072AU,,0.99
+PM Capital Australian Companies Fund ,PMC0101AU,,1.23
+Regal Long Short Australian Equity Fund,AMR0006AU,,1.00
+Solaris Australian Equity Long Short Fund ,WHT3859AU,,2.78
+Tribeca Alpha Plus Fund Class A – Grant Samuel Tribeca Alpha Plus Units,ETL0069AU,,0.97
+WaveStone Dynamic Australian Share Fund,HOW0053AU,,1.54
+Antares Australian Equities Fund,PPL0110AU,#,0.86
+Dimensional Australian Value Trust,DFA0101AU,,0.34
+Redpoint Industrials Fund,ETL7683AU,,-
+UBS-HALO Australian Share Fund,UBS0024AU,,0.90
+WaveStone Wholesale Australian Share Fund,HOW0020AU,,0.97
+Alphinity Wholesale Socially Responsible Share Fund,HOW0121AU,,1.19
+AMP Capital Sustainable Future Aust Share (Class A),AMP0449AU,,0.80
+Australian Ethical Australian Shares Fund (Wholesale),AUG0018AU,,1.10
+Legg Mason Martin Currie Ethical Values with Income Fund ,SSB0064AU,,0.85
+Pendal Ethical Share Fund,RFA0025AU,,0.95
+Pengana Australian Equities Income Fund,HHA0001AU,,0.71
+Perpetual Wholesale Ethical SRI Fund,PER0116AU,,1.18
+Aberdeen Standard Actively Hedged International Equities Fund,CRS0005AU,,0.98
+Aberdeen Standard International Equity Fund,EQI0015AU,,0.98
+Acadian Global Managed Volatility Equity Fund - Class A,FSF1240AU,,0.61
+Acadian Wholesale Global Equity Fund ,FSF0710AU,,1.21
+Advance International Shares Multi-Blend Fund,ADV0028AU,,2.10
+AllianceBernstein Global Equities Fund,ACM0009AU,,0.85
+Altrinsic Global Equities Trust,ANT0005AU,#,1.25
+AMP - Wholesale Global Equity - Growth Fund,NML0318AU,,1.01
+AMP Capital Wholesale Global Equity Value Fund,NML0348AU,,0.95
+Arrowstreet Global Equity Fund,MAQ0464AU,,1.28
+BlackRock Advantage International Equity Fund,BAR0817AU,,0.89
+BlackRock Indexed International Equity Fund,BGL0106AU,,0.20
+BT Investment Funds - BT International,BTA0024AU,,1.75
+C WorldWide Global Equity Trust,ARO0006AU,,0.99
+Capital Group Global Equity Fund (AU),WHT0044AU,,0.96
+Capital Group New Perspective Fund (AU),CIM0006AU,,0.95
+Capital Group New Perspective Fund Hedged (AU),CIM0008AU,,1.05
+Colonial First State Wholesale - CFS Global Health & Biotech,FSF0146AU,,1.17
+Colonial First State Wholesale Worldwide Leaders,FSF0047AU,,1.16
+Dimensional Global Core Equity Trust,DFA0004AU,,0.39
+Dimensional Global Large Company Trust,DFA0105AU,,0.35
+Dimensional Global Value Trust,DFA0102AU,,0.46
+Ellerston Global Equity Managers Fund - B Units,ECL0007AU,,5.95
+Epoch Global Equity Shareholder Yield (Unhedged) Fund,GSF0002AU,,1.25
+Fidelity Global Equities Fund,FID0007AU,,0.99
+Franklin Global Growth Fund ,FRT0009AU,,1.13
+Generation Global Share Fund,FSF0908AU,,2.48
+IFP Global Franchise Fund,MAQ0404AU,,1.38
+Intermede Global Equities Fund,PPL0036AU,#,1.15
+Invesco Wholesale Global Opportunities Fund - Unhedged,GTU0102AU,,0.95
+Ironbark Royal London Concentrated Global Share Fund,MGL0004AU,,1.03
+Loftus Peak Global Disruption Fund,MMC0110AU,,2.98
+Macquarie Australian Shares,MAQ0443AU,,1.08
+Magellan Global Fund,MGE0001AU,,1.49
+Magellan High Conviction Fund ,MGE0005AU,,2.67
+MFS Global Equity Trust,MIA0001AU,,0.77
+Orbis Global Equity Fund,ETL0463AU,,1.00
+Packer & Co Investigator Trust,PAC0001AU,,1.44
+Partners Group Global Value Fund (AUD) - Wholesale,ETL0276AU,,2.97
+Pendal Core Global Share Fund,RFA0821AU,,0.97
+Pendal International Share Fund,BTA0056AU,,0.97
+Pengana International Fund Class B,PCL0026AU,,1.20
+Perpetual Global Share Fund,PER0031AU,,2.25
+Perpetual Wholesale Global Share Fund,PER0733AU,,1.29
+Perpetual Wholesale International Share Fund,PER0050AU,,1.24
+PIC Wholesale Global Share Fund,MLC0771AU,#,0.90
+Platinum Unhedged Fund,PLA0006AU,,1.35
+Plato Global Shares Income Fund - Class A Units,WHT0061AU,,0.99
+Polaris Global Equity Fund,MAQ0838AU,,1.28
+RealIndex Global Share Class A - Hedged,FSF0975AU,,0.59
+Russell International Share Fund - Class A,RIM0008AU,,1.04
+Russell International Shares Fund - Class C ,RIM0016AU,,1.25
+Schroder Global Active Value Fund,SCH0030AU,,0.98
+Schroder Global Blend,SCH0040AU,,0.98
+Specialist Global Shares Fund,WPC0011AU,,1.26
+State Street International Equities Index Trust,SST0013AU,,0.18
+T.Rowe Price Global Equity Fund,ETL0071AU,,1.14
+Templeton Global Equity Fund,FRT0004AU,,1.13
+UBS International Share Fund,SBC0822AU,,1.00
+Vanguard Index International Shares Fund,VAN0011AU,,0.90
+Vanguard International Shares Index Fund,VAN0003AU,,0.18
+Ventura International Shares Fund,RIM0022AU,,1.24
+Ventura International Shares Fund - Class A,VEN0031AU,,1.09
+Walter Scott Global Equity Fund,MAQ0410AU,,1.28
+Zurich Investments Global Growth Share Fund,ZUR0580AU,,1.01
+Zurich Investments Global Thematic Share Fund,ZUR0061AU,,0.99
+Zurich Investments Unhedged Global Growth Share Fund,ZUR0581AU,,0.98
+International Equity: Smaller Companies  ,,,
+Bell Global Emerging Companies Fund,BPF0029AU,,1.61
+Dimensional Global Small Company Trust,DFA0106AU,,0.66
+Lazard Global Small Cap Fund (W Class),LAZ0012AU,,1.12
+Pengana Global Small Companies Fund,PCL0022AU,,1.49
+Platinum International Healthcare Fund,PLA0005AU,,1.35
+Term - BlackRock Global Small Cap Fund (Class D),MAL0133AU,,1.25
+Yarra Global Small Companies Fund,JBW0103AU,,1.25
+Aberdeen Standard Fully Hedged International Equities Fund,CSA0135AU,,0.99
+Arrowstreet Global Equity Fund (Hedged),MAQ0079AU,,1.28
+BlackRock Indexed Hedged International Equity Fund,BGL0044AU,,0.20
+BlackRock Scientific Hedged International Equity Fund,BGL0109AU,,0.94
+Candriam Sustainable Global Equity Fund,AAP0001AU,,1.05
+Dimensional Global Core Equity Trust AUD Hedged,DFA0009AU,,0.39
+Epoch Global Equity Shareholder Yield (Hedged) Fund,GSF0001AU,,1.30
+Fidelity Hedged Global Equities Fund,FID0014AU,,1.04
+IFP Global Franchise Fund Hedged,MAQ0631AU,,1.38
+Invesco Wholesale Global Opportunities Fund - Hedged - Class A,GTU0008AU,,0.95
+Magellan Global Hedged Fund,MGE0007AU,,1.48
+MFS Fully Hedged Global Equity Trust,ETL0041AU,,0.80
+Paradice Global Small MidCap Fund,ETL0365AU,,1.67
+Perpetual Wholesale Global Share Fund (Hedged) ,PER0752AU,,1.53
+PIC Wholesale Hedged Global Share Fund,MLC0789AU,#,0.95
+RealIndex Global Share Class A - Unhedged,FSF0974AU,,0.58
+Russell International Share Fund $A Hedged - Class A,RIM0009AU,,1.08
+Russell International Share Fund $A Hedged - Class C,RIM0017AU,,1.27
+Schroder Global Active Value Fund (Hedged),SCH0032AU,,0.98
+Schroder Global Blend (Hedged),SCH0051AU,,0.98
+State Street International Equities Index (Hedged) Trust,SST0022AU,,0.20
+Vanguard International Shares Index Fund (Hedged),VAN0105AU,,0.21
+Ventura Global Opportunities Fund - $A hedged – Class A,VEN0008AU,,1.21
+Walter Scott Global Equity Fund (Hedged),MAQ0557AU,,1.28
+Zurich Investments Hedged Global Thematic Share,ZUR0517AU,,0.99
+Zurich Investments Unhedged Global Thematic Share Fund,ZUR0518AU,,0.99
+Aberdeen Standard Asian Opportunities Fund,EQI0028AU,,1.23
+Antipodes Asia Fund,IOF0203AU,,1.24
+BT Investment Funds - BT Asian Share,BTA0026AU,,1.87
+Fidelity Asia Fund,FID0010AU,,1.15
+Fidelity China Fund,FID0011AU,,1.21
+Fidelity India Fund,FID0015AU,,1.20
+K2 Asian Absolute Return Fund,KAM0100AU,,2.12
+Macquarie Asia New Stars No.1,MAQ0640AU,,1.22
+Nikko AM New Asia Fund,TGP0006AU,,1.03
+Pendal Asian Share Fund,BTA0054AU,,1.00
+Pendal Japanese Share Fund,BTA0130AU,,1.00
+Platinum (Wholesale) Japan Fund,PLA0003AU,,1.35
+Platinum Asia Fund,PLA0004AU,,1.35
+Premium China Fund,MAQ0441AU,,2.30
+Pendal Global Emerging Markets Opportunities Fund – WS,BTA0419AU,,1.40
+Dimensional Emerging Markets Trust,DFA0107AU,,0.72
+Aberdeen Standard Emerging Opportunities Fund,ETL0032AU,,1.55
+Robeco Emerging Conservative Equity Fund (AUD),ETL0381AU,,0.96
+Arrowstreet Emerging Markets Fund,MAQ0477AU,,1.48
+Walter Scott Emerging Markets Fund,MAQ0651AU,,1.38
+Ironbark Copper Rock Emerging Markets Opportunities Fund,MGL0019AU,,1.13
+OnePath Wholesale Global Emerging Markets Share Trust,MMF0275AU,,1.01
+Schroder Global Emerging Market Fund,SCH0034AU,,1.40
+Rare Emerging Markets Fund ,TGP0015AU,,1.23
+Vanguard Emerging Markets Shares Index Fund,VAN0005AU,,0.56
+BT Investment Funds - BT European Share,BTA0025AU,,1.88
+Pendal European Share Fund,BTA0124AU,,1.00
+Platinum (Wholesale) European Fund,PLA0001AU,,1.35
+,,,
+Colonial First State Wholesale - CFS Geared Global Share,FSF0170AU,,1.76
+AMP Capital Core Infrastructure Fund (Class A),AMP1179AU,,1.35
+Lazard Global Listed Infrastructure Fund,LAZ0014AU,,0.98
+Macquarie International Infrastructure Securities Fund,MAQ0432AU,,1.02
+Macquarie International Infrastructure Securities Fund (unhedged),MAQ0825AU,,1.01
+Magellan Infrastructure Fund,MGE0002AU,,1.06
+Magellan Infrastructure Fund (Unhedged),MGE0006AU,,1.05
+Maple-Brown Abbott Global Listed Infrastructure Fund,MPL0006AU,,0.98
+Maple-Brown Abbott Global Listed Infrastructure Fund – Hedged,MPL0008AU,,1.00
+Redpoint Global Infrastructure Fund,PPL0031AU,#,0.70
+RARE Infrastructure Value Fund - Hedged,TGP0008AU,,1.03
+RARE Infrastructure Value Fund - Unhedged,TGP0034AU,,0.97
+Pan Tribal Global Equity Fund,ETL0419AU,,1.20
+Pengana WHEB Sustainable Impact Fund,HHA0007AU,,1.35
+Baker Steel Gold Fund,SLT0006AU,,1.69
+Colonial First State Managed Investment - Global Resources,FSF0041AU,,2.29
+Colonial First State Wholesale Global Resources Fund,FSF0038AU,,1.18
+AMP Capital Responsible Investment Leaders Int Share - Class A,AMP0455AU,,1.14
+Pengana International Fund - Ethical,HOW0002AU,,1.35
+Pengana International Fund - Ethical Opportunity,HHA0002AU,,1.71
+Colonial First State Managed Investment - Global Tech & Comms,FSF0144AU,,2.10
+Colonial First State Wholesale - CFS Global Tech & Comms,FSF0143AU,,1.19
+Platinum International Technology Fund,PLA0101AU,,1.35
+Antipodes Global Fund,IOF0045AU,,1.20
+Ironbark LHP Global Long/Short Fund,HFL0108AU,,4.43
+K2 Select International Absolute Return Fund,ETL0046AU,,2.83
+Munro Global Growth Fund ,MUA0002AU,,2.65
+Platinum (Wholesale) International Fund,PLA0002AU,,1.35
+Platinum International Brands Fund,PLA0100AU,,1.35
+PM CAPITAL Global Companies Fund,PMC0100AU,,1.87
+Aberdeen Standard Absolute Return Global Bond Strategies Fund,ETL0134AU,,0.86
+Aberdeen Standard Global Absolute Return Strategies Fund,ETL0130AU,,1.39
+Aspect Diversified Futures Fund ,FSF1086AU,,2.71
+Auscap Australian Long Short Fund,ASX8411AU,,1.62
+Ellerston Australian Market Neutral Fund,ECL0013AU,,1.75
+GMO Systematic Global Macro Trust,GMO0006AU,,1.01
+Hyperion Small Growth Companies Fund,BNT0101AU,,1.25
+Invesco Wholesale Global Targeted Returns Fund - Class A,GTU0109AU,,0.93
+Ironbark LHP Diversified Investment Fund,HFL0104AU,,4.21
+JPMorgan Global Macro Opportunities Fund,PER0758AU,,0.80
+Legg Mason Tactical Allocation Trust - Class A,SSB0130AU,,0.72
+Man Alpha AHL,MAN0002AU,,1.80
+Winton Global Alpha Fund,MAQ0482AU,,2.12
+Ardea Real Outcome Fund ,HOW0098AU,,0.50
+Ironbark Global Diversified Alternatives Fund,DEU0109AU,,2.35
+PIC Wholesale 130/0 Portfolio,MLC0780AU,#,1.29
+Suspended - Macquarie Global Infrastructure Trust II - A UNITS,MAQ0353AU,,2.30
+Firetrail Absolute Return Fund (class A units),WHT5134AU,,-
+Watermark Market Neutral Trust,WMF0001AU,,1.53
+Access Pre Select Balanced,NUN0030AU,#,1.25
+Access Pre Select Conservative,NUN0032AU,#,1.20
+Access Pre Select Growth,NUN0033AU,#,1.30
+Access Pre Select High Growth,NUN0034AU,#,1.45
+APN Property for Income Fund,APN0001AU,,1.04
+APN Property for Income Fund No. 2,APN0004AU,,1.06
+Charter Hall Direct Office Fund (Wholesale),MAQ0448AU,,0.61
+EQT SGH Wholesale Emerging Companies Fund,ETL0118AU,,1.01
