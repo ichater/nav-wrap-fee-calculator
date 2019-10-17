@@ -11,13 +11,12 @@
 </form>
 
 <table class="table" id="fundTable">
-<% MF.forEach(function(MF){ %>
+<% ASX.forEach(function(ASX){ %>
 <tbody id="myTable">
     <tr>
-        <th scope="col"> <input type="checkbox"> <%= MF.FundName %> </th>
-        <th scope="col"> <%= MF.APIR %> </th>
-        <th scope="col"> <%= MF.NabOwned%> </th>
-        <th scope="col"> <%= MF.MER%> </th>
+        <th scope="col"> <input type="checkbox"> <%= ASX.ASXcode %> </th>
+        <th scope="col"> <%= ASX.ListedInvestmentName %> </th>
+        <th scope="col"> <%= ASX.Category%> </th>
     </tr> 
 </tbody>
 <%})%>

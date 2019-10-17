@@ -6,18 +6,18 @@
 <div class="container">
 <h1> test data </h1>
 
-<form>
-    <input type="text" id='myInput' placeholder="search Shares">
+<form id="search-SMA">
+    <input type="text" id='myInput' onkeyup='searchTable()' placeholder="search SMAs">
 </form>
 
 <table class="table" id="fundTable">
-<% MF.forEach(function(MF){ %>
+<% SMA.forEach(function(SMA){ %>
 <tbody id="myTable">
     <tr>
-        <th scope="col"> <input type="checkbox"> <%= MF.FundName %> </th>
-        <th scope="col"> <%= MF.APIR %> </th>
-        <th scope="col"> <%= MF.NabOwned%> </th>
-        <th scope="col"> <%= MF.MER%> </th>
+        <th scope="col"> <input type="checkbox"> <%= SMA.Name %> </th>
+        <th scope="col"> <%= SMA.APIR %> </th>
+        <th scope="col"> <%= SMA.Nab%> </th>
+        <th scope="col"> <%= SMA.MER%> </th>
     </tr> 
 </tbody>
 <%})%>
@@ -29,3 +29,5 @@
 </div>
 
 <script type="text/javascript" src="front.js"></script> 
+
+

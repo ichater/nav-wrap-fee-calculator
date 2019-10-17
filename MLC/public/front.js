@@ -1,18 +1,5 @@
 
 
-
-
-//Fetching managed fund data and saving to variable.
-fetch("./Data/NavShares1.json")
-.then(function(resp){
-    return resp.json();
-})
-.then(function(data){
-    shareList = data;
-    ASX = data.ASXcode;
-    shareName = data.ListedInvestmentName
-});
-
   
   function addASX(){
     let fundTable = document.getElementById("ASXTable");
@@ -86,3 +73,13 @@ $("#addVal").one("click",(function(){
     $("#totalFee").append("<h2> admin fee " + S2(toDoText/100) + "</h2>");
     S22(toDoText)
 }));
+
+//Search through table
+        $(document).ready(function(){
+            $("#myInput").on("keyup", function() {
+              var value = $(this).val().toLowerCase();
+              $("#myTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+              });
+            });
+          });

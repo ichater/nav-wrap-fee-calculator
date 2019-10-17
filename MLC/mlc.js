@@ -25,7 +25,6 @@ app.get("/test", function(req, res){
     MF = require("./public/Data/NAVMFs.json");
     SMA = require("./public/Data/SMA.json")
     res.render("test",[{ASX, ASX},{SMA: SMA},{MF: MF}]);
-    
 });
 
 app.listen(3000, function(){
