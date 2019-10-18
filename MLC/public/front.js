@@ -85,7 +85,11 @@ $("#addVal").one("click",(function(){
   const pannels =document.querySelectorAll('.panel');
   
   tabs.addEventListener("click", function(e){
+<<<<<<< HEAD
       if(e.target.tagName == "BUTTON"){
+=======
+      if(e.target.tagName == "LI"){
+>>>>>>> 3d680d608270f6938d2bac8d6100611943f6c12b
         const targetPanel = document.querySelector(e.target.dataset.target);
         pannels.forEach(function(panel){
             if(panel==targetPanel){
