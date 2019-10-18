@@ -9,6 +9,7 @@
 
 <table class="table" id="fundTable">
 <tr>
+        <th scope="col">  &#10003;</th>
         <th scope="col"> ASX code </th>
         <th scope="col"> Name </th>
         <th scope="col"> Category</th>
@@ -16,7 +17,8 @@
 <% ASX.forEach(function(ASX){ %>
 <tbody id="ASXTable">
     <tr>
-        <th scope="col"> <input type="checkbox"> <%= ASX.ASXcode %> </th>
+        <th scope="col">  <input type="checkbox"></th>
+        <th scope="col"> <%= ASX.ASXcode %> </th>
         <th scope="col"> <%= ASX.ListedInvestmentName %> </th>
         <th scope="col"> <%= ASX.Category%> </th>
     </tr> 

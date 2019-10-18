@@ -10,6 +10,7 @@
 
 <table class="table" id="fundTable">
     <tr>
+            <th scope="col">  &#10003;</th>
             <th scope="col">SMA Name  </th>
             <th scope="col"> APIR</th>
             <th scope="col">  Nab Owned </th>
@@ -18,7 +19,8 @@
 <% SMA.forEach(function(SMA){ %>
 <tbody id="SMATable">
     <tr>
-        <th scope="col"> <input type="checkbox"> <%= SMA.Name %> </th>
+        <th scope="col">  <input type="checkbox"></th>
+        <th scope="col"> <%= SMA.Name %> </th>
         <th scope="col"> <%= SMA.APIR %> </th>
         <th scope="col"> <%= SMA.Nab%> </th>
         <th scope="col"> <%= SMA.MER%> </th>

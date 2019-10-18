@@ -96,10 +96,27 @@ $("#addVal").one("click",(function(){
           $(document).ready(function(){
             $("#ASXInput").on("keyup", function() {
               var value = $(this).val().toLowerCase();
-              $("ASXTable tr").filter(function() {
+              $("#ASXTable tr").filter(function() {
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
               });
             });
           });
+
+  //tabbed content
+  const tabs = document.querySelector('.tabs');
+  const pannels =document.querySelectorAll('.panel');
+  
+  tabs.addEventListener("click", function(e){
+      if(e.target.tagName == "LI"){
+        const targetPanel = document.querySelector(e.target.dataset.target);
+        pannels.forEach(function(panel){
+            if(panel==targetPanel){
+                panel.classList.add('active');
+            } else {
+                panel.classList.remove('active');
+            }
+        });
+      };
+  });
 
           
