@@ -1,26 +1,4 @@
 
-
-  
-  function addASX(){
-    let fundTable = document.getElementById("ASXTable");
-    let row = ASXTable.insertRow();
-    let cell1 = row.insertCell();
-    let cell2 = row.insertCell();
-    let cell3 = row.insertCell();
-    let cell4 = row.insertCell(); 
-  }
-  
-  function addMF(){
-      let fundTable = document.getElementById("fundTable");
-      let row = fundTable.insertRow();
-      let cell1 = row.insertCell();
-      let cell2 = row.insertCell();
-      let cell3 = row.insertCell();
-      let cell4 = row.insertCell();
-      let cell5 = row.insertCell()
-  };
-
-
 $("#addVal").one("click",(function(){  
         let toDoText = $('#myNum').val();
         var dollars = $('#myNum').val()/ 100;
@@ -76,10 +54,47 @@ $("#addVal").one("click",(function(){
 
 //Search through table
         $(document).ready(function(){
-            $("#myInput").on("keyup", function() {
+            $("#SMAInput").on("keyup", function() {
               var value = $(this).val().toLowerCase();
-              $("#myTable tr").filter(function() {
+              $("#SMATable tr").filter(function() {
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
               });
             });
           });
+
+          $(document).ready(function(){
+            $("#MFInput").on("keyup", function() {
+              var value = $(this).val().toLowerCase();
+              $("#MFTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+              });
+            });
+          });
+
+          $(document).ready(function(){
+            $("#ASXInput").on("keyup", function() {
+              var value = $(this).val().toLowerCase();
+              $("#ASXTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+              });
+            });
+          });
+
+  //tabbed content
+  const tabs = document.querySelector('.tabs');
+  const pannels =document.querySelectorAll('.panel');
+  
+  tabs.addEventListener("click", function(e){
+      if(e.target.tagName == "BUTTON"){
+        const targetPanel = document.querySelector(e.target.dataset.target);
+        pannels.forEach(function(panel){
+            if(panel==targetPanel){
+                panel.classList.add('active');
+            } else {
+                panel.classList.remove('active');
+            }
+        });
+      };
+  });
+
+          

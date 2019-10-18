@@ -1,111 +1,27 @@
- <!DOCTYPE html>
- <html>
- <head>
-    <link rel="stylesheet" href="/main.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
- </head>
- <body>
- <div class="container">
-
+<% include partials/header.ejs %>
 <h1>
-    Navigator series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
+        Navigator series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
 </h1>
-<h4>
-   Investment breakdown.  
-</h4>
 
-<!-- input total account value -->
-    <form class="floatr">
-        <input type="number" min="3000" step="0.01" id="myNum"  data-copy="#totalBalance"
-        placeholder="total account value">
-        <input type="button" value="Submit" id="addVal">
-    </form>
-</br>
-
-<!-- Add and view Shares -->
-<input type="button" value="Add Share" onclick="addASX();">
-<table class="table">
-    <thead class="thead-dark"> 
-     <th> Listed investments </th>
-    </thead>
-</table>
-<table class="table" id="ASXTable">
-       
-    <tr>
-        <th scope="col"> ASX code </th>
-        <th scope="col"> name </th>
-        <th scope="col"> Category </th>
-        <th scope="col"> Value </th>
-    </tr> 
-</table>
-    </br>
-
-<!-- Add and view managed Funds -->
-<input type="button" value="Add Fund" onclick="addMF();">
-<table class="table">     
-    <thead colspan="4" class="thead-dark"> 
-        <th> Managed Funds</th>
-    </thead> 
-</table>
-<table class="table" id="fundTable">             
-    <tr>
-        <th scope="col"> APIR Code </th>
-        <th scope="col"> Name </th>
-        <th scope="col"> MERs </th>
-        <th scope="col"> Nab Owned </th>
-        <th scope="col"> Value </th>
-    </tr>      
-</table>
-
-<div id="totalBalance">
-<h2> reference </h2>
+<div id="tabbed-content">
+<div class="tabs">
+    <button class="active button-md" data-target="#main">Main</button>
+    <button class="button-md" data-target="#SMA-tab">SMA search</button>
+    <button class="button-md" data-target="#Fund-Tab">Fund Search</button>
+    <button class="button-md" data-target="#Share-Tab">Share search</button>
 </div>
-
-<div id="totalFee">
-<h2> reference </h2>
+<div class="panel active" id="main">
+<% include partials/main.ejs %>
 </div>
-
-</br>
-<div class="feeRef">
-    <h3> Fee breakdown </h2>
-    <table class="table">
-        <tr>
-            <th> Account Balance </th>
-            <th> Fee (%pa)</th>
-        </tr>
-        <tr class="t1">
-            <th>First $200,000.000</th>
-            <th>0.40 </th>
-        </tr>
-        <tr class="t2">
-            <th>Next $300,000.00</th>
-            <th> 0.15 </th>
-        </tr>
-        <tr class="t3">
-            <th> Remaining Balance over $500,000 </th>
-            <th> 0.03</th>
-        </tr>
-    </table>
-            <p>Plus
-            A flat percentage fee:
-            0.10% pa on the portion of your account balance in
-            managed investments or SMA options or term
-            deposits not managed by the NAB Group, and
-            0.15% pa on the portion of your account balance
-            invested in listed investments.
-            The minimum Administration fee you may pay for
-            combined account balances is $375 pa.
-            The maximum Administration fee you may pay for
-            combined account balances is $2,400 pa. Additionally,
-            where you have Family account linking, the maximum
-            Administration fee will be the lesser of your individual
-            cap or your share of the family linking cap of $3,000
-            pa, subject to the minimum Administration fee of
-            $375 pa.
-        </p>
+<div class="panel" id="SMA-tab">
+<% include partials/SMAsearch %>
+</div>
+<div class="panel" id="Fund-Tab">
+<% include partials/Fundsearch %>
+</div>
+<div class="panel" id="Share-Tab">
+<% include partials/ASXsearch %>
 </div>
 </div>
-    <script type="text/javascript" src="front.js"></script> 
-</body>
- </html>
+
+<% include partials/footer.ejs%>
