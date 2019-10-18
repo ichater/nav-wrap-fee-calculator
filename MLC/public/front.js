@@ -1,26 +1,4 @@
 
-
-  
-  function addASX(){
-    let fundTable = document.getElementById("ASXTable");
-    let row = ASXTable.insertRow();
-    let cell1 = row.insertCell();
-    let cell2 = row.insertCell();
-    let cell3 = row.insertCell();
-    let cell4 = row.insertCell(); 
-  }
-  
-  function addMF(){
-      let fundTable = document.getElementById("fundTable");
-      let row = fundTable.insertRow();
-      let cell1 = row.insertCell();
-      let cell2 = row.insertCell();
-      let cell3 = row.insertCell();
-      let cell4 = row.insertCell();
-      let cell5 = row.insertCell()
-  };
-
-
 $("#addVal").one("click",(function(){  
         let toDoText = $('#myNum').val();
         var dollars = $('#myNum').val()/ 100;
