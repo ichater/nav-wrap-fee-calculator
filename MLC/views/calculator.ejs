@@ -1,12 +1,5 @@
- <!DOCTYPE html>
- <html>
- <head>
-    <link rel="stylesheet" href="/main.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
- </head>
- <body>
- <div class="container">
+<% include partials/header.ejs %>
+
 
 <h1>
     Navigator series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
@@ -59,15 +52,15 @@
 </table>
 
 <div id="totalBalance">
-<h2> reference </h2>
+<!-- <h2> reference </h2> -->
 </div>
 
 <div id="totalFee">
-<h2> reference </h2>
+<!-- <h2> reference </h2> -->
 </div>
 
 </br>
-<div class="feeRef">
+<!-- <div class="feeRef">
     <h3> Fee breakdown </h2>
     <table class="table">
         <tr>
@@ -104,8 +97,11 @@
             pa, subject to the minimum Administration fee of
             $375 pa.
         </p>
-</div>
-</div>
-    <script type="text/javascript" src="front.js"></script> 
-</body>
- </html>
+</div> -->
+
+
+<% include partials/SMAsearch %>
+<% include partials/Fundsearch %>
+<% include partials/ASXsearch %>
+
+<% include partials/footer.ejs%>

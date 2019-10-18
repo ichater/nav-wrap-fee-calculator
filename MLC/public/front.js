@@ -76,10 +76,30 @@ $("#addVal").one("click",(function(){
 
 //Search through table
         $(document).ready(function(){
-            $("#myInput").on("keyup", function() {
+            $("#SMAInput").on("keyup", function() {
               var value = $(this).val().toLowerCase();
-              $("#myTable tr").filter(function() {
+              $("#SMATable tr").filter(function() {
                 $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
               });
             });
           });
+
+          $(document).ready(function(){
+            $("#MFInput").on("keyup", function() {
+              var value = $(this).val().toLowerCase();
+              $("#MFTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+              });
+            });
+          });
+
+          $(document).ready(function(){
+            $("#ASXInput").on("keyup", function() {
+              var value = $(this).val().toLowerCase();
+              $("ASXTable tr").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+              });
+            });
+          });
+
+          
