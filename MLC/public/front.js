@@ -1,55 +1,52 @@
+function roundToTwo(num) {    
+    return +(Math.round(num + "e+2")  + "e-2");
+}
 
-$("#addVal").one("click",(function(){  
-        let toDoText = $('#myNum').val();
-        var dollars = $('#myNum').val()/ 100;
+
+$("#c2").on("keyup",(function(){ 
+        let toDoText = $('#c2').val(); 
+        var dollars = $('#c2').val()/ 100;
         dollars = dollars.toLocaleString("en-US", 
         {style:"currency", currency:"AUD"});
 		$(toDoText).val("");
-		$("#totalBalance").append("<h2>" + dollars + "</h2>")	
+        $("#totalBalance h2").text(dollars)       	
 }));
-
-
-//attempt to add enter key later
-// $("input[type='number']").keypress(function(event){
-// 	//13 = enter key, this is how you check if enter key is hit
-// 	if(event.which === 13){
-//         let toDoText = $('#myNum').val();
-// 		$(toDoText).val("");
-//         $("#totalBalance").append("<h2> $ <span>" + toDoText + "</span></h2>")
-// 	}
-// });
-
-//will eventially become the calculator for annual admin fees.
-
+//tiered structure based on total balance
 function S2(amount){
     if(amount < 200000){
-        return "tier 1: $" + amount *.004;
+        $(".total").text('$' + roundToTwo(amount *.004));
     } 
     else if(amount > 200000 && amount < 500000){
-        return "tier 2: $" +((amount - 200000)*.0015 + 800)
+        $(".total").text('$' + roundToTwo((amount - 200000)*.0015) + 800)
     } 
     else{
-        return "tier 3: $" +((amount - 500000)*.0003 + 1250)
+        $(".total").text(('$' + roundToTwo((amount - 500000)*.0003) + 1250))
     }
 };
 
 function S22(amount){
     if(amount < 200000){
-        $(".t1").css("color","green");	
+        $(".t1").text("$" + roundToTwo(amount *.004));	
     } 
     else if(amount > 200000 && amount < 500000){
-        $(".t2").css("color","green");
+        $(".t1").text("$800");
+        $(".t2").text("$" + roundToTwo((amount - 200000)* .0015));
     } 
     else{
-        $(".t3").css("color","green");
+        $(".t1").text("$800");
+        $(".t2").text("$450");
+        $(".t3").text("$" + roundToTwo((amount - 500000) * .0003));
     }
 };
 
-$("#addVal").one("click",(function(){  
-    let toDoText = $('#myNum').val();   
+$("#c2").on("keyup",(function(){
+    let toDoText = $('#c2').val(); 
+        var dollars = $('#c2').val()/ 100;
+        dollars = dollars.toLocaleString("en-US", 
+        {style:"currency", currency:"AUD"});  
 	$(toDoText).val("");
-    $("#totalFee").append("<h2> admin fee " + S2(toDoText/100) + "</h2>");
     S22(toDoText)
+    S2(toDoText)
 }));
 
 //Search through table
@@ -80,16 +77,22 @@ $("#addVal").one("click",(function(){
             });
           });
 
+
+//add Selected investments
+$(".select1").click(function(){
+    let result = $("input[type='checkbox']:checked");
+    result.each(function(){
+        alert($(this).parent().siblings().text())
+        console.log($(this).parent().siblings());
+    })
+});
+
   //tabbed content
   const tabs = document.querySelector('.tabs');
   const pannels =document.querySelectorAll('.panel');
   
   tabs.addEventListener("click", function(e){
-<<<<<<< HEAD
       if(e.target.tagName == "BUTTON"){
-=======
-      if(e.target.tagName == "LI"){
->>>>>>> 3d680d608270f6938d2bac8d6100611943f6c12b
         const targetPanel = document.querySelector(e.target.dataset.target);
         pannels.forEach(function(panel){
             if(panel==targetPanel){
@@ -102,3 +105,5 @@ $("#addVal").one("click",(function(){
   });
 
           
+
+  

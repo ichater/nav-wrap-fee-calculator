@@ -5,9 +5,14 @@
     
     <!-- input total account value -->
         <form class="floatr">
-            <input type="number" min="3000" step="0.01" id="myNum"  data-copy="#totalBalance"
-            placeholder="total account value">
-            <input type="button" value="Submit" id="addVal">
+            <div class="form">
+            <label for="c2">total account value</label>
+                <div class="input-group"> 
+            <span class="input-group-addon">$</span>
+        <input type="number"  min="0" step="0.01" data-number-to-fixed="2" 
+        data-number-stepfactor="100" class="form-control currency" id="c2" />
+    </div>
+    </div>
         </form>
     </br>
     
@@ -62,7 +67,7 @@
         </table>
     
     <div id="totalBalance">
-    <!-- <h2> reference </h2> -->
+    <h2>  </h2>
     </div>
     
     <div id="totalFee">
@@ -70,25 +75,34 @@
     </div>
     
     </br>
-    <!-- <div class="feeRef">
+    <div class="feeRef">
         <h3> Fee breakdown </h2>
         <table class="table">
             <tr>
                 <th> Account Balance </th>
                 <th> Fee (%pa)</th>
+                <th> total </th>
             </tr>
-            <tr class="t1">
+            <tr>
                 <th>First $200,000.000</th>
                 <th>0.40 </th>
+                <th class="t1">  </th>
             </tr>
-            <tr class="t2">
+            <tr>
                 <th>Next $300,000.00</th>
                 <th> 0.15 </th>
+                <th class="t2">  </th>
             </tr>
-            <tr class="t3">
+            <tr>
                 <th> Remaining Balance over $500,000 </th>
                 <th> 0.03</th>
+                <th class="t3">  </th>
             </tr>
+            <tr>
+                <th colspan="2"> Total: </th>       
+                <th class="total">  </th>
+            </tr>
+            
         </table>
                 <p>Plus
                 A flat percentage fee:
@@ -107,4 +121,4 @@
                 pa, subject to the minimum Administration fee of
                 $375 pa.
             </p>
-    </div> -->
+    </div>
