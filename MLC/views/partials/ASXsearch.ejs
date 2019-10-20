@@ -6,6 +6,7 @@
 <form>
     <input type="text" id='ASXInput' placeholder="search Shares">
 </form>
+<input type="submit" value="getASX" class="select3"/>
 
 <table class="table" id="fundTable">
 <tr>
@@ -17,10 +18,10 @@
 <% ASX.forEach(function(ASX){ %>
 <tbody id="ASXTable">
     <tr>
-        <th scope="col">  <input type="checkbox"></th>
-        <th scope="col"> <%= ASX.ASXcode %> </th>
-        <th scope="col"> <%= ASX.ListedInvestmentName %> </th>
-        <th scope="col"> <%= ASX.Category%> </th>
+        <th scope="col">  <input type="checkbox" name='ASXcheck'></th>
+        <th scope="col" class="code1"> <%= ASX.ASXcode %> </th>
+        <th scope="col" class="share-name"> <%= ASX.ListedInvestmentName %> </th>
+        <th scope="col" class="category"> <%= ASX.Category%> </th>
     </tr> 
 </tbody>
 <%})%>

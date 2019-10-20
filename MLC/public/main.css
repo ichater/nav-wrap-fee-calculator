@@ -44,13 +44,12 @@ h2 {
     float: right;
     width: 40%
 }
-#totalBalance {
-    float: left;
-    width: 20%;
-}
 
-#totalFee{ 
-    width: 20%;
+
+#totalBalance{ 
+    width: 100%;
+    position: relative;
+    
 }
 
 #tabbed-content li{

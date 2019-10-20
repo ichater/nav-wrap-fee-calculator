@@ -6,6 +6,8 @@
 <form>
     <input type="text" id='MFInput' placeholder="search Shares">
 </form>
+<input type="submit" value="getSelectedFund" class="select2"/>
+
 
 <table class="table" id="fundTable">
         <th scope="col">  &#10003;</th>
@@ -16,11 +18,11 @@
 <% MF.forEach(function(MF){ %>
 <tbody id="MFTable">
     <tr>
-        <th scope="col"><input type="checkbox"></th>
-        <th scope="col"> <%= MF.FundName %> </th>
-        <th scope="col"> <%= MF.APIR %> </th>
-        <th scope="col"> <%= MF.NabOwned%> </th>
-        <th scope="col"> <%= MF.MER%> </th>
+        <th scope="col"><input type="checkbox" name='fundcheck'></th>
+        <th scope="col" class="MFname"> <%= MF.FundName %> </th>
+        <th scope="col" class="MFAPIR"> <%= MF.APIR %> </th>
+        <th scope="col" class="nabo1"> <%= MF.NabOwned%> </th>
+        <th scope="col" class="mer1"> <%= MF.MER%> </th>
     </tr> 
 </tbody>
 <%})%>

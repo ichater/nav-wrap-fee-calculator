@@ -2,7 +2,7 @@ function roundToTwo(num) {
     return +(Math.round(num + "e+2")  + "e-2");
 }
 
-
+//display total balance pretty
 $("#c2").on("keyup",(function(){ 
         let toDoText = $('#c2').val(); 
         var dollars = $('#c2').val()/ 100;
@@ -13,29 +13,29 @@ $("#c2").on("keyup",(function(){
 }));
 //tiered structure based on total balance
 function S2(amount){
-    if(amount < 200000){
-        $(".total").text('$' + roundToTwo(amount *.004));
+    if(amount/100 < 200000){
+        $(".total").text('$' + roundToTwo(amount/100 *.004));
     } 
-    else if(amount > 200000 && amount < 500000){
-        $(".total").text('$' + roundToTwo((amount - 200000)*.0015) + 800)
+    else if(amount/100 > 200000 && amount < 500000){
+        $(".total").text('$' + roundToTwo(((amount/100) - 200000)*.0015) + 800)
     } 
     else{
-        $(".total").text(('$' + roundToTwo((amount - 500000)*.0003) + 1250))
+        $(".total").text('$' + roundToTwo((amount/100 - 500000)*.0003) + 1250)
     }
 };
 
 function S22(amount){
-    if(amount < 200000){
-        $(".t1").text("$" + roundToTwo(amount *.004));	
+    if((amount/100) < 200000){
+        $(".t1").text("$" + roundToTwo((amount/100) *.004));	
     } 
-    else if(amount > 200000 && amount < 500000){
+    else if((amount/100) > 200000 && (amount/100) < 500000){
         $(".t1").text("$800");
-        $(".t2").text("$" + roundToTwo((amount - 200000)* .0015));
+        $(".t2").text("$" + roundToTwo(((amount/100) - 200000)* .0015));
     } 
     else{
         $(".t1").text("$800");
         $(".t2").text("$450");
-        $(".t3").text("$" + roundToTwo((amount - 500000) * .0003));
+        $(".t3").text("$" + roundToTwo(((amount/100) - 500000) * .0003));
     }
 };
 
@@ -79,11 +79,45 @@ $("#c2").on("keyup",(function(){
 
 
 //add Selected investments
+//SMA
 $(".select1").click(function(){
-    let result = $("input[type='checkbox']:checked");
+    let result = $("input[name='SMAcheck']:checked");
     result.each(function(){
-        alert($(this).parent().siblings().text())
-        console.log($(this).parent().siblings());
+        // $(this).parent().siblings().text())
+   
+        $("#SMATable").append(
+            "<tr><th scope='col'>"  + $(this).parent().siblings(".SAPIR").text()+
+            "</th><th scope='col'>" + $(this).parent().siblings(".SMA-name").text() +
+            "</th><th scope='col'>" + $(this).parent().siblings(".smer").text() + 
+            "</th><th scope='col'>" + $(this).parent().siblings(".nabo").text() +
+            "</th><th> <input type=number placeholder='value'</th>"  
+        )
+    })
+});
+//Funds
+$(".select2").click(function(){
+    let result = $("input[name='fundcheck']:checked");
+    result.each(function(){
+        $("#fundTable").append(
+            "<tr><th scope='col'>"  + $(this).parent().siblings(".MFAPIR").text()+
+            "</th><th scope='col'>" + $(this).parent().siblings(".MFname").text() +
+            "</th><th scope='col'>" + $(this).parent().siblings(".mer1").text() + 
+            "</th><th scope='col'>" + $(this).parent().siblings(".nabo1").text() +
+            "</th><th> <input type=number placeholder='value'</th>"  
+        )
+    })
+});
+//Shares
+$(".select3").click(function(){
+    let result = $("input[name='ASXcheck']:checked");
+    result.each(function(){  
+        $("#ASXTable1").append(
+            "<tr><th scope='col'>"  + $(this).parent().siblings(".code1").text()+
+            "</th><th scope='col'>" + $(this).parent().siblings(".share-name").text() +
+            "</th><th scope='col'>" + $(this).parent().siblings(".category").text() + 
+            "</th><th> <input type=number placeholder='value'</th>"
+            
+        )
     })
 });
 
@@ -103,6 +137,9 @@ $(".select1").click(function(){
         });
       };
   });
+
+
+  
 
           
 
