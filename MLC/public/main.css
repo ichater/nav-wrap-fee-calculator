@@ -1,13 +1,27 @@
+
+
 .container{
     overflow:hidden
 }
 
+.mlcheader{
+    background: #f12711;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
 h1 {
     color: white;
-    background-color: #c95109;
-    font-family: Charlie-Std-SemiBold;
     padding-bottom: 10px;
+    font-weight: 800;
 }
+input[type=text] {
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     color: white;
+ }
 
 .table {
     border-spacing: 5px;
@@ -25,13 +39,6 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
-
-
-
-.tick{
-    padding-left: 38px;
-}
-
 h2 {
     background-color: #006600;
     border: 5px;
@@ -47,11 +54,14 @@ h2 {
     width: 40%
 }
 
+#c2{
+    color: white;
+}
 
 #totalBalance{ 
     width: 100%;
     position: relative;
-    
+    left: 15px;
 }
 
 #tabbed-content li{
@@ -69,6 +79,14 @@ h2 {
 }
 
 #tabbed-content .panel{
+    display: none;
+}
+
+#tabbed-content .panel1.active{
+    display: block;
+}
+
+#tabbed-content .panel1{
     display: none;
 }
 
@@ -100,7 +118,7 @@ input{
     margin-right: 2px
 }
 
-th input {
+td input {
     width: 90px;
 }
 
@@ -114,6 +132,82 @@ th input {
     color: white;
   }
 
+.table1{
+    width: 100%;
+}
+
 .table1 tr{
     border: 1px solid black;
+}
+.tablehead{
+    background: #017780;
+    color: white;
+    margin-right: 100px;
+}
+
+.button-md {
+    border-radius: 10px;
+   border: 3px solid #bc4401;
+}
+.button-md:hover {
+    background: #017780;
+    color: white;
+    border: 3px solid white;
+}
+
+  
+  input[type="checkbox"]{
+    margin: 0px;
+    height: 16px;
+    width: 19px; 
+  }
+
+.select{
+    position: relative;
+    left: 200px;
+    bottom: 48px;
+    background: #52c234;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #061700, #52c234);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #061700, #52c234); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    
+}
+
+::placeholder { /* Firefox, Chrome, Opera */ 
+    color: white; 
+} 
+
+  .table1 {
+    border: 0px solid #20A449;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  .table1 td, table.table1 th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  .table1 tbody td {
+    font-size: 13px;
+  }
+tr:nth-child {
+    background: #99A8B4;
+  }
+
+ .table1 thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #99A8B4;
+  }
+  
+  #fundTable tr td{
+      height: 5px;
+  }
+.floatr{
+    float: right;
 }

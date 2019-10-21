@@ -1,15 +1,18 @@
 <% include partials/header.ejs %>
+<div class="mlcheader">
 <h1>
-        Navigator series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
+        Navigator/Wrap series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
 </h1>
 
-<div id="tabbed-content">
-<div class="tabs">
-    <button class="active button-md" data-target="#main">Main</button>
-    <button class="button-md" data-target="#SMA-tab">SMA search</button>
-    <button class="button-md" data-target="#Fund-Tab">Fund Search</button>
-    <button class="button-md" data-target="#Share-Tab">Share search</button>
+    <div class="tabs">
+        <button class="button-md" data-target="#main">Main</button>
+        <button class="button-md" data-target="#SMA-tab">SMA search</button>
+        <button class="button-md" data-target="#Fund-Tab">Fund Search</button>
+        <button class="button-md" data-target="#Share-Tab">Share search</button>
+    </div>
+
 </div>
+<div id="tabbed-content">
 <div class="panel active" id="main">
 <% include partials/main.ejs %>
 </div>

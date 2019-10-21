@@ -3,11 +3,12 @@
 
 <h4> Fund search</h4>
 
-<form>
-    <input type="text" id='MFInput' placeholder="search Shares">
-</form>
-<input type="submit" value="getSelectedFund" class="select2"/>
-
+<div class="invest-search2">
+    <form>
+        <input type="text" id='MFInput' placeholder="Search Shares">
+    </form>
+    <input type="submit" value="Get Selected Fund(s)" class="select"/>
+</div>
 
 <table class="table1" id="fundTable">
         <th scope="col" class="tick">  &#10003;</th>
@@ -18,11 +19,11 @@
 <% MF.forEach(function(MF){ %>
 <tbody id="MFTable">
     <tr>
-        <th scope="col"><input type="checkbox" name='fundcheck'></th>
-        <th scope="col" class="MFname"> <%= MF.FundName %> </th>
-        <th scope="col" class="MFAPIR"> <%= MF.APIR %> </th>
-        <th scope="col" class="nabo1"> <%= MF.NabOwned%> </th>
-        <th scope="col" class="mer1"> <%= MF.MER%> </th>
+        <td scope="col"><input class="styled-checkbox" type="checkbox" name='fundcheck'></th>
+        <td scope="col" class="MFname"> <%= MF.FundName %> </th>
+        <td scope="col" class="MFAPIR"> <%= MF.APIR %> </th>
+        <td scope="col" class="nabo1"> <%= MF.NabOwned%> </th>
+        <td scope="col" class="mer1"> <%= MF.MER%> </th>
     </tr> 
 </tbody>
 <%})%>

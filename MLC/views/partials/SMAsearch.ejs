@@ -4,10 +4,13 @@
 
 <div>
 
-<form id="search-SMA">
-    <input type="text" id='SMAInput' onkeyup='searchTable()' placeholder="search SMAs">
-</form>
-    <input type="submit" value="getSelectedSMA" class="select1"/>
+<div class="invest-search1">
+    <form id="search-SMA">
+        <input type="text" id='SMAInput' placeholder="Search SMAs">
+        
+    </form>
+<input type="submit" value="Get Selected SMA(s)" class="select"/>
+</div>
 
 <table class="table1" id="fundTable">
     <tr>
@@ -20,11 +23,11 @@
 <% SMA.forEach(function(SMA){ %>
 <tbody id="SMATable">
     <tr>
-        <th scope="col"> <input type="checkbox" name="SMAcheck" value="SMAcheck"></th>
-        <th scope="col" class="SMA-name"> <%= SMA.Name %> </th>
-        <th scope="col" class="SAPIR"> <%= SMA.APIR %> </th>
-        <th scope="col" class="nabo"> <%= SMA.Nab%> </th>
-        <th scope="col" class="smer"> <%= SMA.MER%> </th>
+        <td scope="col"> <input type="checkbox" name="SMAcheck" value="SMAcheck"></th>
+        <td scope="col" class="SMA-name"> <%= SMA.Name %> </th>
+        <td scope="col" class="SAPIR"> <%= SMA.APIR %> </th>
+        <td scope="col" class="nabo"> <%= SMA.Nab%> </th>
+        <td scope="col" class="smer"> <%= SMA.MER%> </th>
     </tr> 
 </tbody>
 <%})%>

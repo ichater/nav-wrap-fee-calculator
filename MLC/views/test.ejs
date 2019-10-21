@@ -1,10 +1,51 @@
-<link rel="stylesheet" href="/main.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<% include partials/header.ejs %>
+<div class="mlcheader">
+<h1>
+        Navigator/Wrap series 2 fee calculator <img class="floatr" src="1540958834956.mlc-logo.png">
+</h1>
+    <div class="tabs">
+        <button class="button-md" data-target="#main">Main</button>
+        <button class="button-md" data-target="#SMA-tab">SMA search</button>
+        <button class="button-md" data-target="#Fund-Tab">Fund Search</button>
+        <button class="button-md" data-target="#Share-Tab">Share search</button>
+    </div>
+</div>
+<div id="tabbed-content">
+<div class="panel active" id="main">
+    <% include partials/main.ejs %>
+</div>
+<div class="panel" id="SMA-tab">
+    <% include partials/SMAsearch %>
+</div>
+<div class="panel" id="Fund-Tab">
+    <% include partials/Fundsearch %>
+</div>
+<div class="panel" id="Share-Tab">
+    <% include partials/ASXsearch %>
+</div>
 
 
 
-<form method="post" action="#">
-  <label for="currency-field">Enter Amount</label>
-  <input type="number" name="currency-field" id="currency-field" pattern="^\$\d{1,3}(,\d{3})*(\.\d+)?$" value="" data-type="currency" placeholder="$1,000,000.00">
-</form>
+
+    <div class="tabs2">
+            <button class="button-md" data-target1="#main-Tab">Investment Account</button>
+            <button class="button-md" data-target1="#superFee-Tab">Super Account</button>
+            <button class="button-md" data-target1="#pensionCalc-Tab">Pension Account</button>
+        </div>
+
+
+        <div id="tabbed-content">
+    <div class="panel1 active" id="main-Tab"><div>
+
+    <div class="panel1" id="pensionCalc-Tab">
+        <% include partials/pension %>
+    </div>
+
+    <div class="panel1" id="superFee-Tab">
+        <% include partials/super %>
+    </div>
+    </div>
+
+
+</div>
+<% include partials/footer.ejs%>

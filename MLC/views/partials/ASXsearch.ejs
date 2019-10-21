@@ -2,12 +2,12 @@
 
 
 <h4> Share search </h4>
-
-<form>
-    <input type="text" id='ASXInput' placeholder="search Shares">
-</form>
-<input type="submit" value="getASX" class="select3"/>
-
+    <div class="invest-search3">
+        <form>
+            <input type="text" id='ASXInput' placeholder="Search Shares">
+        </form>
+        <input type="submit" value="Get selected Share(s)" class="select"/>
+    </div>
 <table class="table1" id="fundTable">
 <tr>
         <th scope="col" class="tick">  &#10003;</th>
@@ -18,10 +18,10 @@
 <% ASX.forEach(function(ASX){ %>
 <tbody id="ASXTable">
     <tr>
-        <th scope="col">  <input type="checkbox" name='ASXcheck'></th>
-        <th scope="col" class="code1"> <%= ASX.ASXcode %> </th>
-        <th scope="col" class="share-name"> <%= ASX.ListedInvestmentName %> </th>
-        <th scope="col" class="category"> <%= ASX.Category%> </th>
+        <td scope="col">  <input type="checkbox" name='ASXcheck'></th>
+        <td scope="col" class="code1"> <%= ASX.ASXcode %> </th>
+        <td scope="col" class="share-name"> <%= ASX.ListedInvestmentName %> </th>
+        <td scope="col" class="category"> <%= ASX.Category%> </th>
     </tr> 
 </tbody>
 <%})%>

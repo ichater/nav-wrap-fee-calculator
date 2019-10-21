@@ -1,82 +1,96 @@
-
-    <h4>
-       Investment breakdown.  
-    </h4>
     
     <!-- input total account value -->
         <form class="floatr">
-            <div class="form">
+        <div class="form">
             <label for="c2">total account value</label>
-                <div class="input-group"> 
+        <div class="input-group"> 
             <span class="input-group-addon">$</span>
         <input type="number"  min="0" step="0.01" data-number-to-fixed="2" 
         data-number-stepfactor="100" class="form-control currency" id="c2" />
     </div>
     </div>
      <div id="totalBalance">
-    <h2> Type here </h2>
+        <h2> Type here ^ </h2>
     </div>
         </form>
-    </br>
+     <h4>
+       Investment breakdown.  
+    </h4>
     
     <!-- Add and view Shares -->
 
-    <table class="table">
-        <thead class="thead-dark"> 
+    <table class="table1">
+        <thead class="tablehead"> 
          <th> Listed investments </th>
         </thead>
     </table>
-    <table class="table" id="ASXTable1">
+    <table class="table1" id="ASXTable1">
       
         <tr>
             <th scope="col"> ASX code </th>
-            <th scope="col"> name </th>
+            <th scope="col"> Name </th>
             <th scope="col"> Category </th>
             <th scope="col"> Value </th>
-            <th scope="col"> % </th>
+            <th scope="col" colspan="2"> % </th>
         </tr>
-        <tr><th scope="col"> ARB </th>
-            <th scope="col"> ARB CORPORATION LIMITED. </th>
-            <th scope="col"> Automobiles &amp; Components </th>
-            <th> <input type="number" placeholder="$"></th>
-            <th scope="col"> <input type="number" placeholder="%">  </th>
-            <th scope="col"> <span class="del"> X </span> </th>
-        </tr> 
+        <tr><th scope="col"> ARB 
+        </th><td scope="col"> ARB CORPORATION LIMITED. 
+        </td><td scope="col"> Automobiles &amp; Components 
+    </td><td> <input type="number" placeholder="$"></td><td scope="col"> <input type="number" placeholder="%">  </td><td scope="col"> <span class="del"> X </span> </td></tr>
+      <tr><th scope="col"> PWH 
+        </th><td scope="col"> PWR HOLDINGS LIMITED 
+        </td><td scope="col"> Automobiles &amp; Components 
+ 
     </table>
-        </br>
+
     
     <!-- Add and view managed Funds -->
-    <table class="table">     
-        <thead colspan="4" class="thead-dark"> 
+    <table class="table1">     
+        <thead colspan="4" class="tablehead"> 
             <th> Managed Funds</th>
         </thead> 
     </table>
-    <table class="table" id="fundTable">             
+    <table class="table1" id="fundTable">             
         <tr>
             <th scope="col"> APIR Code </th>
             <th scope="col"> Name </th>
             <th scope="col"> MERs </th>
             <th scope="col"> Nab Owned </th>
             <th scope="col"> Value </th>
-            <th scope="col"> % </th>
-        </tr>      
+            <th scope="col" colspan="2"> % </th>
+        </tr>  
+        <tr><td scope="col"> MLC0669AU 
+        </td><td scope="col"> MLC Wholesale Horizon 1 Bond Portfolio 
+        </td><td scope="col"> 0.55 
+    </td><td scope="col"> # 
+        </td><td> <input type="number" placeholder="$"></td><td scope="col"> <input type="number" placeholder="%">  </td><td scope="col"> <span class="del"> X </span> </td></tr>
+         <tr><td scope="col"> MLC0260AU 
+        </td><td scope="col"> MLC Wholesale Horizon 4 Balanced Portfolio 
+        </td><td scope="col"> 1.08 
+    </td><td scope="col"> # 
+        </td><td> <input type="number" placeholder="$"></td><td scope="col"> <input type="number" placeholder="%">  </td><td scope="col"> <span class="del"> X </span> </td></tr>   
     </table>
 
-        <!-- Add and view managed Funds -->
-        <table class="table">     
-            <thead colspan="4" class="thead-dark"> 
+        <!-- Add and view SMAs -->
+        <table class="table1">     
+            <thead colspan="4" class="tablehead"> 
                 <th> SMA's </th>
             </thead> 
         </table>
-        <table class="table" id="SMATable">             
+        <table class="table1" id="SMATable">             
             <tr>
                 <th scope="col"> APIR Code </th>
                 <th scope="col"> Name </th>
                 <th scope="col"> MERs </th>
                 <th scope="col"> Nab Owned </th>
                 <th scope="col"> Value </th>
-                <th scope="col"> % </th>
-            </tr>      
+                <th scope="col" colspan="2"> % </th>
+            </tr> 
+            <tr><td scope="col"> NUN0102AU 
+        </td><td scope="col"> SMA Antares ex 20 
+        </td><td scope="col"> 0.75 
+    </td><td scope="col"> # 
+        </td><td> <input type="number" placeholder="$"></td><td scope="col"> <input type="number" placeholder="%">  </td><td scope="col"> <span class="del"> X </span> </td></tr>     
         </table>
     
     
