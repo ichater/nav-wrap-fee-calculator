@@ -225,6 +225,16 @@ $(".invest-search3 > .select").click(function(){
 //     $(this).parent().siblings(".val1").children(".val2").text(answer)
 // });
 
+$(document).on(".perc input[type=number]", "keyup", function(){ 
+    function toArray(obj) {
+        var array = [];
+        // iterate backwards ensuring that length is an UInt32
+        for (var i = obj.length >>> 0; i--;) { 
+          array[i] = obj[i];
+        }
+        return array;
+      }
+})
 
 
 
