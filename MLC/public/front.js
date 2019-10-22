@@ -12,6 +12,7 @@ $("#c2").on("keyup",(function(){
         $("#totalBalance h2").text(dollars)       	
 }));
 
+//display fees in table
 function S22(amount){
     if((amount/100) < 200000){
         if(amount/100 *.004 < 375){
@@ -33,7 +34,7 @@ function S22(amount){
             }
 }
 };
-
+//total fee.
 $("#c2").on("keyup",(function(){
     let toDoText = $('#c2').val(); 
         var dollars = $('#c2').val()/ 100;
@@ -74,7 +75,7 @@ $("#c2").on("keyup",(function(){
           });
 
 
-//add Selected investments
+//add Selected investments and calculate MERs + total value based off % input
 //SMA
 $(".invest-search1 > .select").click(function(){
     let result = $("input[name='SMAcheck']:checked");
@@ -83,10 +84,14 @@ $(".invest-search1 > .select").click(function(){
         $("#SMATable").append(
             "<tr><td scope='col'>"  + $(this).parent().siblings(".SAPIR").text()+
             "</td><td scope='col'>" + $(this).parent().siblings(".SMA-name").text() +
-            "</td><td scope='col'>" + $(this).parent().siblings(".smer").text() + 
-            "</td><td scope='col'>" + $(this).parent().siblings(".nabo").text() + 
-            "</td><td> <input type=number placeholder='$'></td>" + 
-            "<td scope='col'> <input type=number placeholder='%'>  </td>"
+            "</td><td class='MER' scope='col'><span class='MER2'>" 
+            + $(this).parent().siblings(".smer").text() +
+            "</span>($<span class='MER1'></span>)" + 
+            "</td> <td scope='col'>" + $(this).parent().siblings(".nabo").text() + 
+            "</td> <td scope='col' class='val1'>" + 
+            "$<span class='val2'></span></td>" + 
+            "<td scope='col' class='perc'>" +
+            "<input type=number placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
             //delete added investment
         ).delegate(".del", "click", function(){
@@ -97,7 +102,20 @@ $(".invest-search1 > .select").click(function(){
                 $(this).remove();
             });
             event.stopPropagation();
-        }) 
+        }// add in % and auto populate $ value of investment.
+        ).delegate(".perc input[type=number]", "keyup", function(){
+            let toDoText = (roundToTwo($('#c2').val()/100));
+            let answer = (roundToTwo(toDoText/100) * $(this).val())
+            $(this).parent().siblings(".val1").children(".val2").text(answer)
+        })
+           //MER dollar value
+           .delegate(".perc input[type=number]", "keyup", function(){
+            let toDoText = (roundToTwo($('#c2').val()/100));
+            let a = (roundToTwo(toDoText/100) * $(this).val())
+            let b = $(this).parent().siblings(".MER").children(".MER2").text();
+            let answer = roundToTwo(a/100) * Number(b);
+            $(this).parent().siblings(".MER").children(".MER1").text(roundToTwo(answer));
+        })   
         $("input[name='SMAcheck']").prop("checked", false);
     })
 });
@@ -109,10 +127,14 @@ $(".invest-search2 > .select").click(function(){
         $("#fundTable").append(
             "<tr><td scope='col'>"  + $(this).parent().siblings(".MFAPIR").text()+
             "</td><td scope='col'>" + $(this).parent().siblings(".MFname").text() +
-            "</td><td scope='col'>" + $(this).parent().siblings(".mer1").text() + 
-            "</td><td scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
-            "</td><td> <input type=number placeholder='$'></td>" + 
-            "<td scope='col'> <input type=number placeholder='%'>  </td>"
+            "</td><td class='MER' scope='col'><span class='MER2'>" 
+            + $(this).parent().siblings(".mer1").text() +
+            "</span>($<span class='MER1'></span>)" + 
+            "</td> <td scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
+            "</td> <td scope='col' class='val1'>" + 
+            "$<span class='val2'></span></td>" + 
+            "<td scope='col' class='perc'>" +
+            "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"
             //delete added investment
         ).delegate(".del", "click", function(){
@@ -121,9 +143,22 @@ $(".invest-search2 > .select").click(function(){
             });
             $(this).parent().fadeOut(500, function(){
                 $(this).remove();
-            });
+            })
             event.stopPropagation();
+            //calculate value based off %
+        }).delegate(".perc input[type=number]", "keyup", function(){
+            let toDoText = (roundToTwo($('#c2').val()/100));
+            let answer = (roundToTwo(toDoText/100) * $(this).val())
+            $(this).parent().siblings(".val1").children(".val2").text(answer)
         })
+            //MER dollar value
+            .delegate(".perc input[type=number]", "keyup", function(){
+                let toDoText = (roundToTwo($('#c2').val()/100));
+                let a = (roundToTwo(toDoText/100) * $(this).val())
+                let b = $(this).parent().siblings(".MER").children(".MER2").text();
+                let answer = roundToTwo(a/100) * Number(b);
+                $(this).parent().siblings(".MER").children(".MER1").text(roundToTwo(answer));
+            })        
         $("input[name='fundcheck']").prop("checked", false);
     })
 });
@@ -133,11 +168,13 @@ $(".invest-search3 > .select").click(function(){
     result.each(function(){  
         //add TR for investment
         $("#ASXTable1").append(
-            "<tr><th scope='col'>"  + $(this).parent().siblings(".code1").text()+
+            "<tr><td scope='col'>"  + $(this).parent().siblings(".code1").text()+
             "</td><td scope='col'>" + $(this).parent().siblings(".share-name").text() +
             "</td><td scope='col'>" + $(this).parent().siblings(".category").text() + 
-            "</td><td> <input type=number placeholder='$'></td>" + 
-            "<td scope='col'> <input type=number placeholder='%'>  </td>"
+            "</td> <td scope='col' class='val1'>" + 
+            "$<span class='val2'></span></td>" + 
+            "<td scope='col' class='perc'>" +
+            "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
             //delete added table         
         ).delegate(".del", "click", function(){
@@ -148,12 +185,22 @@ $(".invest-search3 > .select").click(function(){
                     $(this).remove();
                 });
                 event.stopPropagation();
+        }
+        // add in % and auto populate $ value of investment.
+        ).delegate(".perc input[type=number]", "keyup", function(){
+            let toDoText = (roundToTwo($('#c2').val()/100));
+            let answer = (roundToTwo(toDoText/100) * $(this).val())
+            $(this).parent().siblings(".val1").children(".val2").text(answer);
+            //calculate the .15% listed fee and populate below data.
+            let answer1 = roundToTwo((answer/100) * .15)
+            let answer2 = forEach()
+            $(".listedFee").text(answer1)            
         })
         $("input[name='ASXcheck']").prop("checked", false);
     })
 });
 
-  //tabbed content
+  //tabbed content (different searches)
     const tabs = document.querySelector('.tabs');  
     const pannels =document.querySelectorAll('.panel');
 
@@ -171,21 +218,15 @@ $(".invest-search3 > .select").click(function(){
       };
   });
   
-//   const tabs = document.querySelector('.tabs2');  
-//   const pannels1 =document.querySelectorAll('.panel1');
-
-//   tabs2.addEventListener("click", function(e){
-//     if(e.target.tagName == "BUTTON"){
-//       const targetPanel = document.querySelector(e.target.dataset.target1);
-//       pannels.forEach(function(panel){
-//           if(panel==targetPanel){
-//               panel.classList.add('active');                  
-//           } else {
-//               panel.classList.remove('active');                                
-//           }
-//       });
-      
-//     };
+//add % of fund balance to investment value
+// $(".perc input[type=number]").delegate(".perc input[type=number]", "keyup", function(){
+//     let toDoText = (roundToTwo($('#c2').val()/100));
+//     let answer = (roundToTwo(toDoText/100) * $(this).val())
+//     $(this).parent().siblings(".val1").children(".val2").text(answer)
 // });
+
+
+
+
 
 
