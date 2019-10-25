@@ -86,7 +86,7 @@ $(".invest-search1 > .select").click(function(){
             "</td><td scope='col'>" + $(this).parent().siblings(".SMA-name").text() +
             "</td><td class='MER' scope='col'><span class='MER2'>" 
             + $(this).parent().siblings(".smer").text() +
-            "</span>($<span class='MER1'></span>)" + 
+            "</span>($<span class='MER1'>0</span>)" + 
             "</td> <td scope='col'>" + $(this).parent().siblings(".nabo").text() + 
             "</td> <td scope='col' class='val1'>" + 
             "$<span class='val2'></span></td>" + 
@@ -129,7 +129,7 @@ $(".invest-search2 > .select").click(function(){
             "</td><td scope='col'>" + $(this).parent().siblings(".MFname").text() +
             "</td><td class='MER' scope='col'><span class='MER2'>" 
             + $(this).parent().siblings(".mer1").text() +
-            "</span>($<span class='MER1'></span>)" + 
+            "</span>($<span class='MER1'>0</span>)" + 
             "</td> <td scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
             "</td> <td scope='col' class='val1'>" + 
             "$<span class='val2'></span></td>" + 
@@ -173,7 +173,7 @@ $(".invest-search3 > .select").click(function(){
             "</td><td scope='col'>" + $(this).parent().siblings(".category").text() + 
             "</td> <td scope='col' class='val1'>" + 
             "$<span class='val2'></span></td>" + 
-            "<td scope='col' class='perc'>" +
+            "<td scope='col' class='perc si'>" +
             "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
             //delete added table         
@@ -187,15 +187,7 @@ $(".invest-search3 > .select").click(function(){
                 event.stopPropagation();
         }
         // add in % and auto populate $ value of investment.
-        ).delegate(".perc input[type=number]", "keyup", function(){
-            let toDoText = (roundToTwo($('#c2').val()/100));
-            let answer = (roundToTwo(toDoText/100) * $(this).val())
-            $(this).parent().siblings(".val1").children(".val2").text(answer);
-            //calculate the .15% listed fee and populate below data.
-            let answer1 = roundToTwo((answer/100) * .15)
-            let answer2 = forEach()
-            $(".listedFee").text(answer1)            
-        })
+        )
         $("input[name='ASXcheck']").prop("checked", false);
     })
 });
@@ -217,25 +209,50 @@ $(".invest-search3 > .select").click(function(){
         
       };
   });
-  
-//add % of fund balance to investment value
-// $(".perc input[type=number]").delegate(".perc input[type=number]", "keyup", function(){
-//     let toDoText = (roundToTwo($('#c2').val()/100));
-//     let answer = (roundToTwo(toDoText/100) * $(this).val())
-//     $(this).parent().siblings(".val1").children(".val2").text(answer)
-// });
 
-$(document).on(".perc input[type=number]", "keyup", function(){ 
-    function toArray(obj) {
-        var array = [];
-        // iterate backwards ensuring that length is an UInt32
-        for (var i = obj.length >>> 0; i--;) { 
-          array[i] = obj[i];
-        }
-        return array;
-      }
+
+// $(document).on("keyup",".perc input[type=number]", function(){ 
+//     let total2 = 0;   
+//     $(".MER1").each(function(){
+//         total2 += parseFloat(
+//             $(this).text() 
+//         )      
+//     });
+//     $(".MERtotal span").text(total2);  
+// })
+
+$(document).on("keyup",".perc input[type=number]", function(){ 
+    let total2 = 0;   
+    $(".MER1").each(function(){
+        total2 += parseFloat(
+            $(this).text() 
+        )      
+    });
+    $(".MERtotal span").text((roundToTwo(total2)));  
 })
 
+// $(document).on("keyup",".si input[type=number]", function(){ 
+//     alert("share")
+// })
+
+$(document).on("keyup", ".si input[type=number]", function(){
+    //add to value based on input % of total balance.
+    let toDoText = (roundToTwo($('#c2').val()/100));
+    let answer = (roundToTwo(toDoText/100) * $(this).val())
+    $(this).parent().siblings(".val1").children(".val2").text(answer);
+    //calculate the .15% listed fee and populate below data.
+    let answer1 = 0;
+    $(".val2").each(function(){
+        answer1 += parseFloat(
+            $(this).text() 
+        )      
+    });
+    $(".listedFee span").text((roundToTwo((answer1/100)*0.15)))            
+})
+
+$(document).on("click", '.MER1', function(){
+    alert(parseFloat($(this).text()))
+});
 
 
 
