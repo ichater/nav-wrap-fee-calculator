@@ -15,4 +15,3 @@ $(".info3").on("click", function(){
     + " MERs column")
 })
 
-alert("WORKS")

@@ -89,7 +89,7 @@ $(".invest-search1 > .select").click(function(){
             "</span>($<span class='MER1'>0</span>)" + 
             "</td> <td class='NBO' scope='col'>" + $(this).parent().siblings(".nabo").text() + 
             "</td> <td scope='col' class='val1'>" + 
-            "$<span class='val2'></span></td>" + 
+            "$<span class='val2'>0</span></td>" + 
             "<td scope='col' class='perc perc1'>" +
             "<input type=number placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
@@ -132,7 +132,7 @@ $(".invest-search2 > .select").click(function(){
             "</span>($<span class='MER1'>0</span>)" + 
             "</td> <td class='NBO' scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
             "</td> <td scope='col' class='val1'>" + 
-            "$<span class='val2'></span></td>" + 
+            "$<span class='val2'>0</span></td>" + 
             "<td scope='col' class='perc perc1'>" +
             "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"
@@ -252,6 +252,22 @@ if(!(a.includes("#"))){
         $(".nabOT span").text("$" + (roundToTwo(b/1000)))
     } 
 );
-
+// calculate total %
+$(document).on("keyup",".perc input[type=number]", function(){ 
+    a=0;
+    b= parseFloat($("#totalBalance").text()) - a;
+    $(".perc input[type=number]").each(function(){
+        if($(this).val() != ""){
+            a += parseFloat(
+                $(this).val() 
+            )      
+        }
+    });
+    
+    if(a > 99){
+        alert("poop")
+    }
+    console.log(b)
+    });
 
 
