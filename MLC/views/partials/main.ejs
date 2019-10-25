@@ -21,7 +21,7 @@
 
     <table class="table1">
         <thead class="tablehead"> 
-         <th> Listed investments </th>
+         <th> Listed investments <span class="info2"> # </span> </th>
         </thead>
     </table>
     <table class="table1" id="ASXTable1">
@@ -39,7 +39,7 @@
     <!-- Add and view managed Funds -->
     <table class="table1">     
         <thead colspan="4" class="tablehead"> 
-            <th> Managed Funds</th>
+            <th> Managed Funds <span class="info3"> # </span> </th>
         </thead> 
     </table>
     <table class="table1" id="fundTable" class="4nab">             
@@ -47,7 +47,9 @@
             <th scope="col"> APIR Code </th>
             <th scope="col"> Name </th>
             <th scope="col"> MERs </th>
-            <th scope="col"> Nab Owned </th>
+            <th scope="col" class="info1"> Nab Owned 
+                <span>#</span>
+            </th>
             <th scope="col"> Value </th>
             <th scope="col" colspan="2"> % </th>
         </tr>  
@@ -65,7 +67,9 @@
                 <th scope="col"> APIR Code </th>
                 <th scope="col"> Name </th>
                 <th scope="col"> MERs </th>
-                <th scope="col"> Nab Owned </th>
+                <th scope="col" class="info1"> Nab Owned 
+                        <span>#</span>
+                    </th>
                 <th scope="col"> Value </th>
                 <th scope="col" colspan="2"> % </th>
             </tr> 
@@ -79,11 +83,11 @@
     
     </br>
 <div class="listedFee">
-  Listed Investment fee total: $<span> </span>
+  Listed Investment fee total: <span> </span>
 </div>
 
 <div class="nabOT">
-    Non-Nab fee total: $ <span> </span>
+    Non-Nab fee total:  <span> </span>
 </div>
 
 <div class="MERtotal">
