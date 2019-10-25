@@ -87,10 +87,10 @@ $(".invest-search1 > .select").click(function(){
             "</td><td class='MER' scope='col'><span class='MER2'>" 
             + $(this).parent().siblings(".smer").text() +
             "</span>($<span class='MER1'>0</span>)" + 
-            "</td> <td scope='col'>" + $(this).parent().siblings(".nabo").text() + 
+            "</td> <td class='NBO' scope='col'>" + $(this).parent().siblings(".nabo").text() + 
             "</td> <td scope='col' class='val1'>" + 
             "$<span class='val2'></span></td>" + 
-            "<td scope='col' class='perc'>" +
+            "<td scope='col' class='perc perc1'>" +
             "<input type=number placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
             //delete added investment
@@ -130,10 +130,10 @@ $(".invest-search2 > .select").click(function(){
             "</td><td class='MER' scope='col'><span class='MER2'>" 
             + $(this).parent().siblings(".mer1").text() +
             "</span>($<span class='MER1'>0</span>)" + 
-            "</td> <td scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
+            "</td> <td class='NBO' scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
             "</td> <td scope='col' class='val1'>" + 
             "$<span class='val2'></span></td>" + 
-            "<td scope='col' class='perc'>" +
+            "<td scope='col' class='perc perc1'>" +
             "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"
             //delete added investment
@@ -211,16 +211,7 @@ $(".invest-search3 > .select").click(function(){
   });
 
 
-// $(document).on("keyup",".perc input[type=number]", function(){ 
-//     let total2 = 0;   
-//     $(".MER1").each(function(){
-//         total2 += parseFloat(
-//             $(this).text() 
-//         )      
-//     });
-//     $(".MERtotal span").text(total2);  
-// })
-
+// Calculate and dsisplay total MERs
 $(document).on("keyup",".perc input[type=number]", function(){ 
     let total2 = 0;   
     $(".MER1").each(function(){
@@ -231,9 +222,6 @@ $(document).on("keyup",".perc input[type=number]", function(){
     $(".MERtotal span").text((roundToTwo(total2)));  
 })
 
-// $(document).on("keyup",".si input[type=number]", function(){ 
-//     alert("share")
-// })
 
 $(document).on("keyup", ".si input[type=number]", function(){
     //add to value based on input % of total balance.
@@ -247,13 +235,23 @@ $(document).on("keyup", ".si input[type=number]", function(){
             $(this).text() 
         )      
     });
-    $(".listedFee span").text((roundToTwo((answer1/100)*0.15)))            
+    $(".listedFee span").text("$" +(roundToTwo((answer1/100)*0.15)))            
 })
-
-$(document).on("click", '.MER1', function(){
-    alert(parseFloat($(this).text()))
-});
-
+//If a MF or SMA is not Nab Owned then fee it at .1%
+$(document).on("keyup", ".perc1 input[type=number]", function(){
+    let a = $(this).parent().siblings(".NBO").text();
+    let b = 0
+if(!(a.includes("#"))){
+    $(this).parent().siblings(".val1").children(".val2").addClass("Nfee")   
+        }
+        $(".Nfee").each(function(){
+            b += parseFloat(
+                $(this).text() 
+            )      
+        });
+        $(".nabOT span").text("$" + (roundToTwo(b/1000)))
+    } 
+);
 
 
 
