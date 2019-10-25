@@ -172,7 +172,7 @@ $(".invest-search3 > .select").click(function(){
             "</td><td scope='col'>" + $(this).parent().siblings(".share-name").text() +
             "</td><td scope='col'>" + $(this).parent().siblings(".category").text() + 
             "</td> <td scope='col' class='val1'>" + 
-            "$<span class='val2'></span></td>" + 
+            "$<span class='val2'> 0 </span></td>" + 
             "<td scope='col' class='perc si'>" +
             "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
