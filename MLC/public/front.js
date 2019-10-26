@@ -16,34 +16,37 @@ $("#c2").on("keyup",(function(){
 function S22(amount){
     if((amount/100) < 200000){
         if(amount/100 *.004 < 375){
-            $(".t1").text(375);
+            $(".t1 span").text(375);
         } else {
-            $(".t1").text(roundToTwo((amount/100) *.004));	
+            $(".t1 span").text(roundToTwo((amount/100) *.004));	
     }}
     else if((amount/100) > 200000 && (amount/100) < 500000){
-        $(".t1").text(800);
-        $(".t2").text(roundToTwo(((amount/100) - 200000)* .0015));
+        $(".t1 span").text(800);
+        $(".t2 span").text(roundToTwo(((amount/100) - 200000)* .0015));
     } 
     else{
-        $(".t1").text(800);
-        $(".t2").text(450);
+        $(".t1 span").text(800);
+        $(".t2 span").text(450);
             if(((amount/100) - 500000) * .0003 + 1250 > 2400){
-            $(".t3").text(1150)
+            $(".t3 span").text(1150)
             } else{
-                $(".t3").text(roundToTwo(((amount/100) - 500000) * .0003));
+                $(".t3 span").text(roundToTwo(((amount/100) - 500000) * .0003));
             }
 }
 };
 //total fee.
 $("#c2").on("keyup",(function(){
     let toDoText = $('#c2').val(); 
-        var dollars = $('#c2').val()/ 100;
-        dollars = dollars.toLocaleString("en-US", 
-        {style:"currency", currency:"AUD"});  
+        var dollars = $('#c2').val()/ 100;  
 	$(toDoText).val("");
     S22(toDoText)
-    let total = (Number($(".t1").text()) + (Number($(".t2").text()) +(Number($(".t3").text()))))
-    $(".total").text(total);
+    a=0
+    $(".totals-table span").each(function(){     
+            a += parseFloat(
+                $(this).text() 
+            )      
+    });
+    $(".total").text(a);
 }));
 
 //Search through table
@@ -235,7 +238,7 @@ $(document).on("keyup", ".si input[type=number]", function(){
             $(this).text() 
         )      
     });
-    $(".listedFee span").text("$" +(roundToTwo((answer1/100)*0.15)))            
+    $(".listedFee span").text((roundToTwo((answer1/100)*0.15)))            
 })
 //If a MF or SMA is not Nab Owned then fee it at .1%
 $(document).on("keyup", ".perc1 input[type=number]", function(){
@@ -249,7 +252,7 @@ if(!(a.includes("#"))){
                 $(this).text() 
             )      
         });
-        $(".nabOT span").text("$" + (roundToTwo(b/1000)))
+        $(".nabOT span").text((roundToTwo(b/1000)))
     } 
 );
 
