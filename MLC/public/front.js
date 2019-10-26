@@ -9,7 +9,7 @@ $("#c2").on("keyup",(function(){
         dollars = dollars.toLocaleString("en-US", 
         {style:"currency", currency:"AUD"});
 		$(toDoText).val("");
-        $("#totalBalance h2").text(dollars)       	
+        $(".totalBalance span").text(dollars)      	
 }));
 
 //display fees in table
@@ -252,10 +252,13 @@ if(!(a.includes("#"))){
         $(".nabOT span").text("$" + (roundToTwo(b/1000)))
     } 
 );
+
+
+
 // calculate total %
 $(document).on("keyup",".perc input[type=number]", function(){ 
     a=0;
-    b= parseFloat($("#totalBalance").text()) - a;
+    b= parseFloat($(".totalBalance").text()) - a;
     $(".perc input[type=number]").each(function(){
         if($(this).val() != ""){
             a += parseFloat(
@@ -263,11 +266,20 @@ $(document).on("keyup",".perc input[type=number]", function(){
             )      
         }
     });
-    
     if(a > 99){
-        alert("poop")
+        alert("over 99% investment value.")
     }
-    console.log(b)
     });
 
+
+$(document).on("keyup",".perc input[type=number]", function(){ 
+    a=0;
+    b=$("#c2").val()/100;
+    $(".val2").each(function(){
+            a += parseFloat(
+                $(this).text())      
+        }
+    );
+   $(".cashBalance span").text("$" + roundToTwo(b-a))
+});
 
