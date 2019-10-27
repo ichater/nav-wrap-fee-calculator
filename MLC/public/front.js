@@ -35,19 +35,32 @@ function S22(amount){
 }
 };
 //total fee.
-$("#c2").on("keyup",(function(){
+function totalFee(){
     let toDoText = $('#c2').val(); 
         var dollars = $('#c2').val()/ 100;  
 	$(toDoText).val("");
     S22(toDoText)
     a=0
+    b = (a) => {
+        if(a > 2400){
+            return 2400
+        } else{
+            return a
+        }
+    }
     $(".totals-table span").each(function(){     
             a += parseFloat(
                 $(this).text() 
             )      
     });
-    $(".total").text(a);
-}));
+    $(".total").text(b(a));
+}
+$("#c2").on("keyup",function(){
+    totalFee();
+});
+$(".perc1 input[type=number]").on("keyup",function(){
+    totalFee();
+});
 
 //Search through table
         $(document).ready(function(){
@@ -274,7 +287,7 @@ $(document).on("keyup",".perc input[type=number]", function(){
     }
     });
 
-
+// cash account total
 $(document).on("keyup",".perc input[type=number]", function(){ 
     a=0;
     b=$("#c2").val()/100;
