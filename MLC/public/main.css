@@ -223,6 +223,6 @@ input[type=number]::-webkit-outer-spin-button {
   margin: 0; 
 }
 
-.totals-table tr :nth-child(3){
+.Nfee{
     background-color: purple;
 }

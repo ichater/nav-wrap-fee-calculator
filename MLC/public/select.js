@@ -26,11 +26,12 @@ $(".invest-search1 > .select").click(function(){
             });
             event.stopPropagation();
         }// add in % and auto populate $ value of investment.
-        ).delegate(".perc input[type=number]", "keyup", function(){
-            let toDoText = (roundToTwo($('#c2').val()/100));
-            let answer = (roundToTwo(toDoText/100) * $(this).val())
-            $(this).parent().siblings(".val1").children(".val2").text(answer)
-        })  
+        )
+        // .delegate(".perc input[type=number]", "keyup", function(){
+        //     let toDoText = (roundToTwo($('#c2').val()/100));
+        //     let answer = (roundToTwo(toDoText/100) * $(this).val())
+        //     $(this).parent().siblings(".val1").children(".val2").text(answer)
+        // })  
         $("input[name='SMAcheck']").prop("checked", false);
     })
 });

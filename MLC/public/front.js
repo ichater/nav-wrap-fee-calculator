@@ -2,16 +2,6 @@ function roundToTwo(num) {
     return +(Math.round(num + "e+2")  + "e-2");
 }
 
-// function investmentValueDollar(){
-//     a=0
-//     $(".perc input[type=number]").each(function(){
-//         if($(this).val() != ""){
-//             a += parseFloat(
-//                 $(this).val() 
-//             )      
-//         }
-//     });
-// }
 
 function cashAccount(){
     a=0;
@@ -25,19 +15,37 @@ function cashAccount(){
 }
 //If a MF or SMA is not Nab Owned then fee it at .1%
 function nabOwned(){
-    let a = $(".perc1 input[type=number]").siblings(".NBO").text();
     let b = 0
-if(!(a.includes("#"))){
-    $(".val2").addClass("Nfee")   
+    $(".NBO").each(function(){
+        if(!($(this).text().includes("#"))){
+            $(this).siblings(".val1").children(".val2").addClass("Nfee");           
         }
+    })
         $(".Nfee").each(function(){
             b += parseFloat(
                 $(this).text() 
-            )      
-        });
+            )
+            console.log("added");      
+        }
+        );
         $(".nabOT span").text((roundToTwo(b/1000)))
 }
 
+// function test(){
+//     $(".NBO").each(function(){
+//         if(!($(this).text().includes("#"))){
+//             $(this).siblings(".val1").children(".val2").addClass("Nfee");
+            
+//     } else {
+//         console.log("not working")
+//     }
+// })
+// $(".NBO").each(function(){
+//     console.log($(this).siblings(".val1").children(".val2").text());
+// })
+// }
+
+//Mer totals
 function MERTotal(){
     let total2 = 0;   
     $(".MER1").each(function(){
@@ -101,6 +109,16 @@ function totalFee(){
 function displayPretty(){ 
     let dollars = $('#c2').val()/ 100;
     $(".totalBalance span").text(dollars);
+};
+
+//Add in % and populate $ value
+function investmentValueDollar(){
+    $(".perc input[type=number]").each(function(){
+        if($(this).val() != ""){
+                 let toDoText = (roundToTwo($('#c2').val()/100));
+            let answer = (roundToTwo(toDoText/100) * $(this).val())
+            $(this).parent().siblings(".val1").children(".val2").text(answer)
+    }})
 }
 
 $(document).on("keyup", "#c2", function(){ 
@@ -119,6 +137,7 @@ $(document).on("keyup",".perc input[type=number]", function(){
     investMER()
     MERTotal();
     totalFee();
+    // test();
 });
 
 //display fees in table
