@@ -24,26 +24,12 @@ function nabOwned(){
         $(".Nfee").each(function(){
             b += parseFloat(
                 $(this).text() 
-            )
-            console.log("added");      
+            )     
         }
         );
         $(".nabOT span").text((roundToTwo(b/1000)))
 }
 
-// function test(){
-//     $(".NBO").each(function(){
-//         if(!($(this).text().includes("#"))){
-//             $(this).siblings(".val1").children(".val2").addClass("Nfee");
-            
-//     } else {
-//         console.log("not working")
-//     }
-// })
-// $(".NBO").each(function(){
-//     console.log($(this).siblings(".val1").children(".val2").text());
-// })
-// }
 
 //Mer totals
 function MERTotal(){
@@ -113,32 +99,78 @@ function displayPretty(){
 
 //Add in % and populate $ value
 function investmentValueDollar(){
-    $(".perc input[type=number]").each(function(){
-        if($(this).val() != ""){
-                 let toDoText = (roundToTwo($('#c2').val()/100));
-            let answer = (roundToTwo(toDoText/100) * $(this).val())
-            $(this).parent().siblings(".val1").children(".val2").text(answer)
-    }})
+        let toDoText = $('#c2').val()/100;
+    $(".perc input[type=number]").each(function(){  
+        let answer = (roundToTwo(toDoText/100) * $(this).val())     
+        $(this).parent().siblings(".val1").children(".val2").text(answer)        
+    })
 }
+//Listed Investment value
+function shareFee(){
+    let a=0
+    $(".si input[type=number]").each(function(){
+        $(this).parent().siblings(".val1").children(".val2").each(function(){     
+            a += parseFloat(
+                $(this).text() 
+            )  
+        $(".listedFee span").text((roundToTwo((a/100)*0.15)))
+    })
+    })
+}
+
+function all(){
+    displayPretty();
+    investmentValueperc();
+    investmentValueDollar();
+    cashAccount(); 
+    shareFee()
+    nabOwned();    
+    MERTotal();
+    totalFee();
+};
 
 $(document).on("keyup", "#c2", function(){ 
     displayPretty();
     investmentValueperc();
+    investmentValueDollar();
     cashAccount(); 
+    shareFee()
     nabOwned();    
     MERTotal();
     totalFee();	
 });
 // cash account total
 $(document).on("keyup",".perc input[type=number]", function(){ 
-    cashAccount();
     investmentValueperc();
+    investmentValueDollar();
+    cashAccount();
+    shareFee()
     nabOwned();
     investMER()
     MERTotal();
     totalFee();
     // test();
 });
+// Delete
+$(document).on("click", ".del", function(){
+    $(this).parent().siblings().fadeOut(500, function(){
+        $(this).remove();
+        investmentValueperc();
+        investmentValueDollar();
+        cashAccount();
+        shareFee()
+        nabOwned();
+        investMER()
+        MERTotal();
+        totalFee();
+    });
+    $(this).parent().fadeOut(500, function(){
+        $(this).remove();
+    });
+        event.stopPropagation();
+     }
+    
+)
 
 //display fees in table
 function S22(amount){
@@ -163,12 +195,7 @@ function S22(amount){
 }
 };
 
-// $("#c2").on("keyup",function(){
-//     totalFee();
-// });
-// $(document).on("keyup", ".perc input[type=number]", function(){
-//     totalFee();
-// });
+
 
 //Search through table
         $(document).ready(function(){
@@ -218,25 +245,6 @@ function S22(amount){
         
       };
   });
-
-
-
-
-
-$(document).on("keyup", ".si input[type=number]", function(){
-    //add to value based on input % of total balance.
-    let toDoText = (roundToTwo($('#c2').val()/100));
-    let answer = (roundToTwo(toDoText/100) * $(this).val())
-    $(this).parent().siblings(".val1").children(".val2").text(answer);
-    //calculate the .15% listed fee and populate below data.
-    let answer1 = 0;
-    $(".val2").each(function(){
-        answer1 += parseFloat(
-            $(this).text() 
-        )      
-    });
-    $(".listedFee span").text((roundToTwo((answer1/100)*0.15)))            
-})
 
 
 

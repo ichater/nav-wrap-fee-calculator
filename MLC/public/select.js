@@ -16,22 +16,7 @@ $(".invest-search1 > .select").click(function(){
             "<td scope='col' class='perc perc1'>" +
             "<input type=number placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"  
-            //delete added investment
-        ).delegate(".del", "click", function(){
-            $(this).parent().siblings().fadeOut(500, function(){
-                $(this).remove();
-            });
-            $(this).parent().fadeOut(500, function(){
-                $(this).remove();
-            });
-            event.stopPropagation();
-        }// add in % and auto populate $ value of investment.
-        )
-        // .delegate(".perc input[type=number]", "keyup", function(){
-        //     let toDoText = (roundToTwo($('#c2').val()/100));
-        //     let answer = (roundToTwo(toDoText/100) * $(this).val())
-        //     $(this).parent().siblings(".val1").children(".val2").text(answer)
-        // })  
+            )
         $("input[name='SMAcheck']").prop("checked", false);
     })
 });
@@ -54,21 +39,7 @@ $(".invest-search2 > .select").click(function(){
             "<td scope='col' class='perc perc1'>" +
             "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
             + "<td scope='col'> <span class='del'> X </span> </td>"
-            //delete added investment
-        ).delegate(".del", "click", function(){
-            $(this).parent().siblings().fadeOut(500, function(){
-                $(this).remove();
-            });
-            $(this).parent().fadeOut(500, function(){
-                $(this).remove();
-            })
-            event.stopPropagation();
-            //calculate value based off %
-        }).delegate(".perc input[type=number]", "keyup", function(){
-            let toDoText = (roundToTwo($('#c2').val()/100));
-            let answer = (roundToTwo(toDoText/100) * $(this).val())
-            $(this).parent().siblings(".val1").children(".val2").text(answer)
-        })       
+        )       
         $("input[name='fundcheck']").prop("checked", false);
     })
 });
@@ -87,18 +58,7 @@ $(".invest-search3 > .select").click(function(){
             "$<span class='val2'> 0 </span></td>" + 
             "<td scope='col' class='perc si'>" +
             "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
-            + "<td scope='col'> <span class='del'> X </span> </td>"  
-            //delete added table         
-        ).delegate(".del", "click", function(){
-                $(this).parent().siblings().fadeOut(500, function(){
-                    $(this).remove();
-                });
-                $(this).parent().fadeOut(500, function(){
-                    $(this).remove();
-                });
-                event.stopPropagation();
-        }
-        // add in % and auto populate $ value of investment.
+            + "<td scope='col'> <span class='del'> X </span> </td>"      
         )
         $("input[name='ASXcheck']").prop("checked", false);
     })
