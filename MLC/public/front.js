@@ -69,27 +69,6 @@ function investMER(){
         $(this).parent().siblings(".MER").children(".MER1").text(roundToTwo(answer));
 })
 }
-//total fee.
-function totalFee(){
-    let toDoText = $('#c2').val(); 
-        var dollars = $('#c2').val()/ 100;  
-	$(toDoText).val("");
-    S22(toDoText)
-    a=0
-    b = (c) => {
-        if(c > 2400){
-            return 2400
-        } else{
-            return c
-        }
-    }
-    $(".totals-table span").each(function(){     
-            a += parseFloat(
-                $(this).text() 
-            )      
-    });
-    $(".total").text(b(a));
-}
 
 //display total balance pretty
 function displayPretty(){ 
@@ -118,16 +97,57 @@ function shareFee(){
     })
 }
 
-function all(){
-    displayPretty();
-    investmentValueperc();
-    investmentValueDollar();
-    cashAccount(); 
-    shareFee()
-    nabOwned();    
-    MERTotal();
-    totalFee();
-};
+//display fees in table
+function feeTotal(){
+    let amount = $('#c2').val()/ 100;
+    let a = amount *.004;
+    let b = (amount-200000) *.0015
+    let c = (amount-500000) *.0003
+    function t1(){
+            if(a > 0 && a < 375) {
+                $(".t1 span").text(375);	
+            } else if(a > 375 && a < 800){
+                $(".t1 span").text(roundToTwo(a));
+            } else{
+                $(".t1 span").text(800)
+            }
+    };
+    function t2(){
+        if(amount > 200000 && amount < 500000){
+            $(".t2 span").text(roundToTwo(b))
+        } else if(amount > 500000) {
+            $(".t2 span").text(450)
+         } else {
+            $(".t2 span").text("0")
+        }};
+    function t3(){
+        if(c> 0 && c < 1149.99){
+            $(".t3 span").text(roundToTwo(c))
+        } else if(c > 1150){
+            $(".t3 span").text(1150) 
+        } else {
+            $(".t3 span").text(0)
+        }}
+        t1();
+        t2();
+        t3();
+    };
+
+// total fee.
+function totalFee(){
+    let a = 0
+    $(".totals-table span").each(function(){
+        a += parseFloat(
+    $(this).text() 
+    )
+});
+    if(a > 2400){
+        $(".total span").text(2400);
+    } else {
+        $(".total span").text(a);
+    }
+    
+}
 
 $(document).on("keyup", "#c2", function(){ 
     displayPretty();
@@ -135,9 +155,11 @@ $(document).on("keyup", "#c2", function(){
     investmentValueDollar();
     cashAccount(); 
     shareFee()
-    nabOwned();    
+    nabOwned(); 
+    investMER();   
     MERTotal();
-    totalFee();	
+    feeTotal();	
+    totalFee();
 });
 // cash account total
 $(document).on("keyup",".perc input[type=number]", function(){ 
@@ -146,13 +168,17 @@ $(document).on("keyup",".perc input[type=number]", function(){
     cashAccount();
     shareFee()
     nabOwned();
-    investMER()
+    investMER();
     MERTotal();
+    feeTotal();
     totalFee();
     // test();
 });
 // Delete
 $(document).on("click", ".del", function(){
+    $(this).parent().fadeOut(500, function(){
+        $(this).remove();
+    });
     $(this).parent().siblings().fadeOut(500, function(){
         $(this).remove();
         investmentValueperc();
@@ -162,38 +188,15 @@ $(document).on("click", ".del", function(){
         nabOwned();
         investMER()
         MERTotal();
+        feeTotal();
         totalFee();
-    });
-    $(this).parent().fadeOut(500, function(){
-        $(this).remove();
     });
         event.stopPropagation();
      }
     
 )
 
-//display fees in table
-function S22(amount){
-    if((amount/100) < 200000){
-        if(amount/100 *.004 < 375){
-            $(".t1 span").text(375);
-        } else {
-            $(".t1 span").text(roundToTwo((amount/100) *.004));	
-    }}
-    else if((amount/100) > 200000 && (amount/100) < 500000){
-        $(".t1 span").text(800);
-        $(".t2 span").text(roundToTwo(((amount/100) - 200000)* .0015));
-    } 
-    else{
-        $(".t1 span").text(800);
-        $(".t2 span").text(450);
-            if(((amount/100) - 500000) * .0003 + 1250 > 2400){
-            $(".t3 span").text(1150)
-            } else{
-                $(".t3 span").text(roundToTwo(((amount/100) - 500000) * .0003));
-            }
-}
-};
+
 
 
 
