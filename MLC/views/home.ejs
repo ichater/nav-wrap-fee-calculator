@@ -4,6 +4,62 @@
     landing page <img class="floatr" src="1540958834956.mlc-logo.png">
 </h1>
 </div>
+<form>
+    <div class="personalDetails">
+        <div>
+            <label> Name</label>
+            <input type="text" placeholder="first name">
+        </div>
+        <div>
+            <label> Surname</label>   
+            <input type="text" placeholder="surname">
+        </div>
+        <div>
+            <label> DOB</label>
+            <input type="date" placeholder="DOB">
+        </div>
+    </div>
+    <div class="accountDetails">
+                <select name="accountType">
+                    <option value="">--Please Select account type</option>
+                    <option value="Super"> Super </option>
+                    <option value="Pension"> Pension </option>
+                    <option value="Investment"> Investment </option>
+                </select>  
+    </div>
+    <div class="adviserFees">
+        <h3>Adviser Service Fee</h3>
+        <p>Woulkd you like to set up an Adviser service fee that your financial
+            adviser's fees which relate to services provided in relation to MLC 
+            Wrap Super Series 2?
+        </p>
+        <p>(a): Adviser Initial Service Fee </p>
+
+            <div>
+                <input type="radio" name="drone" value="huey"
+                        checked>
+                <label for="huey"> No </label>
+            </div>
+            <div>
+                <input type="radio" name="drone" value="dewey">
+                <label for="dewey"> Yes </label>
+            </div>
+    </div>
+        <div class="adviserDetails">
+            <div>
+                <label> Adviser name</label>
+                <input type="text">
+            </div>
+            <div>
+                <label> code</label>   
+                <input type="number" step="1.0" min="1" max="999999">
+            </div>
+            <div>
+                <label> dealer group</label>
+                <input type="text">
+            </div>
+        </div>
+</form>
 <a href="/feecalculator"> To the calculator </a>
 
 <% include partials/footer.ejs%>

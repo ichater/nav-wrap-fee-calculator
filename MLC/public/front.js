@@ -184,7 +184,7 @@ $(document).on("click", ".del", function(){
         investmentValueperc();
         investmentValueDollar();
         cashAccount();
-        shareFee()
+        shareFee();
         nabOwned();
         investMER()
         MERTotal();
