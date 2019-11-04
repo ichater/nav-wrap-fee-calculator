@@ -253,6 +253,3 @@ $(document).on("click", ".del", function(){
 
 
 
-
-
-

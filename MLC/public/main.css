@@ -16,19 +16,13 @@ h1 {
     padding-bottom: 10px;
     font-weight: 800;
 }
-input[type=text] {
+.investSearch{
     background: #bdc3c7;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
      color: white;
  }
 
- input[type=number] {
-    background: #bdc3c7;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-     color: white;
- }
 
 .table {
     border-spacing: 5px;
@@ -83,12 +77,22 @@ h2 {
     display: none;
 }
 
-#tabbed-content .panel1.active{
-    display: block;
-}
-
 #tabbed-content .panel1{
     display: none;
+}
+
+#tabbed-content .panel1.active{
+    display: block;
+    margin-left: 40px
+}
+
+#tabbed-content .panel2{
+    display: none;
+}
+
+#tabbed-content .panel2.active{
+    display: block;
+    margin-left: 40px
 }
 
 .button-md {
@@ -236,7 +240,7 @@ input[type=number]::-webkit-outer-spin-button {
     margin-left: 33px
 }
 .surname{
-    margin-left: 10px
+    margin-left: 13px
 }
 .DOB{
     margin-left: 42px

@@ -22,110 +22,24 @@
 </br>
     <div class="accountDetails">
         <h3>Account type</h3>
-                <select name="accountType">
+                <select name="accountType" class="accountType">
                     <option value="">Please Select account type</option>
                     <option value="Super"> Super </option>
                     <option value="Pension"> Pension </option>
                     <option value="Investment"> Investment </option>
                 </select>  
     </div>
-<!-- Adviser fee details -->
 </br>
-    <div class="adviserFees">
-        <h3>Adviser Service Fee</h3>
-        <p>Woulkd you like to set up an Adviser service fee that your financial
-            adviser's fees which relate to services provided in relation to MLC 
-            Wrap Super Series 2?
-        </p>
-
-            <div>
-                <input type="radio" name="drone" value="huey">
-                <label for="huey"> No </label>
-            </div>
-            <div>
-                <input type="radio" name="drone" value="dewey">
-                <label for="dewey"> Yes </label>
-            </div>
-            <h4>(a): Adviser Initial Service Fee </h4>
-            <div>
-        
-                    <label for="huey"> Initial Fees </label>
-                </div>
-                <div>
-                    <input type="checkbox" name="fee" value="initialFees">
-                    <label for="initialFees"> Dollar based Fee </label>
-                    <span class="dollar1">$<input type="Number"> </span>
-                </div>
-                <div>
-                    <input type="radio" name="fee" value="initialFees">
-                    <label for="initialFees"> Increase my dollar fee by</label>
-                    %<input type="Number"> 
-                    <strong>OR</strong>
-                    <input type="radio" name="fee" value="initialFees">
-                    <label for="initialFees"> CPI per year</label>
-                </div>
-                <strong>AND/OR</strong>
-                <div>
-                    <input type="checkbox" name="feePerc" value="initialFees">
-                    <label for="feePerc"> Percentage based fee </label>
-                    <span class="perc1">%<input type="Number"> </span>
-                    <label for="feePerc"> of my entier balance </label>
-                </div>
-            </br>
-                <p>Have you negotiated an Adviser Service Support Fee arrangement with your financial adviser in relation to your MLC Navigator
-                        Retirement Plan Series 2 account?
-                </p>
-        
-                    <div>
-                        <input type="radio" name="ongoingFee" value="huey">
-                        <label for="huey"> No </label>
-                    </div>
-                    <div>
-                        <input type="radio" name="ongoingFee" value="dewey">
-                        <label for="dewey"> Yes </label>
-                        <h4>(b) Adviser Service Support Fee</h4>
-                        <div>
-                            <input type="checkbox" name="fee" value="initialFees">
-                            <label for="initialFees"> Dollar based Fee </label>
-                            <span class="dollar1">$<input type="Number"> </span>
-                        </div>
-                        <div>
-                            <input type="radio" name="fee" value="initialFees">
-                            <label for="initialFees"> Increase my dollar fee by</label>
-                            %<input type="Number"> 
-                            <strong>OR</strong>
-                            <input type="radio" name="fee" value="initialFees">
-                            <label for="initialFees"> CPI per year</label>
-                        </div>
-                        <strong>AND/OR</strong>
-                        <div>
-                            <input type="checkbox" name="feePerc" value="initialFees">
-                            <label for="feePerc"> Percentage based fee </label>
-                            <span class="perc1">%<input type="Number"> </span>
-                            <label for="feePerc"> of my entier balance </label>
-                        </div>
-                    </div>
-                
-    </div>
-
-
-    <!-- Adviser details -->
+    
+    <% include partials/adviserFee1 %> 
+    <% include partials/adviserFee2 %>
 </br>
-        <div class="adviserDetails">
-            <h3>Adviser details</h3>
-            <div>
-                <label> Adviser name</label>
-                <input type="text" class="aName">
-            </br>
-                <label> code</label>   
-                <input type="number" step="1.0" min="1" max="999999" class="aCode">
-            </br>
-                <label> dealer group</label>
-                <input type="text" class="dGroup">
-            </div>
-        </div>
-        <button>Submit</button>
+    <% include partials/adviserDetails %>
+        <button class="button-md">Submit</button>
 </form>
 <a href="/feecalculator"> To the calculator </a>
 
-<% include partials/footer.ejs%>
+</div>
+<script type="text/javascript" src="front2.js"></script>
+</body>
+</html>
