@@ -5,6 +5,7 @@
 </h1>
 
     <div class="tabs">
+        <button class="button-md" data-target="#details">Personal details</button>
         <button class="button-md" data-target="#main">Main</button>
         <button class="button-md" data-target="#SMA-tab">SMA search</button>
         <button class="button-md" data-target="#Fund-Tab">Fund Search</button>
@@ -13,7 +14,10 @@
 
 </div>
 <div id="tabbed-content">
-<div class="panel active" id="main">
+<div class="panel active" id="details">
+        <% include partials/Accountdetails.ejs %>
+</div>
+<div class="panel" id="main">
 <% include partials/main.ejs %>
 </div>
 <div class="panel" id="SMA-tab">
