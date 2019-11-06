@@ -1,4 +1,4 @@
-$(".info1 span").on("click", function() {
+$(".info1").on("click", function() {
   alert(
     "Investments marked with a # are owned by NAB which means they will not be subject to the .1% P/A fee"
   );

@@ -13,29 +13,39 @@
      <h4>
        Investment breakdown.  
     </h4>
+
+    <table class="table1" class="4nab">             
+            <tr>
+                <th colspan="4" class="totalBalance"> 
+                    Total Balance: $<span>0</span> 
+                </th>
+            </tr> 
+        </table>
     
     <!-- Add and view Shares -->
 
     <table class="table1">
         <thead class="tablehead"> 
-         <th> Listed investments <span class="info2"> # </span> </th>
+            <th> Listed investments <span class="info2 q"> &#63;</span> </th>
         </thead>
     </table>
-    <table class="table1" id="ASXTable1">
-        <tr>
-            <th scope="col"> ASX code </th>
-            <th scope="col"> Name </th>
-            <th scope="col"> Category </th>
-            <th scope="col"> Value </th>
-            <th scope="col" colspan="2"> % </th>
-        </tr>
+    <table class="table1">
+        <tbody id="ASXTable1">
+            <tr>
+                <th scope="col"> ASX code </th>
+                <th scope="col"> Name </th>
+                <th scope="col"> Category </th>
+                <th scope="col"> Value </th>
+                <th scope="col" colspan="2"> % </th>
+            </tr>
+        </tbody>
     </table>
 
     
     <!-- Add and view managed Funds -->
     <table class="table1">     
         <thead colspan="4" class="tablehead"> 
-            <th> Managed Funds <span class="info3"> # </span> </th>
+            <th> Managed Funds <span class="info3 q"> &#63; </span> </th>
         </thead> 
     </table>
     <table class="table1" id="fundTable" class="4nab">             
@@ -43,8 +53,8 @@
             <th scope="col"> APIR Code </th>
             <th scope="col"> Name </th>
             <th scope="col"> MERs </th>
-            <th scope="col" class="info1"> Nab Owned 
-                <span>#</span>
+            <th scope="col"> Nab Owned 
+                <span  class="info1 q">&#63;</span>
             </th>
             <th scope="col"> Value </th>
             <th scope="col" colspan="2"> % </th>
@@ -63,33 +73,26 @@
                 <th scope="col"> APIR Code </th>
                 <th scope="col"> Name </th>
                 <th scope="col"> MERs </th>
-                <th scope="col" class="info1"> Nab Owned 
-                        <span>#</span>
+                <th scope="col"> Nab Owned 
+                        <span  class="info1 q">&#63;</span>
                     </th>
                 <th scope="col"> Value </th>
                 <th scope="col" colspan="2"> % </th>
                 <tr>
             </tr> 
-
- 
         </table>
-    
+    <table class="table1" class="4nab">             
+            <tr>
+                <th colspan="4" class="cashBalance"> 
+                    Cash Account total: $<span> 0</span>
+                </th>
+            </tr> 
+        </table>
     
     
    
     
     </br>
-<div class="totalBalance">
-        Total Balance: $<span>0</span>
-</div>
-
-<div class="cashBalance">
-    Cash Account total: $<span> 0</span>
-</div>
-
-<div class="MERtotal">
-    MER total estimate: $<span> 0</span>
-</div>
 
     <div class="feeRef">
         <h3> Fee breakdown </h3>
@@ -139,6 +142,10 @@
                 <th colspan="2"> Total: </th>       
                 <th class="total"> $<span>0</span> </th>
             </tr>
-            
+            <tr>
+                <th colspan="2"> MER total estimate: </th>       
+                <th class="MERtotal"> $<span>0</span> </th>
+            </tr>
+
         </table>
     </div>

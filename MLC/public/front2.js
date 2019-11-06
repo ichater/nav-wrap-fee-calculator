@@ -38,3 +38,4 @@ function accountVal() {
   var y = document.querySelector(".accountType").options;
   alert(y[x].text);
 }
+
