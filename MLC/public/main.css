@@ -103,6 +103,13 @@ h2 {
   margin-left: 40px;
 }
 
+.active{
+    display: block; 
+}
+.inactive{
+    display: none;
+}
+
 .button-md {
   font-weight: 400;
   font-family: Charlie-Std-SemiBold;

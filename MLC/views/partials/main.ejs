@@ -23,7 +23,7 @@
         </table>
     
     <!-- Add and view Shares -->
-
+<div class="listed inactive">
     <table class="table1">
         <thead class="tablehead"> 
             <th> Listed investments <span class="info2 q"> &#63;</span> </th>
@@ -40,15 +40,18 @@
             </tr>
         </tbody>
     </table>
+</div>
 
     
     <!-- Add and view managed Funds -->
+<div class="funded inactive">
     <table class="table1">     
         <thead colspan="4" class="tablehead"> 
             <th> Managed Funds <span class="info3 q"> &#63; </span> </th>
         </thead> 
     </table>
-    <table class="table1" id="fundTable" class="4nab">             
+    <table class="table1" class="4nab">    
+        <tbody id="fundTable">          
         <tr>
             <th scope="col"> APIR Code </th>
             <th scope="col"> Name </th>
@@ -58,38 +61,44 @@
             </th>
             <th scope="col"> Value </th>
             <th scope="col" colspan="2"> % </th>
-        </tr>  
+        </tr> 
+        </tbody> 
 
     </table>
+</div>
 
         <!-- Add and view SMAs -->
-        <table class="table1">     
-            <thead colspan="4" class="tablehead"> 
-                <th> SMA's </th>
-            </thead> 
-        </table>
-        <table class="table1" id="SMATable" class="4nab">             
-            <tr>
-                <th scope="col"> APIR Code </th>
-                <th scope="col"> Name </th>
-                <th scope="col"> MERs </th>
-                <th scope="col"> Nab Owned 
-                        <span  class="info1 q">&#63;</span>
-                    </th>
-                <th scope="col"> Value </th>
-                <th scope="col" colspan="2"> % </th>
-                <tr>
-            </tr> 
-        </table>
-    <table class="table1" class="4nab">             
-            <tr>
-                <th colspan="4" class="cashBalance"> 
-                    Cash Account total: $<span> 0</span>
+<div class="seperateManage inactive">
+    <table class="table1">     
+        <thead colspan="4" class="tablehead"> 
+            <th> SMA's </th>
+        </thead> 
+    </table>
+    <table class="table1" class="4nab"> 
+        <tbody id="SMATable">           
+        <tr>
+            <th scope="col"> APIR Code </th>
+            <th scope="col"> Name </th>
+            <th scope="col"> MERs </th>
+            <th scope="col"> Nab Owned 
+                    <span  class="info1 q">&#63;</span>
                 </th>
-            </tr> 
-        </table>
-    
-    
+            <th scope="col"> Value </th>
+            <th scope="col" colspan="2"> % </th>
+        </tr> 
+        </tbody>
+    </table>
+    </div>
+    <table class="table1" class="4nab">             
+        <tr>
+            <th colspan="4" class="cashBalance"> 
+                Cash Account total: $<span> 0</span>
+            </th>
+        </tr> 
+    </table>
+
+
+
    
     
     </br>

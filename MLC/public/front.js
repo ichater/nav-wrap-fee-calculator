@@ -4,11 +4,27 @@ function roundToTwo(num) {
 
 // make Table elements invisible if investments not selected.
 
-const ASXTable = document.querySelector("#ASXTable1")
-
-function test(){
-   if(ASXTable.children.length != 1){
-    ASXTable.style.color = "blue"
+function activeTable(){
+  const ASXTable = document.querySelector("#ASXTable1")
+  const listed = document.querySelector(".listed")
+   if(ASXTable.children.length > 1){
+    listed.classList.remove("inactive")
+  } else {
+    listed.classList.add("inactive")
+  }
+  const fundTable = document.querySelector("#fundTable")
+  const funded = document.querySelector(".funded")
+  if(fundTable.children.length > 1){
+    funded.classList.remove("inactive")
+  } else {
+    funded.classList.add("inactive")
+  }
+  const SMATable = document.querySelector("#SMATable")
+  const seperateManage = document.querySelector(".seperateManage")
+   if(SMATable.children.length > 1){
+    seperateManage.classList.remove("inactive")
+  } else {
+    seperateManage.classList.add("inactive")
   }
 }
 
@@ -175,7 +191,7 @@ $(document).on("keyup", "#c2", function() {
   MERTotal();
   feeTotal();
   totalFee();
-  test()
+  activeTable()
 });
 // cash account total
 $(document).on("keyup", ".perc input[type=number]", function() {
@@ -188,12 +204,12 @@ $(document).on("keyup", ".perc input[type=number]", function() {
   MERTotal();
   feeTotal();
   totalFee();
-  test();
+  activeTable();
 });
 // Delete
 $(document).on("click", ".del", function() {
   $(this)
-    .parent()
+    .parent().parent()
     .fadeOut(500, function() {
       $(this).remove();
     });
@@ -211,7 +227,7 @@ $(document).on("click", ".del", function() {
       MERTotal();
       feeTotal();
       totalFee();
-      test()
+      activeTable()
     });
   event.stopPropagation();
 });
@@ -301,6 +317,7 @@ $(".invest-search1 > .select").click(function(){
           )
       $("input[name='SMAcheck']").prop("checked", false);
   })
+  activeTable()
 });
 
 
@@ -324,6 +341,7 @@ $(".invest-search2 > .select").click(function(){
       )       
       $("input[name='fundcheck']").prop("checked", false);
   })
+  activeTable()
 });
 
 
@@ -344,5 +362,5 @@ $(".invest-search3 > .select").click(function(){
       )
       $("input[name='ASXcheck']").prop("checked", false);
   })
-  test()
+  activeTable()
 });
