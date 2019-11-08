@@ -76,4 +76,10 @@ submitDetails.addEventListener("click", function(){
     aName1.textContent += aName
     aCode1.textContent += aCode
     dGroup1.textContent += dGroup
+
+    //make details visible
+    const persDeDisplay = document.querySelector(".persDeDisplay")
+    const faDetDisplay = document.querySelector(".faDetDisplay")
+    persDeDisplay.classList.remove("inactive");
+    faDetDisplay.classList.remove("inactive");
 })

@@ -254,32 +254,13 @@ input[type="number"]::-webkit-outer-spin-button {
   margin: 0;
 }
 
-/* Home Page CSS */
-
-.firstName {
-  margin-left: 33px;
-}
-.surname {
-  margin-left: 13px;
-}
-.DOB {
-  margin-left: 42px;
-}
 .dollar1 {
   margin-left: 57px;
 }
 .perc1 {
   margin-left: 18px;
 }
-.aCode {
-  margin-left: 69px;
-}
-.aName {
-  margin-left: 7px;
-}
-.dGroup {
-  margin-left: 12px;
-}
+
 .subHeaderFee {
   line-height: 25px;
 }
@@ -291,14 +272,20 @@ input[type="number"]::-webkit-outer-spin-button {
     padding: 0px 3px 0px 3px;
     border-radius: 25px;
 }
-.persDeDisplay{
-    border: 2px solid black;
-    width: 40%
+.textGrid{
+    display: grid;
+    grid-template-columns: 40% 40%;
 }
-.faDetDisplay{
-    border: 2px solid black;
-    width: 40%;
-    /* position: relative;
-    left: 440px;
-    bottom: 113px */
+.personalDetails1{
+    width: 30%;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 22% 78%;
 }
+.adviserDetails{
+    width: 45%;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 22% 78%;
+}
+
