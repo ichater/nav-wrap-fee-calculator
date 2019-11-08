@@ -100,5 +100,59 @@
     "APIR": "NUN2679AU",
     "Nab": "#",
     "MER": 0.305
+  },
+  {
+    "Name": "NAB Term Deposit 2 years",
+    "APIR": "",
+    "Nab": "#",
+    "MER": 0
+  },
+  {
+    "Name": "NAB Term Deposit 1 year",
+    "APIR": "",
+    "Nab": "#",
+    "MER": 0
+  },
+  {
+    "Name": "NAB Term Deposit 6 months",
+    "APIR": "",
+    "Nab": "#",
+    "MER": 0
+  },
+  {
+    "Name": "NAB Term Deposit 3 months",
+    "APIR": "",
+    "Nab": "#",
+    "MER": 0
+  },
+  {
+    "Name": "NAB Term Deposit 2 months",
+    "APIR": "",
+    "Nab": "#",
+    "MER": 0
+  },
+  {
+    "Name": "NAB Term Deposit 1 month",
+    "APIR": "",
+    "Nab": "#",
+    "MER": 0
+  },
+  {
+    "Name": "Adelaide Bank Term Deposit 1 year",
+    "APIR": "",
+    "Nab": "",
+    "MER": 0
+  },
+  {
+    "Name": "Adelaide Bank Term Deposit 6 months",
+    "APIR": "",
+    "Nab": "",
+    "MER": 0
+  },
+  {
+    "Name": "Adelaide Bank Term Deposit 3 months",
+    "APIR": "",
+    "Nab": "",
+    "MER": 0
   }
 ]

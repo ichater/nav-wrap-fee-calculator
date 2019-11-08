@@ -33,9 +33,47 @@ feeYes2.addEventListener("click", function() {
 
 //Account type selector
 
-function accountVal() {
-  var x = document.querySelector(".accountType").selectedIndex;
-  var y = document.querySelector(".accountType").options;
-  alert(y[x].text);
-}
+// function accountVal() {
+//   var x = document.querySelector(".accountType").selectedIndex;
+//   var y = document.querySelector(".accountType").options;
+//   alert(y[x].text);
+// }
 
+$(document).ready(function(){
+    $(".accountType").change(function(){
+        let selectedOption = $(".accountType option:selected").text();
+    })
+})
+
+$(".accountType").change(function () {
+    if ($(".accountType").value != "Super") {
+      alert("Not Super")
+    } 
+  });
+
+const submitDetails= document.querySelector(".personalDetails1");
+
+submitDetails.addEventListener("click", function(){
+    //personal details append
+    const firstName = document.querySelector(".firstName").value;
+    const surName = document.querySelector(".surName").value;
+    const DOB = document.querySelector(".DOB").value;
+    let firstName1 = document.querySelector(".firstName1");
+    let surName1 = document.querySelector(".surName1");
+    let DOB1 = document.querySelector(".DOB1");
+
+    firstName1.textContent += firstName
+    surName1.textContent += surName
+    DOB1.textContent += DOB
+    //adviser details append
+    const aName = document.querySelector(".aName").value;
+    const aCode = document.querySelector(".aCode").value;
+    const dGroup = document.querySelector(".dGroup").value;
+    let aName1 = document.querySelector(".aName1");
+    let aCode1 = document.querySelector(".aCode1");
+    let dGroup1 = document.querySelector(".dGroup1");
+
+    aName1.textContent += aName
+    aCode1.textContent += aCode
+    dGroup1.textContent += dGroup
+})

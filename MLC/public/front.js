@@ -96,7 +96,7 @@ function investMER() {
         .children(".MER2")
         .text()
     );
-    let answer = a * b;
+    let answer = a/100 * b;
     $(this)
       .parent()
       .siblings(".MER")

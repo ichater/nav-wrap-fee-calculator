@@ -288,5 +288,17 @@ input[type="number"]::-webkit-outer-spin-button {
     cursor: pointer;
     color: yellow;
     background-color: #017780;
-    
+    padding: 0px 3px 0px 3px;
+    border-radius: 25px;
+}
+.persDeDisplay{
+    border: 2px solid black;
+    width: 40%
+}
+.faDetDisplay{
+    border: 2px solid black;
+    width: 40%;
+    /* position: relative;
+    left: 440px;
+    bottom: 113px */
 }

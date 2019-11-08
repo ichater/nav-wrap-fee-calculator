@@ -13,10 +13,12 @@ $(".info2").on("click", function() {
 
 $(".info3").on("click", function() {
   alert(
-    "Managed funds are investments that are managed for you " +
-      " by a fund manager who will choose investments on your hehalf" +
-      " the value of the fund will depend on the value of said investments." +
-      " Fund managers charge an annual fee which is represented in the" +
-      " MERs column"
+    "A managed fund is one type of 'managed investment scheme'. ... An investment manager then buys and sells shares or other assets on your behalf. You are usually paid income or 'distributions' periodically. The value of your investment will rise or fall with the value of the underlying assets"
+  );
+});
+
+$(".infoInvest").on("click", function() {
+  alert(
+    "Search through the investment tabs to add investments to portfolio"
   );
 });
