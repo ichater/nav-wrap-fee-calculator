@@ -1,3 +1,20 @@
+//tabbed content (different searches)
+const tabs = document.querySelector(".tabs");
+const pannels = document.querySelectorAll(".panel");
+
+tabs.addEventListener("click", function(e) {
+  if (e.target.tagName == "BUTTON") {
+    const targetPanel = document.querySelector(e.target.dataset.target);
+    pannels.forEach(function(panel) {
+      if (panel == targetPanel) {
+        panel.classList.add("active");
+      } else {
+        panel.classList.remove("active");
+      }
+    });
+  }
+});
+
 //Home page adviser details show/not show (NO MORE JQUERY!)
 
 const feeNo1 = document.querySelector(".feeNo1");
@@ -31,29 +48,13 @@ feeYes2.addEventListener("click", function() {
   }
 });
 
-//Account type selector
 
-// function accountVal() {
-//   var x = document.querySelector(".accountType").selectedIndex;
-//   var y = document.querySelector(".accountType").options;
-//   alert(y[x].text);
-// }
 
-$(document).ready(function(){
-    $(".accountType").change(function(){
-        let selectedOption = $(".accountType option:selected").text();
-    })
-})
-
-$(".accountType").change(function () {
-    if ($(".accountType").value != "Super") {
-      alert("Not Super")
-    } 
-  });
-
-const submitDetails= document.querySelector(".personalDetails1");
+const submitDetails= document.querySelector(".submitDetails");
 
 submitDetails.addEventListener("click", function(){
+    
+
     //personal details append
     const firstName = document.querySelector(".firstName").value;
     const surName = document.querySelector(".surName").value;
@@ -82,4 +83,27 @@ submitDetails.addEventListener("click", function(){
     const faDetDisplay = document.querySelector(".faDetDisplay")
     persDeDisplay.classList.remove("inactive");
     faDetDisplay.classList.remove("inactive");
+
+
+    //Adviser fee details
+    const initialFee = document.querySelector(".initialFee")
+    const ongoingFee = document.querySelector(".ongoingFee")
+    
+    
+    if ((feeYes1.checked == true)) {
+        initialFee.classList.remove("inactive");
+    } 
+    
+
+    if ((feeYes2.checked == true)) {
+        ongoingFee.classList.remove("inactive");
+    } 
+
+    // change view to main
+    const details = document.querySelector("#details")
+    const main = document.querySelector("#main")
+    details.classList.remove("active")
+    main.classList.add("active")
+
 })
+

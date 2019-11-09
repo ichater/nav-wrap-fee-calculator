@@ -281,22 +281,22 @@ $(document).ready(function() {
   });
 });
 
-//tabbed content (different searches)
-const tabs = document.querySelector(".tabs");
-const pannels = document.querySelectorAll(".panel");
+// //tabbed content (different searches)
+// const tabs = document.querySelector(".tabs");
+// const pannels = document.querySelectorAll(".panel");
 
-tabs.addEventListener("click", function(e) {
-  if (e.target.tagName == "BUTTON") {
-    const targetPanel = document.querySelector(e.target.dataset.target);
-    pannels.forEach(function(panel) {
-      if (panel == targetPanel) {
-        panel.classList.add("active");
-      } else {
-        panel.classList.remove("active");
-      }
-    });
-  }
-});
+// tabs.addEventListener("click", function(e) {
+//   if (e.target.tagName == "BUTTON") {
+//     const targetPanel = document.querySelector(e.target.dataset.target);
+//     pannels.forEach(function(panel) {
+//       if (panel == targetPanel) {
+//         panel.classList.add("active");
+//       } else {
+//         panel.classList.remove("active");
+//       }
+//     });
+//   }
+// });
 
 $(".invest-search1 > .select").click(function(){
   let result = $("input[name='SMAcheck']:checked");
