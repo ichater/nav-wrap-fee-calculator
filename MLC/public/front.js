@@ -4,30 +4,29 @@ function roundToTwo(num) {
 
 // make Table elements invisible if investments not selected.
 
-function activeTable(){
-  const ASXTable = document.querySelector("#ASXTable1")
-  const listed = document.querySelector(".listed")
-   if(ASXTable.children.length > 1){
-    listed.classList.remove("inactive")
+function activeTable() {
+  const ASXTable = document.querySelector("#ASXTable1");
+  const listed = document.querySelector(".listed");
+  if (ASXTable.children.length > 1) {
+    listed.classList.remove("inactive");
   } else {
-    listed.classList.add("inactive")
+    listed.classList.add("inactive");
   }
-  const fundTable = document.querySelector("#fundTable")
-  const funded = document.querySelector(".funded")
-  if(fundTable.children.length > 1){
-    funded.classList.remove("inactive")
+  const fundTable = document.querySelector("#fundTable");
+  const funded = document.querySelector(".funded");
+  if (fundTable.children.length > 1) {
+    funded.classList.remove("inactive");
   } else {
-    funded.classList.add("inactive")
+    funded.classList.add("inactive");
   }
-  const SMATable = document.querySelector("#SMATable")
-  const seperateManage = document.querySelector(".seperateManage")
-   if(SMATable.children.length > 1){
-    seperateManage.classList.remove("inactive")
+  const SMATable = document.querySelector("#SMATable");
+  const seperateManage = document.querySelector(".seperateManage");
+  if (SMATable.children.length > 1) {
+    seperateManage.classList.remove("inactive");
   } else {
-    seperateManage.classList.add("inactive")
+    seperateManage.classList.add("inactive");
   }
 }
-
 
 function cashAccount() {
   a = 0;
@@ -96,7 +95,7 @@ function investMER() {
         .children(".MER2")
         .text()
     );
-    let answer = a/100 * b;
+    let answer = (a / 100) * b;
     $(this)
       .parent()
       .siblings(".MER")
@@ -191,7 +190,7 @@ $(document).on("keyup", "#c2", function() {
   MERTotal();
   feeTotal();
   totalFee();
-  activeTable()
+  activeTable();
 });
 // cash account total
 $(document).on("keyup", ".perc input[type=number]", function() {
@@ -209,11 +208,6 @@ $(document).on("keyup", ".perc input[type=number]", function() {
 // Delete
 $(document).on("click", ".del", function() {
   $(this)
-    .parent().parent()
-    .fadeOut(500, function() {
-      $(this).remove();
-    });
-  $(this)
     .parent()
     .siblings()
     .fadeOut(500, function() {
@@ -227,7 +221,13 @@ $(document).on("click", ".del", function() {
       MERTotal();
       feeTotal();
       totalFee();
-      activeTable()
+      activeTable();
+    });
+  $(this)
+    .parent()
+    .parent()
+    .fadeOut(500, function() {
+      $(this).remove();
     });
   event.stopPropagation();
 });
@@ -298,69 +298,109 @@ $(document).ready(function() {
 //   }
 // });
 
-$(".invest-search1 > .select").click(function(){
+$(".invest-search1 > .select").click(function() {
   let result = $("input[name='SMAcheck']:checked");
-  result.each(function(){
-      //add investments  
-      $("#SMATable").append(
-          "<tr><td scope='col'>"  + $(this).parent().siblings(".SAPIR").text()+
-          "</td><td scope='col'>" + $(this).parent().siblings(".SMA-name").text() +
-          "</td><td class='MER' scope='col'><span class='MER2'>" 
-          + $(this).parent().siblings(".smer").text() +
-          "</span>($<span class='MER1'>0</span>)" + 
-          "</td> <td class='NBO' scope='col'>" + $(this).parent().siblings(".nabo").text() + 
-          "</td> <td scope='col' class='val1'>" + 
-          "$<span class='val2'>0</span></td>" + 
-          "<td scope='col' class='perc perc1'>" +
-          "<input type=number placeholder='%' min='0' max='99' step='0.01'>  </td>"
-          + "<td scope='col'> <span class='del'> X </span> </td>"  
-          )
-      $("input[name='SMAcheck']").prop("checked", false);
-  })
-  activeTable()
+  result.each(function() {
+    //add investments
+    $("#SMATable").append(
+      "<tr><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".SAPIR")
+          .text() +
+        "</td><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".SMA-name")
+          .text() +
+        "</td><td class='MER' scope='col'><span class='MER2'>" +
+        $(this)
+          .parent()
+          .siblings(".smer")
+          .text() +
+        "</span>($<span class='MER1'>0</span>)" +
+        "</td> <td class='NBO' scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".nabo")
+          .text() +
+        "</td> <td scope='col' class='val1'>" +
+        "$<span class='val2'>0</span></td>" +
+        "<td scope='col' class='perc perc1'>" +
+        "<input type=number placeholder='%' min='0' max='99' step='0.01'>  </td>" +
+        "<td scope='col'> <span class='del'> X </span> </td>"
+    );
+    $("input[name='SMAcheck']").prop("checked", false);
+  });
+  activeTable();
 });
-
 
 //Funds
-$(".invest-search2 > .select").click(function(){
+$(".invest-search2 > .select").click(function() {
   let result = $("input[name='fundcheck']:checked");
-  result.each(function(){
-      //add TR for investment
-      $("#fundTable").append(
-          "<tr><td scope='col'>"  + $(this).parent().siblings(".MFAPIR").text()+
-          "</td><td scope='col'>" + $(this).parent().siblings(".MFname").text() +
-          "</td><td class='MER' scope='col'><span class='MER2'>" 
-          + $(this).parent().siblings(".mer1").text() +
-          "</span>($<span class='MER1'>0</span>)" + 
-          "</td> <td class='NBO' scope='col'>" + $(this).parent().siblings(".nabo1").text() + 
-          "</td> <td scope='col' class='val1'>" + 
-          "$<span class='val2'>0</span></td>" + 
-          "<td scope='col' class='perc perc1'>" +
-          "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
-          + "<td scope='col'> <span class='del'> X </span> </td>"
-      )       
-      $("input[name='fundcheck']").prop("checked", false);
-  })
-  activeTable()
+  result.each(function() {
+    //add TR for investment
+    $("#fundTable").append(
+      "<tr><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".MFAPIR")
+          .text() +
+        "</td><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".MFname")
+          .text() +
+        "</td><td class='MER' scope='col'><span class='MER2'>" +
+        $(this)
+          .parent()
+          .siblings(".mer1")
+          .text() +
+        "</span>($<span class='MER1'>0</span>)" +
+        "</td> <td class='NBO' scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".nabo1")
+          .text() +
+        "</td> <td scope='col' class='val1'>" +
+        "$<span class='val2'>0</span></td>" +
+        "<td scope='col' class='perc perc1'>" +
+        "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>" +
+        "<td scope='col'> <span class='del'> X </span> </td>"
+    );
+    $("input[name='fundcheck']").prop("checked", false);
+  });
+  activeTable();
 });
 
-
 //Shares
-$(".invest-search3 > .select").click(function(){
+$(".invest-search3 > .select").click(function() {
   let result = $("input[name='ASXcheck']:checked");
-  result.each(function(){  
-      //add TR for investment
-      $("#ASXTable1").append(
-          "<tr><td scope='col'>"  + $(this).parent().siblings(".code1").text()+
-          "</td><td scope='col'>" + $(this).parent().siblings(".share-name").text() +
-          "</td><td scope='col'>" + $(this).parent().siblings(".category").text() + 
-          "</td> <td scope='col' class='val1'>" + 
-          "$<span class='val2'> 0 </span></td>" + 
-          "<td scope='col' class='perc si'>" +
-          "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>"
-          + "<td scope='col'> <span class='del'> X </span> </td>"      
-      )
-      $("input[name='ASXcheck']").prop("checked", false);
-  })
-  activeTable()
+  result.each(function() {
+    //add TR for investment
+    $("#ASXTable1").append(
+      "<tr><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".code1")
+          .text() +
+        "</td><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".share-name")
+          .text() +
+        "</td><td scope='col'>" +
+        $(this)
+          .parent()
+          .siblings(".category")
+          .text() +
+        "</td> <td scope='col' class='val1'>" +
+        "$<span class='val2'> 0 </span></td>" +
+        "<td scope='col' class='perc si'>" +
+        "<input type='number' placeholder='%' min='0' max='99' step='0.01'>  </td>" +
+        "<td scope='col'> <span class='del'> X </span> </td>"
+    );
+    $("input[name='ASXcheck']").prop("checked", false);
+  });
+  activeTable();
 });
