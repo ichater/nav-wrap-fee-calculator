@@ -178,6 +178,16 @@ function totalFee() {
     $(".total span").text(a);
   }
 }
+//super admin fee
+function superFee(){
+  a = $("#c2").val() / 100;
+  b = (a/100*.025)
+  if(b < 600){
+    $(".legislationFee .legislationFee1").text(roundToTwo(b *.025));
+  } else {
+    $(".legislationFee .legislationFee1").text(600);
+  }
+}
 
 $(document).on("keyup", "#c2", function() {
   displayPretty();
@@ -191,6 +201,7 @@ $(document).on("keyup", "#c2", function() {
   feeTotal();
   totalFee();
   activeTable();
+  superFee()
 });
 // cash account total
 $(document).on("keyup", ".perc input[type=number]", function() {

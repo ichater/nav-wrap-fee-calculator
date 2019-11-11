@@ -22,3 +22,14 @@ $(".infoInvest").on("click", function() {
     "Search through the investment tabs to add investments to portfolio"
   );
 });
+
+$(".infoSuperFee").on("click", function() {
+  alert(
+    "0.025% pa of your combined super and pension account balances in MLC Wrap Super Series 2 "+
+    "The maximum Super administration fee you may pay "+
+    "is $600 pa. Where you have Family account linking, "+
+    "the maximum Super administration fee will be the "+
+    "lesser of your individual cap or your share of the "+
+    "family linking cap of $600 pa."
+  )
+});

@@ -105,5 +105,30 @@ submitDetails.addEventListener("click", function(){
     details.classList.remove("active")
     main.classList.add("active")
 
+
+    //make visible different account types
+    let sel = document.querySelector(".accountType");
+    let b = document.querySelector(".superDetails")
+    let c = document.querySelector(".pensionDetails")
+    let d = document.querySelector(".investmentDetails")
+    let e = document.querySelector(".legislationFee")
+    function brevity(a1,b1,c1){
+        a1.classList.remove("inactive")
+        b1.classList.add("inactive")
+        c1.classList.add("inactive")
+    }
+    a= sel.options[sel.selectedIndex].text
+        if(a=="Super"){
+            brevity(b, c, d)
+            e.classList.remove("inactive")
+        };
+        if(a=="Pension"){
+            brevity(c, b, d)
+            e.classList.remove("inactive")
+        } 
+        if(a=="Investment"){
+            brevity(d, b, c)
+        } 
+      
 })
 
