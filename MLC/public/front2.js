@@ -100,16 +100,15 @@ submitDetails.addEventListener("click", function() {
 
   //make visible different account types
   let sel = document.querySelector(".accountType");
-  let b = document.querySelectorAll(".superDetails");
-  let c = document.querySelectorAll(".pensionDetails");
-  let d = document.querySelectorAll(".investmentDetails");
+  let b = document.querySelector(".superDetails");
+  let c = document.querySelector(".pensionDetails");
+  let d = document.querySelector(".investmentDetails");
   let e = document.querySelector(".legislationFee");
+
   function brevity(a1, b1, c1) {
-    for (i = 0; i > 2; i++) {
-      a1[i].classList.remove("inactive");
-      b1[i].classList.add("inactive");
-      c1[i].classList.add("inactive");
-    }
+    a1.classList.remove("inactive");
+    b1.classList.add("inactive");
+    c1.classList.add("inactive");
   }
   a = sel.options[sel.selectedIndex].text;
   if (a == "Super") {
@@ -122,5 +121,6 @@ submitDetails.addEventListener("click", function() {
   }
   if (a == "Investment") {
     brevity(d, b, c);
+    e.classList.add("inactive");
   }
 });
