@@ -179,11 +179,11 @@ function totalFee() {
   }
 }
 //super admin fee
-function superFee(){
+function superFee() {
   a = $("#c2").val() / 100;
-  b = (a/100*.025)
-  if(b < 600){
-    $(".legislationFee .legislationFee1").text(roundToTwo(b *.025));
+  b = (a / 100) * 0.025;
+  if (b < 600) {
+    $(".legislationFee .legislationFee1").text(roundToTwo(b * 0.025));
   } else {
     $(".legislationFee .legislationFee1").text(600);
   }
@@ -201,7 +201,7 @@ $(document).on("keyup", "#c2", function() {
   feeTotal();
   totalFee();
   activeTable();
-  superFee()
+  superFee();
 });
 // cash account total
 $(document).on("keyup", ".perc input[type=number]", function() {
@@ -415,3 +415,11 @@ $(".invest-search3 > .select").click(function() {
   });
   activeTable();
 });
+
+let test1 = document.querySelectorAll(".test1");
+
+for (let i = 0; i < test1.length; i++) {
+  test1[i].addEventListener("click", function() {
+    alert("poop");
+  });
+}

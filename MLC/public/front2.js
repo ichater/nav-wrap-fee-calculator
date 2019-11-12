@@ -48,87 +48,79 @@ feeYes2.addEventListener("click", function() {
   }
 });
 
+const submitDetails = document.querySelector(".submitDetails");
 
+submitDetails.addEventListener("click", function() {
+  //personal details append
+  const firstName = document.querySelector(".firstName").value;
+  const surName = document.querySelector(".surName").value;
+  const DOB = document.querySelector(".DOB").value;
+  let firstName1 = document.querySelector(".firstName1");
+  let surName1 = document.querySelector(".surName1");
+  let DOB1 = document.querySelector(".DOB1");
 
-const submitDetails= document.querySelector(".submitDetails");
+  firstName1.textContent += firstName;
+  surName1.textContent += surName;
+  DOB1.textContent += DOB;
+  //adviser details append
+  const aName = document.querySelector(".aName").value;
+  const aCode = document.querySelector(".aCode").value;
+  const dGroup = document.querySelector(".dGroup").value;
+  let aName1 = document.querySelector(".aName1");
+  let aCode1 = document.querySelector(".aCode1");
+  let dGroup1 = document.querySelector(".dGroup1");
 
-submitDetails.addEventListener("click", function(){
-    
+  aName1.textContent += aName;
+  aCode1.textContent += aCode;
+  dGroup1.textContent += dGroup;
 
-    //personal details append
-    const firstName = document.querySelector(".firstName").value;
-    const surName = document.querySelector(".surName").value;
-    const DOB = document.querySelector(".DOB").value;
-    let firstName1 = document.querySelector(".firstName1");
-    let surName1 = document.querySelector(".surName1");
-    let DOB1 = document.querySelector(".DOB1");
+  //make details visible
+  const persDeDisplay = document.querySelector(".persDeDisplay");
+  const faDetDisplay = document.querySelector(".faDetDisplay");
+  persDeDisplay.classList.remove("inactive");
+  faDetDisplay.classList.remove("inactive");
 
-    firstName1.textContent += firstName
-    surName1.textContent += surName
-    DOB1.textContent += DOB
-    //adviser details append
-    const aName = document.querySelector(".aName").value;
-    const aCode = document.querySelector(".aCode").value;
-    const dGroup = document.querySelector(".dGroup").value;
-    let aName1 = document.querySelector(".aName1");
-    let aCode1 = document.querySelector(".aCode1");
-    let dGroup1 = document.querySelector(".dGroup1");
+  //Adviser fee details
+  const initialFee = document.querySelector(".initialFee");
+  const ongoingFee = document.querySelector(".ongoingFee");
 
-    aName1.textContent += aName
-    aCode1.textContent += aCode
-    dGroup1.textContent += dGroup
+  if (feeYes1.checked == true) {
+    initialFee.classList.remove("inactive");
+  }
 
-    //make details visible
-    const persDeDisplay = document.querySelector(".persDeDisplay")
-    const faDetDisplay = document.querySelector(".faDetDisplay")
-    persDeDisplay.classList.remove("inactive");
-    faDetDisplay.classList.remove("inactive");
+  if (feeYes2.checked == true) {
+    ongoingFee.classList.remove("inactive");
+  }
 
+  // change view to main
+  const details = document.querySelector("#details");
+  const main = document.querySelector("#main");
+  details.classList.remove("active");
+  main.classList.add("active");
 
-    //Adviser fee details
-    const initialFee = document.querySelector(".initialFee")
-    const ongoingFee = document.querySelector(".ongoingFee")
-    
-    
-    if ((feeYes1.checked == true)) {
-        initialFee.classList.remove("inactive");
-    } 
-    
-
-    if ((feeYes2.checked == true)) {
-        ongoingFee.classList.remove("inactive");
-    } 
-
-    // change view to main
-    const details = document.querySelector("#details")
-    const main = document.querySelector("#main")
-    details.classList.remove("active")
-    main.classList.add("active")
-
-
-    //make visible different account types
-    let sel = document.querySelector(".accountType");
-    let b = document.querySelector(".superDetails")
-    let c = document.querySelector(".pensionDetails")
-    let d = document.querySelector(".investmentDetails")
-    let e = document.querySelector(".legislationFee")
-    function brevity(a1,b1,c1){
-        a1.classList.remove("inactive")
-        b1.classList.add("inactive")
-        c1.classList.add("inactive")
+  //make visible different account types
+  let sel = document.querySelector(".accountType");
+  let b = document.querySelectorAll(".superDetails");
+  let c = document.querySelectorAll(".pensionDetails");
+  let d = document.querySelectorAll(".investmentDetails");
+  let e = document.querySelector(".legislationFee");
+  function brevity(a1, b1, c1) {
+    for (i = 0; i > 2; i++) {
+      a1[i].classList.remove("inactive");
+      b1[i].classList.add("inactive");
+      c1[i].classList.add("inactive");
     }
-    a= sel.options[sel.selectedIndex].text
-        if(a=="Super"){
-            brevity(b, c, d)
-            e.classList.remove("inactive")
-        };
-        if(a=="Pension"){
-            brevity(c, b, d)
-            e.classList.remove("inactive")
-        } 
-        if(a=="Investment"){
-            brevity(d, b, c)
-        } 
-      
-})
-
+  }
+  a = sel.options[sel.selectedIndex].text;
+  if (a == "Super") {
+    brevity(b, c, d);
+    e.classList.remove("inactive");
+  }
+  if (a == "Pension") {
+    brevity(c, b, d);
+    e.classList.remove("inactive");
+  }
+  if (a == "Investment") {
+    brevity(d, b, c);
+  }
+});
