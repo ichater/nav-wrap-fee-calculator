@@ -1,8 +1,8 @@
-<%/*<div class = "accountHeading">
+<div class = "accountHeading">
     <h3 class="superDetails inactive"> Super Account</h3>
     <h3 class="pensionDetails inactive"> Pension Account</h3>
     <h3 class="investmentDetails inactive"> Tnvestment Account</h3>
-</div> */%>
+</div>
 
 <div class="textGrid"> 
     <div class="persDeDisplay inactive">
@@ -150,66 +150,7 @@
     
     </br>
 
-    <div class="initialFee inactive">
-        Inital fee test
-    </div>
+    
+<% include adviserFeeDisplay %>
 
-    <div class="ongoingFee inactive">
-        ongoing fee test
-    </div>
-
-    <div class="feeRef">
-        <h3> Fee breakdown </h3>
-        <table class="table">
-            <tr>
-                <th> Account Balance </th>
-                <th> Fee (%pa)</th>
-                <th> total </th>
-            </tr>
-            <tr>
-                <th>First $200,000.000</th>
-                <th>0.40 </th>
-                <th class="t1 totals-table">
-                    $<span>0</span> 
-                </th>
-            </tr>
-            <tr>
-                <th>Next $300,000.00</th>
-                <th> 0.15 </th>
-                <th class="t2 totals-table"> 
-                    $<span>0</span>
-                </th>
-            </tr>
-            <tr>
-                <th> Remaining Balance over $500,000 </th>
-                <th> 0.03</th>
-                <th class="t3 totals-table"> 
-                    $<span>0</span>
-                </th>
-            </tr>
-            <tr>
-                <th> Listed Investment </th>
-                <th> 0.15</th>
-                <th class="listedFee totals-table"> 
-                    $<span>0</span>  
-                </th>
-            </tr>
-            <tr>
-                <th> Non-Nab </th>
-                <th> 0.10</th>
-                <th class="nabOT totals-table"> 
-                    $<span>0</span>  
-                </th>
-            </tr>
-            
-            <tr>
-                <th colspan="2"> Total: </th>       
-                <th class="total"> $<span>0</span> </th>
-            </tr>
-            <tr>
-                <th colspan="2"> MER total estimate: </th>       
-                <th class="MERtotal"> $<span>0</span> </th>
-            </tr>
-
-        </table>
-    </div>
+<% include feeTable %>

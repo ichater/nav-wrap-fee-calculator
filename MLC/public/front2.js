@@ -59,9 +59,9 @@ submitDetails.addEventListener("click", function() {
   let surName1 = document.querySelector(".surName1");
   let DOB1 = document.querySelector(".DOB1");
 
-  firstName1.textContent += firstName;
-  surName1.textContent += surName;
-  DOB1.textContent += DOB;
+  firstName1.textContent = firstName;
+  surName1.textContent = surName;
+  DOB1.textContent = DOB;
   //adviser details append
   const aName = document.querySelector(".aName").value;
   const aCode = document.querySelector(".aCode").value;
@@ -70,9 +70,9 @@ submitDetails.addEventListener("click", function() {
   let aCode1 = document.querySelector(".aCode1");
   let dGroup1 = document.querySelector(".dGroup1");
 
-  aName1.textContent += aName;
-  aCode1.textContent += aCode;
-  dGroup1.textContent += dGroup;
+  aName1.textContent = aName;
+  aCode1.textContent = aCode;
+  dGroup1.textContent = dGroup;
 
   //make details visible
   const persDeDisplay = document.querySelector(".persDeDisplay");
@@ -81,16 +81,89 @@ submitDetails.addEventListener("click", function() {
   faDetDisplay.classList.remove("inactive");
 
   //Adviser fee details
+  //initial fees
   const initialFee = document.querySelector(".initialFee");
-  const ongoingFee = document.querySelector(".ongoingFee");
+  const idollarFee = document.querySelector(".idollarFee");
+  let idollarFee1 = document.querySelector(".idollarFee1 span");
+  const idollarFeeVal = document.querySelector(".idollarFeeVal");
+  const feePerc1 = document.querySelector(".feePerc1") 
+  let ipercFee1 = document.querySelector(".ipercFee1 span")
+  const percfeeVal = document.querySelector(".percfeeVal")
+  const AND = document.querySelector(".AND")
+ 
+
 
   if (feeYes1.checked == true) {
     initialFee.classList.remove("inactive");
+  } else{
+    initialFee.classList.add("inactive");
   }
+    
+  if(idollarFee.checked == true){
+    idollarFee1.textContent = idollarFeeVal.value
+    idollarFee1.parentNode.classList.remove("inactive")
+  }
+
+  if(feePerc1.checked == true){
+    ipercFee1.textContent = percfeeVal.value
+    ipercFee1.parentNode.classList.remove("inactive")
+  }
+
+  if(feePerc1.checked == true && idollarFee.checked == true ){   
+    AND.classList.remove("inactive");
+  }
+
+ 
+
+
+  
+  //ongoing fees  
+  const ongoingFee = document.querySelector(".ongoingFee");
+  const odollarFeeVal = document.querySelector(".odollarFeeVal");
+  const odollarFee = document.querySelector(".odollarFee"); 
+  let odollarFee2 = document.querySelector(".odollarFee2 span");
+  let yearlyI = document.querySelector(".yearlyI span");
+  const persIncrease1 = document.querySelector(".persIncrease1");
+  const persIncrease = document.querySelector(".persIncrease"); 
+  const CPI = document.querySelector(".CPI"); 
+  const feePerc2 = document.querySelector(".feePerc2")
+  let ipercFee2 = document.querySelector(".ipercFee2 span");
+  const feePerc2Val = document.querySelector(".feePerc2Val")
+  const AND1 = document.querySelector(".AND1")
+
 
   if (feeYes2.checked == true) {
     ongoingFee.classList.remove("inactive");
+  } else{
+    ongoingFee.classList.add("inactive");
   }
+
+  if(odollarFee.checked == true){
+    odollarFee2.textContent = odollarFeeVal.value
+    odollarFee2.parentNode.classList.remove("inactive");
+  } else {
+    odollarFee2.classList.add("inactive");
+  }
+
+  if(persIncrease.checked == true){
+    yearlyI.textContent = persIncrease1.value + "% increase PA"
+    yearlyI.parentNode.classList.remove("inactive")
+  } 
+  if(CPI.checked == true){
+    yearlyI.textContent = "increased by CPI per year"
+    yearlyI.parentNode.classList.remove("inactive")
+  } 
+
+  if(feePerc2.checked == true){
+    ipercFee2.textContent = feePerc2Val.value
+    ipercFee2.parentNode.classList.remove("inactive")
+  } 
+  if(feePerc2.checked == true && odollarFee.checked == true ){   
+    AND1.classList.remove("inactive");
+  }
+
+
+
 
   // change view to main
   const details = document.querySelector("#details");
@@ -100,16 +173,18 @@ submitDetails.addEventListener("click", function() {
 
   //make visible different account types
   let sel = document.querySelector(".accountType");
-  let b = document.querySelector(".superDetails");
-  let c = document.querySelector(".pensionDetails");
-  let d = document.querySelector(".investmentDetails");
+  let b = document.querySelectorAll(".superDetails");
+  let c = document.querySelectorAll(".pensionDetails");
+  let d = document.querySelectorAll(".investmentDetails");
   let e = document.querySelector(".legislationFee");
 
   function brevity(a1, b1, c1) {
-    a1.classList.remove("inactive");
-    b1.classList.add("inactive");
-    c1.classList.add("inactive");
-  }
+      for(let i=0; i < a1.length; i++){
+        a1[i].classList.remove("inactive");
+        b1[i].classList.add("inactive");
+        c1[i].classList.add("inactive");
+  }}
+
   a = sel.options[sel.selectedIndex].text;
   if (a == "Super") {
     brevity(b, c, d);
