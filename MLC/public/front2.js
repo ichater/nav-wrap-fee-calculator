@@ -51,6 +51,10 @@ feeYes2.addEventListener("click", function() {
 const submitDetails = document.querySelector(".submitDetails");
 
 submitDetails.addEventListener("click", function() {
+
+  const fTable = document.querySelector(".fTable")
+  fTable.classList.remove("inactive");
+
   //personal details append
   const firstName = document.querySelector(".firstName").value;
   const surName = document.querySelector(".surName").value;
@@ -200,7 +204,6 @@ submitDetails.addEventListener("click", function() {
   };
 //Pension details below
 let age = document.querySelector('.age')
-  function submitBday() {
     var Q4A = "";
     var Bdate = document.querySelector('.DOB').value;
     var Bday = +new Date(Bdate);
@@ -208,14 +211,13 @@ let age = document.querySelector('.age')
     // var theBday = document.getElementById('resultBday');
     // theBday.innerHTML = 
     age.textContent = Q4A;
-    if(Q4A < 60){
+    if(a == "Pension" && Q4A < 60){
         alert("Too young! inelligable for pension come back in "
         + (60 - Q4A) + " years!")
     }
-}
-submitBday()
-
-
+    if(a == "Pension"){
+        alert("Please populate Regular Pension Facility details before account value and investment options")
+    }
 });
 
 

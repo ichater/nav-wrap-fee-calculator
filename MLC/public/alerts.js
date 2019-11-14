@@ -25,11 +25,24 @@ $(".infoInvest").on("click", function() {
 
 $(".infoSuperFee").on("click", function() {
   alert(
-    "0.025% pa of your combined super and pension account balances in MLC Wrap Super Series 2 "+
+    "0.025% pa of your super or pension account balance in MLC Wrap Super Series 2 "+
     "The maximum Super administration fee you may pay "+
     "is $600 pa. Where you have Family account linking, "+
     "the maximum Super administration fee will be the "+
     "lesser of your individual cap or your share of the "+
     "family linking cap of $600 pa."
+  )
+});
+
+$(".infocp").on("click", function() {
+  alert(
+    "Cash account minimum for pension accounts is 1% of account balance "
+    + "plus either two upcoming monthly payments or one upcoming payment of any other type"
+  )
+});
+
+$(".infoc").on("click", function() {
+  alert(
+    "Cash account minimum for pension accounts is 1% of account balance."
   )
 });

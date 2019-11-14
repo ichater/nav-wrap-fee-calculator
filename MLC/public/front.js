@@ -34,7 +34,7 @@ function cashAccount() {
   $(".val2").each(function() {
     a += parseFloat($(this).text());
   });
-  $(".cashBalance span").text(roundToTwo(b - a));
+  $(".cashBalance cashNum").text(roundToTwo(b - a));
 }
 //If a MF or SMA is not Nab Owned then fee it at .1%
 function nabOwned() {
@@ -183,7 +183,7 @@ function superFee() {
   a = $("#c2").val() / 100;
   b = (a / 100) * 0.025;
   if (b < 600) {
-    $(".legislationFee .legislationFee1").text(roundToTwo(b * 0.025));
+    $(".legislationFee .legislationFee1").text(roundToTwo(b));
   } else {
     $(".legislationFee .legislationFee1").text(600);
   }
@@ -200,30 +200,146 @@ function minMaxPension(){
   }
   if(b >= 65 && b <= 74){
     $(".pensionMin").text(roundToTwo((a/100)*5))
-    $(".pensionMin").text(5)
+    $(".pensionMinPerc").text(5)
   }
   if(b >= 65 && b <= 79){
     $(".pensionMin").text(roundToTwo((a/100)*6))
-    $(".pensionMin").text(6)
+    $(".pensionMinPerc").text(6)
   }
   if(b >= 80 && b <= 84){
     $(".pensionMin").text(roundToTwo((a/100)*7))
-    $(".pensionMin").text(7)
+    $(".pensionMinPerc").text(7)
   }
   if(b >= 85 && b <= 89){
     $(".pensionMin").text(roundToTwo((a/100)*9))
-    $(".pensionMin").text(9)
+    $(".pensionMinPerc").text(9)
   }
   if(b >= 90 && b <= 94){
     $(".pensionMin").text(roundToTwo((a/100)*11))
-    $(".pensionMin").text(11)
+    $(".pensionMinPerc").text(11)
   }
   if(b >= 95){
     $(".pensionMin").text(roundToTwo((a/100)*14))
-    $(".pensionMin").text(14)
+    $(".pensionMinPerc").text(14)
   }
 }
 
+  let pensionAmount = document.querySelector(".pensionAmount")
+  let pensionFrequency = document.querySelector(".pensionFrequency")
+  let pensionMin = document.querySelector(".pensionMin")
+  let pensionMax = document.querySelector(".pensionMax")
+  let paymentAmount = document.querySelector(".paymentAmount span")
+  let pNominated1 = document.querySelector(".pNominated1")
+  let nominatedInput = document.querySelector(".nominatedInput")
+  let cashBalancePension = document.querySelector(".cashBalancePension span")
+
+function perPaymentAmount(){
+  a = pensionAmount.options[pensionAmount.selectedIndex].text;
+  b = pensionFrequency.options[pensionFrequency.selectedIndex].text;
+  c = "" 
+  d = ""
+  //payment amount dropdown choice
+  if(a == "minimum"){
+    c = pensionMin.textContent
+    pNominated1.classList.add("inactive")
+  }
+  if(a == "nominated"){
+    pNominated1.classList.remove("inactive")
+    c = $(".nominatedInput").val()
+  }
+  if(a == "maximum"){
+    c = pensionMax.textContent
+    // alert(c)
+    pNominated1.classList.add("inactive")
+  }
+  //payment frequency dropdown choice
+  if(b == "monthly"){
+    d = 12
+  }
+  if(b == "Quarterly"){
+    d = 4
+  }
+  if(b == "Half-yearly"){
+    d = 2
+  }
+  if(b == "Yearly"){
+    d = 1
+  }
+
+  paymentAmount.textContent = (roundToTwo(c / d))
+  
+  // error when nominating more than min/max
+  e = parseFloat(pensionMax.textContent)
+  f = parseFloat(pensionMin.textContent)
+  if(nominatedInput.value > e){
+    console.log("unable to nominate higher than maximum")
+  } 
+  if(nominatedInput.value < f){
+    pNominated1.setAttribute("style", "background:red;")
+  } else {
+    pNominated1.setAttribute("style", "background:none;")
+  }
+  // function cashAccountPension(){
+  //   a = 0;
+  //   be = $("#c2").val() / 100;
+  //   pensionCashMin = "";
+  //   $(".val2").each(function() {
+  //     a += parseFloat($(this).text());
+  //   });
+    
+  //   if(b == "monthly"){
+  //     pensionCashMin += (parseFloat(paymentAmount.textContent) *2);
+  //   } else {
+  //     pensionCashMin += parseFloat(paymentAmount.textContent)
+  //   }
+
+  //   $(".cashBalancePension1").text(roundToTwo(be - a))
+  //   $(".cashBalancePensionMin").text(a3)
+  // }
+ 
+};
+function cashAccountPension(){
+  a = 0;
+  b = pensionFrequency.options[pensionFrequency.selectedIndex].text;
+  be = $("#c2").val() / 100;
+  pensionCashMin = 0;
+  $(".val2").each(function() {
+    a += parseFloat($(this).text());
+  });
+  
+  if(b == "monthly"){
+    pensionCashMin = (parseFloat(paymentAmount.textContent) *2);
+  } else {
+    pensionCashMin = parseFloat(paymentAmount.textContent)
+  }
+  //per pension amount plus minimum of 1%
+  a1 = pensionCashMin + (be/100) 
+  $(".cashBalancePension1").text(roundToTwo(be - a))
+  $(".cashBalancePensionMin").text(a1)
+}
+
+
+$(document).on("keyup", ".nominatedInput", function(){
+  minMaxPension();
+  perPaymentAmount();
+  cashAccountPension();
+})
+
+$(document).on("change", ".pensionAmount", function(){
+  minMaxPension();
+  perPaymentAmount();
+  cashAccountPension();
+})
+
+$(document).on("change", ".pensionFrequency", function(){
+  minMaxPension();
+  perPaymentAmount();
+  cashAccountPension();
+})
+
+$(document).on("click", ".submitDetails", function(){
+  minMaxPension()
+})
 
 $(document).on("keyup", "#c2", function() {
   displayPretty();
@@ -239,6 +355,9 @@ $(document).on("keyup", "#c2", function() {
   activeTable();
   superFee();
   minMaxPension();
+  perPaymentAmount();
+  cashAccountPension();
+ 
 });
 // cash account total
 $(document).on("keyup", ".perc input[type=number]", function() {
@@ -252,6 +371,8 @@ $(document).on("keyup", ".perc input[type=number]", function() {
   feeTotal();
   totalFee();
   activeTable();
+  cashAccountPension();
+  cashAccountPension();
 });
 // Delete
 $(document).on("click", ".del", function() {
@@ -270,6 +391,7 @@ $(document).on("click", ".del", function() {
       feeTotal();
       totalFee();
       activeTable();
+      cashAccountPension();
     });
   $(this)
     .parent()

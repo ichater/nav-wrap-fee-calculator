@@ -1,8 +1,10 @@
-    <div class="pensionDetails">
+    <div class="pensionDetails inactive">
         <table class="table1" class="4nab">             
             <tr>
-                <th colspan="4" class="cashBalance"> 
-                    Cash Account total: $<span> 0</span>
+                <th colspan="4" class="cashBalancePension"> 
+                    Cash Account total: $<span class="cashBalancePension1"> 0</span> 
+                    (min: $<span class="cashBalancePensionMin"> 0</span>)
+                    <span  class="infocp q">&#63;</span>
                 </th>
             </tr> 
         </table>
@@ -14,7 +16,7 @@
                 <tbody>
                     <tr>
                         <th> Age: </th>
-                        <th class="age"> 62 </th>
+                        <th class="age"> 65 </th>
                     </tr>
                     <tr>
                         <th> Minimum Pension 
@@ -34,9 +36,9 @@
                     <option value="nominated"> nominated </option>
                     <option value="maximum"> maximum </option>
                 </select> 
-                 <div class="pNominated">
+                 <div class="pNominated1 inactive">
                     <label> Nominated amount PA $:</label>
-                    <input type=number style="height: 1.2em">
+                    <input type=number style="height: 1.2em" class="nominatedInput">
                 </div>
                 <select name="pensionFrequency" class="pensionFrequency" style="width: 40%">
                     <option value="selectAccount">Choose payment frequency</option>
@@ -59,24 +61,27 @@
         <table class="table1" class="4nab">             
             <tr>
                 <th colspan="4" class="cashBalance"> 
-                    Cash Account total: $<span> 0</span>
+                    Cash Account total: $<span class="cashNum"> 0</span>
+                    <span  class="infoc q">&#63;</span>
                 </th>
             </tr> 
         </table>
-        Super test
     </div>
+
     <div class="investmentDetails inactive">
         <table class="table1" class="4nab">             
             <tr>
                 <th colspan="4" class="cashBalance"> 
-                    Cash Account total: $<span> 0</span>
+                    Cash Account total: $<span class="cashNum"> 0</span>
+                    <span  class="infoc q">&#63;</span>
                 </th>
             </tr> 
         </table>
     </div>
-<div class="legislationFee inactive">
-    Super administration Fee: $<span class="legislationFee1">0 </span> 
-    <span class="infoSuperFee q"> &#63;</span>
-</div>
+
+     <!--<div class="legislationFee">
+         Super administration Fee: $<span class="legislationFee1">0 </span> 
+         <span class="infoSuperFee q"> &#63;</span>
+     </div>-->
     
     
