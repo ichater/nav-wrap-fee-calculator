@@ -197,5 +197,25 @@ submitDetails.addEventListener("click", function() {
   if (a == "Investment") {
     brevity(d, b, c);
     e.classList.add("inactive");
-  }
+  };
+//Pension details below
+let age = document.querySelector('.age')
+  function submitBday() {
+    var Q4A = "";
+    var Bdate = document.querySelector('.DOB').value;
+    var Bday = +new Date(Bdate);
+    Q4A = ~~ ((Date.now() - Bday) / (31557600000));
+    // var theBday = document.getElementById('resultBday');
+    // theBday.innerHTML = 
+    age.textContent = Q4A;
+    if(Q4A < 60){
+        alert("Too young! inelligable for pension come back in "
+        + (60 - Q4A) + " years!")
+    }
+}
+submitBday()
+
+
 });
+
+

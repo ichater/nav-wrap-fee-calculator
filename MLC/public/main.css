@@ -289,3 +289,21 @@ input[type="number"]::-webkit-outer-spin-button {
     grid-template-columns: 22% 78%;
 }
 
+.pensionDetails1{
+    margin-top:25px;
+    border: 1px solid black;
+    width: 50%;
+    float: left;
+}
+.pNominated{
+    margin-top:25px;
+    display: grid;
+    grid-template-columns: 33% 30%
+}
+.pensionFrequency{
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+.pensionAmount{
+    margin-top: 15px;
+}

@@ -188,6 +188,42 @@ function superFee() {
     $(".legislationFee .legislationFee1").text(600);
   }
 }
+//pension min and max
+function minMaxPension(){
+  a = $("#c2").val() / 100;
+  b = $(".age").text()
+  $(".pensionMax").text(a)
+//minimum pension calc
+  if(b < 65){
+    $(".pensionMin").text(roundToTwo((a/100)*4))
+    $(".pensionMinPerc").text(4)
+  }
+  if(b >= 65 && b <= 74){
+    $(".pensionMin").text(roundToTwo((a/100)*5))
+    $(".pensionMin").text(5)
+  }
+  if(b >= 65 && b <= 79){
+    $(".pensionMin").text(roundToTwo((a/100)*6))
+    $(".pensionMin").text(6)
+  }
+  if(b >= 80 && b <= 84){
+    $(".pensionMin").text(roundToTwo((a/100)*7))
+    $(".pensionMin").text(7)
+  }
+  if(b >= 85 && b <= 89){
+    $(".pensionMin").text(roundToTwo((a/100)*9))
+    $(".pensionMin").text(9)
+  }
+  if(b >= 90 && b <= 94){
+    $(".pensionMin").text(roundToTwo((a/100)*11))
+    $(".pensionMin").text(11)
+  }
+  if(b >= 95){
+    $(".pensionMin").text(roundToTwo((a/100)*14))
+    $(".pensionMin").text(14)
+  }
+}
+
 
 $(document).on("keyup", "#c2", function() {
   displayPretty();
@@ -202,6 +238,7 @@ $(document).on("keyup", "#c2", function() {
   totalFee();
   activeTable();
   superFee();
+  minMaxPension();
 });
 // cash account total
 $(document).on("keyup", ".perc input[type=number]", function() {
