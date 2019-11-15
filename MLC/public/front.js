@@ -271,31 +271,16 @@ function perPaymentAmount(){
   // error when nominating more than min/max
   e = parseFloat(pensionMax.textContent)
   f = parseFloat(pensionMin.textContent)
-  if(nominatedInput.value > e){
-    console.log("unable to nominate higher than maximum")
+  let warningP = document.querySelector(".warningP")
+  let nominatedInput = document.querySelector(".nominatedInput")
+  if(nominatedInput.value > e || nominatedInput.value < f){
+    nominatedInput.setAttribute("style", "background:red; height: 1.2em")
+    warningP.classList.remove("inactive")
   } 
-  if(nominatedInput.value < f){
-    pNominated1.setAttribute("style", "background:red;")
-  } else {
-    pNominated1.setAttribute("style", "background:none;")
+  if(nominatedInput.value > f && nominatedInput.value < e){
+    nominatedInput.setAttribute("style", "background:none; height: 1.2em")
+    warningP.classList.add("inactive")
   }
-  // function cashAccountPension(){
-  //   a = 0;
-  //   be = $("#c2").val() / 100;
-  //   pensionCashMin = "";
-  //   $(".val2").each(function() {
-  //     a += parseFloat($(this).text());
-  //   });
-    
-  //   if(b == "monthly"){
-  //     pensionCashMin += (parseFloat(paymentAmount.textContent) *2);
-  //   } else {
-  //     pensionCashMin += parseFloat(paymentAmount.textContent)
-  //   }
-
-  //   $(".cashBalancePension1").text(roundToTwo(be - a))
-  //   $(".cashBalancePensionMin").text(a3)
-  // }
  
 };
 function cashAccountPension(){

@@ -25,16 +25,6 @@ app.get("/test", function(req, res) {
   res.render("test", [{ ASX, ASX }, { SMA: SMA }, { MF: MF }]);
 });
 
-app.get("/asx", function(req, res) {
-  ASX = require("./public/Data/NavShares1.json");
-  MF = require("./public/Data/NAVMFs.json");
-  SMA = require("./public/Data/SMA.json");
-  res.render("./partials/ASXsearch", [{ ASX, ASX }, { SMA: SMA }, { MF: MF }]);
-});
-
-app.post("/member", function(req, res) {
-  res.render("hello world");
-});
 
 app.listen(3000, function() {
   console.log("listening on port 3000");

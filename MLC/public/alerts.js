@@ -46,3 +46,13 @@ $(".infoc").on("click", function() {
     "Cash account minimum for pension accounts is 1% of account balance."
   )
 });
+
+$(".startHere").on("click", function() {
+  alert(
+    "Fill in details below and click submit when finished."
+  )
+});
+
+$(".warningP").on("click", function(){
+  alert("Nominated amount must be higher than the minimum but lower than the maximum pension")
+})
