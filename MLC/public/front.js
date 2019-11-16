@@ -12,6 +12,7 @@ function activeTable() {
   } else {
     listed.classList.add("inactive");
   }
+  
   const fundTable = document.querySelector("#fundTable");
   const funded = document.querySelector(".funded");
   if (fundTable.children.length > 1) {
@@ -19,6 +20,7 @@ function activeTable() {
   } else {
     funded.classList.add("inactive");
   }
+  
   const SMATable = document.querySelector("#SMATable");
   const seperateManage = document.querySelector(".seperateManage");
   if (SMATable.children.length > 1) {
@@ -26,6 +28,7 @@ function activeTable() {
   } else {
     seperateManage.classList.add("inactive");
   }
+  console.log(ASXTable.children.length , fundTable.children.length , SMATable.children.length)
 }
 
 function cashAccount() {
@@ -286,6 +289,7 @@ function perPaymentAmount(){
 function cashAccountPension(){
   a = 0;
   b = pensionFrequency.options[pensionFrequency.selectedIndex].text;
+  b1 = pensionAmount.options[pensionAmount.selectedIndex].text;
   be = $("#c2").val() / 100;
   pensionCashMin = 0;
   $(".val2").each(function() {
@@ -300,8 +304,28 @@ function cashAccountPension(){
   //per pension amount plus minimum of 1%
   a1 = pensionCashMin + (be/100) 
   $(".cashBalancePension1").text(roundToTwo(be - a))
-  $(".cashBalancePensionMin").text(a1)
+  
+  //Cash account error handling
+
+  //Min never higher than account balance
+  if(a1 > (be - a) && b == "Yearly" && b1 == "maximum"){
+    $(".cashBalancePensionMin").text(be - a)
+  } else{
+    $(".cashBalancePensionMin").text(a1)
+  }
+  //cash account lower than minimum error
+  if((be - a) < a1){
+    alert("Cash account is below the minimum required, Either adjust pension payments "
+    + "or change investment allocation.")
+  }
 }
+
+$(".pensionFrequency").on("click", function(){
+  a = pensionAmount.options[pensionAmount.selectedIndex].text;
+  if(a == nominated){
+    alert("Please populate account value before pension amount")
+  }
+})
 
 
 $(document).on("keyup", ".nominatedInput", function(){
@@ -357,13 +381,18 @@ $(document).on("keyup", ".perc input[type=number]", function() {
   totalFee();
   activeTable();
   cashAccountPension();
-  cashAccountPension();
 });
 // Delete
 $(document).on("click", ".del", function() {
   $(this)
     .parent()
     .siblings()
+    .fadeOut(500, function() {
+      $(this).remove();
+    });
+  $(this)
+    .parent()
+    .parent()
     .fadeOut(500, function() {
       $(this).remove();
       investmentValueperc();
@@ -378,12 +407,7 @@ $(document).on("click", ".del", function() {
       activeTable();
       cashAccountPension();
     });
-  $(this)
-    .parent()
-    .parent()
-    .fadeOut(500, function() {
-      $(this).remove();
-    });
+    
   event.stopPropagation();
 });
 

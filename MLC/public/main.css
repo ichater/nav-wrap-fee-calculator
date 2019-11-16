@@ -1,3 +1,4 @@
+
 .container {
   overflow: hidden;
 }
@@ -290,6 +291,7 @@ input[type="number"]::-webkit-outer-spin-button {
     border: 1px solid black;
     width: 50%;
     float: left;
+    background: #EEEEEE
 }
 
 /* .legislationFee{
@@ -298,26 +300,50 @@ input[type="number"]::-webkit-outer-spin-button {
     width: 50%;
     float: left;
 } */
+
+.pensionDetails1 h4{
+    background: #017780;
+    color: white;
+    border: 1px solid #aaaaaa;
+}
 .initialFee{
     margin-top:25px;
     border: 1px solid black;
-    width: 51%;
+    width: 35%;
     float: left;
+    background: #EEEEEE;
 }
 .ongoingFee{
     margin-top:25px;
     border: 1px solid black;
-    width: 51%;
+    width: 35%;
     float: left;
+    background: #EEEEEE;
 }
 .feeRef {
     float: right;
-    width: 40%;
+    width: 41%;
+    background: #EEEEEE;
+    border: 1px solid #aaaaaa;
   }
+  
+.feeRef th{
+      border-bottom: 1px solid #aaaaaa;
+      
+  }
+
+.faHeader{
+    background: #017780;
+    color: white;
+    /* width: 50%; */
+    border: 1px solid #aaaaaa;
+}
+
   .feeRef h3{
-      border: 1px solid black;
+      border: 1px solid #aaaaaa;;
       padding-bottom: 2px;
       margin-bottom: 0px
+    
   }
 .pNominated1{
     margin-top:25px;
@@ -332,3 +358,17 @@ input[type="number"]::-webkit-outer-spin-button {
 .danger{
     background: red;
 }
+
+.container{
+    border: 3px solid black;
+    width: 80%;
+    margin: auto;
+    padding: 0% 1%;
+    background-color: white
+    /* background-image: url("https://fsb.zobj.net/crop.php?r=oqzw8R1mfqPW-34vsbsUCR62Zf_m165yXgqj5Z__tMcvEk-zi57BZf6F33ZlZmi0DrQQQSo019nczhQsDicDBnV6sp-4sH_gafvg7_u5xVmsIJnc8xUctSKpO2mddGqpIE9CgrcdVjLLr1Ne"); */
+}
+/* .body1{
+    background: #E0EAFC; 
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC); 
+} */

@@ -25,25 +25,25 @@ const panel2 = document.querySelector(".panel2");
 const panel1 = document.querySelector(".panel1");
 
 feeNo1.addEventListener("click", function() {
-  if ((feeNo1.checked = true)) {
+  if (feeNo1.checked = true) {
     panel2.classList.remove("active");
   }
 });
 
 feeYes1.addEventListener("click", function() {
-  if ((feeYes1.checked = true)) {
+  if (feeYes1.checked = true) {
     panel2.classList.add("active");
   }
 });
 
 feeNo2.addEventListener("click", function() {
-  if ((feeNo2.checked = true)) {
+  if (feeNo2.checked = true) {
     panel1.classList.remove("active");
   }
 });
 
 feeYes2.addEventListener("click", function() {
-  if ((feeYes2.checked = true)) {
+  if (feeYes2.checked = true) {
     panel1.classList.add("active");
   }
 });
@@ -187,7 +187,7 @@ submitDetails.addEventListener("click", function() {
         a1[i].classList.remove("inactive");
         b1[i].classList.add("inactive");
         c1[i].classList.add("inactive");
-  }}
+  }};
 
   a = sel.options[sel.selectedIndex].text;
   if (a == "Super") {
@@ -219,5 +219,9 @@ let age = document.querySelector('.age')
         alert("Please populate Regular Pension Facility details before account value and investment options")
     }
 });
+
+
+
+
 
 
