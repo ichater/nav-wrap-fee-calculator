@@ -2,15 +2,13 @@
 const tabs = document.querySelector(".tabs");
 const pannels = document.querySelectorAll(".panel");
 
-tabs.addEventListener("click", function(e) {
+tabs.addEventListener("click", function (e) {
   if (e.target.tagName == "BUTTON") {
     const targetPanel = document.querySelector(e.target.dataset.target);
-    pannels.forEach(function(panel) {
-      if (panel == targetPanel) {
-        panel.classList.add("active");
-      } else {
-        panel.classList.remove("active");
-      }
+    pannels.forEach(function (panel) {
+      panel == targetPanel
+        ? panel.classList.add("active")
+        : panel.classList.remove("active");
     });
   }
 });
@@ -24,35 +22,32 @@ const feeYes2 = document.querySelector(".feeYes2");
 const panel2 = document.querySelector(".panel2");
 const panel1 = document.querySelector(".panel1");
 
-feeNo1.addEventListener("click", function() {
-  if (feeNo1.checked = true) {
-    panel2.classList.remove("active");
-  }
+feeNo1.addEventListener("click", function () {
+  feeNo1.checked ? panel2.classList.remove("active") : null;
 });
 
-feeYes1.addEventListener("click", function() {
-  if (feeYes1.checked = true) {
+feeYes1.addEventListener("click", function () {
+  if ((feeYes1.checked = true)) {
     panel2.classList.add("active");
   }
 });
 
-feeNo2.addEventListener("click", function() {
-  if (feeNo2.checked = true) {
+feeNo2.addEventListener("click", function () {
+  if ((feeNo2.checked = true)) {
     panel1.classList.remove("active");
   }
 });
 
-feeYes2.addEventListener("click", function() {
-  if (feeYes2.checked = true) {
+feeYes2.addEventListener("click", function () {
+  if ((feeYes2.checked = true)) {
     panel1.classList.add("active");
   }
 });
 
 const submitDetails = document.querySelector(".submitDetails");
 
-submitDetails.addEventListener("click", function() {
-
-  const fTable = document.querySelector(".fTable")
+submitDetails.addEventListener("click", function () {
+  const fTable = document.querySelector(".fTable");
   fTable.classList.remove("inactive");
 
   //personal details append
@@ -90,84 +85,72 @@ submitDetails.addEventListener("click", function() {
   const idollarFee = document.querySelector(".idollarFee");
   let idollarFee1 = document.querySelector(".idollarFee1 span");
   const idollarFeeVal = document.querySelector(".idollarFeeVal");
-  const feePerc1 = document.querySelector(".feePerc1") 
-  let ipercFee1 = document.querySelector(".ipercFee1 span")
-  const percfeeVal = document.querySelector(".percfeeVal")
-  const AND = document.querySelector(".AND")
- 
+  const feePerc1 = document.querySelector(".feePerc1");
+  let ipercFee1 = document.querySelector(".ipercFee1 span");
+  const percfeeVal = document.querySelector(".percfeeVal");
+  const AND = document.querySelector(".AND");
 
+  feeYes1.checked
+    ? initialFee.classList.remove("inactive")
+    : initialFee.classList.add("inactive");
 
-  if (feeYes1.checked == true) {
-    initialFee.classList.remove("inactive");
-  } else{
-    initialFee.classList.add("inactive");
-  }
-    
-  if(idollarFee.checked == true){
-    idollarFee1.textContent = idollarFeeVal.value
-    idollarFee1.parentNode.classList.remove("inactive")
+  if (idollarFee.checked == true) {
+    idollarFee1.textContent = idollarFeeVal.value;
+    idollarFee1.parentNode.classList.remove("inactive");
   }
 
-  if(feePerc1.checked == true){
-    ipercFee1.textContent = percfeeVal.value
-    ipercFee1.parentNode.classList.remove("inactive")
+  if (feePerc1.checked == true) {
+    ipercFee1.textContent = percfeeVal.value;
+    ipercFee1.parentNode.classList.remove("inactive");
   }
 
-  if(feePerc1.checked == true && idollarFee.checked == true ){   
-    AND.classList.remove("inactive");
-  }
+  feePerc1.checked && idollarFee.checked
+    ? AND.classList.remove("inactive")
+    : null;
 
- 
-
-
-  
-  //ongoing fees  
+  //ongoing fees
   const ongoingFee = document.querySelector(".ongoingFee");
   const odollarFeeVal = document.querySelector(".odollarFeeVal");
-  const odollarFee = document.querySelector(".odollarFee"); 
+  const odollarFee = document.querySelector(".odollarFee");
   let odollarFee2 = document.querySelector(".odollarFee2 span");
   let yearlyI = document.querySelector(".yearlyI span");
   const persIncrease1 = document.querySelector(".persIncrease1");
-  const persIncrease = document.querySelector(".persIncrease"); 
-  const CPI = document.querySelector(".CPI"); 
-  const feePerc2 = document.querySelector(".feePerc2")
+  const persIncrease = document.querySelector(".persIncrease");
+  const CPI = document.querySelector(".CPI");
+  const feePerc2 = document.querySelector(".feePerc2");
   let ipercFee2 = document.querySelector(".ipercFee2 span");
-  const feePerc2Val = document.querySelector(".feePerc2Val")
-  const AND1 = document.querySelector(".AND1")
-
+  const feePerc2Val = document.querySelector(".feePerc2Val");
+  const AND1 = document.querySelector(".AND1");
 
   if (feeYes2.checked == true) {
     ongoingFee.classList.remove("inactive");
-  } else{
+  } else {
     ongoingFee.classList.add("inactive");
   }
 
-  if(odollarFee.checked == true){
-    odollarFee2.textContent = odollarFeeVal.value
+  if (odollarFee.checked == true) {
+    odollarFee2.textContent = odollarFeeVal.value;
     odollarFee2.parentNode.classList.remove("inactive");
   } else {
     odollarFee2.classList.add("inactive");
   }
 
-  if(persIncrease.checked == true){
-    yearlyI.textContent = persIncrease1.value + "% increase PA"
-    yearlyI.parentNode.classList.remove("inactive")
-  } 
-  if(CPI.checked == true){
-    yearlyI.textContent = "increased by CPI per year"
-    yearlyI.parentNode.classList.remove("inactive")
-  } 
-
-  if(feePerc2.checked == true){
-    ipercFee2.textContent = feePerc2Val.value
-    ipercFee2.parentNode.classList.remove("inactive")
-  } 
-  if(feePerc2.checked == true && odollarFee.checked == true ){   
-    AND1.classList.remove("inactive");
+  if (persIncrease.checked == true) {
+    yearlyI.textContent = persIncrease1.value + "% increase PA";
+    yearlyI.parentNode.classList.remove("inactive");
+  }
+  if (CPI.checked == true) {
+    yearlyI.textContent = "increased by CPI per year";
+    yearlyI.parentNode.classList.remove("inactive");
   }
 
-
-
+  if (feePerc2.checked == true) {
+    ipercFee2.textContent = feePerc2Val.value;
+    ipercFee2.parentNode.classList.remove("inactive");
+  }
+  if (feePerc2.checked == true && odollarFee.checked == true) {
+    AND1.classList.remove("inactive");
+  }
 
   // change view to main
   const details = document.querySelector("#details");
@@ -183,11 +166,12 @@ submitDetails.addEventListener("click", function() {
   let e = document.querySelector(".legislationFee");
 
   function brevity(a1, b1, c1) {
-      for(let i=0; i < a1.length; i++){
-        a1[i].classList.remove("inactive");
-        b1[i].classList.add("inactive");
-        c1[i].classList.add("inactive");
-  }};
+    for (let i = 0; i < a1.length; i++) {
+      a1[i].classList.remove("inactive");
+      b1[i].classList.add("inactive");
+      c1[i].classList.add("inactive");
+    }
+  }
 
   a = sel.options[sel.selectedIndex].text;
   if (a == "Super") {
@@ -201,27 +185,26 @@ submitDetails.addEventListener("click", function() {
   if (a == "Investment") {
     brevity(d, b, c);
     e.classList.add("inactive");
-  };
-//Pension details below
-let age = document.querySelector('.age')
-    var Q4A = "";
-    var Bdate = document.querySelector('.DOB').value;
-    var Bday = +new Date(Bdate);
-    Q4A = ~~ ((Date.now() - Bday) / (31557600000));
-    // var theBday = document.getElementById('resultBday');
-    // theBday.innerHTML = 
-    age.textContent = Q4A;
-    if(a == "Pension" && Q4A < 60){
-        alert("Too young! inelligable for pension come back in "
-        + (60 - Q4A) + " years!")
-    }
-    if(a == "Pension"){
-        alert("Please populate Regular Pension Facility details before account value and investment options")
-    }
+  }
+  //Pension details below
+  let age = document.querySelector(".age");
+  var Q4A = "";
+  var Bdate = document.querySelector(".DOB").value;
+  var Bday = +new Date(Bdate);
+  Q4A = ~~((Date.now() - Bday) / 31557600000);
+  // var theBday = document.getElementById('resultBday');
+  // theBday.innerHTML =
+  age.textContent = Q4A;
+  if (a == "Pension" && Q4A < 60) {
+    alert(
+      "Too young! inelligable for pension come back in " +
+        (60 - Q4A) +
+        " years!"
+    );
+  }
+  if (a == "Pension") {
+    alert(
+      "Please populate Regular Pension Facility details before account value and investment options"
+    );
+  }
 });
-
-
-
-
-
-
